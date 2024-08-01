@@ -1,3 +1,2 @@
-#extm3u
-#EXTINF:-1  tvg-logo="cctv1.png",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+央视,#genre#
+重庆卫视,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cqws8m/8000000/mnf.m3u8
