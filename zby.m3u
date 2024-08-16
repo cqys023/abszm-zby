@@ -1,2 +1,27 @@
-#EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1 综合
-http://tv6.blcu.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/262e31f258-0-0-ca5baa2c3e582eb0d39fe7e75c3587e2/index.m3u8
+#EXTM3U
+#EXTINF:-1  ,CCTV6
+https://stream1.freetv.fun/19172a927131a11660f5c7d2732a227a632945a9037da1a453d0f511e3a49592.m3u8
+#EXTINF:-1  ,重庆卫视
+https://stream1.freetv.fun/1e6be1d8086dd3d7e1ee3c2b13961a96ef56720c726c8ccf0c237afe2d6c7f44.m3u8
+#EXTINF:-1  ,CHC动作电影
+http://222.90.31.220:8899/rtp/239.112.205.207:5140
+#EXTINF:-1  ,湖南卫视
+https://stream1.freetv.fun/574d11ed15a302010e80aa3cec28cd179b8c18bd1e15a7c2c0b54481136b35b9.m3u8
+#EXTINF:-1  ,重庆影视
+http://27.11.61.36:8003/udp/225.0.4.192:7980
+#EXTINF:-1  ,CCTV14
+https://stream1.freetv.fun/38f23ef05c4b9e420114959931d59c0a88958bee4366dde1b3715d977affca88.m3u8
+#EXTINF:-1  ,CCTV13
+https://stream1.freetv.fun/62f6b9a044f362e36ae4abb682836d4d8a633443358c6f58b0006d29b6c139ae.m3u8
+#EXTINF:-1  ,CCTV10
+https://stream1.freetv.fun/282b426be4fe2804d85a1ae9043d631ee0ea78e88edd6c489d7d8d0b9abb7d13.m3u8
+#EXTINF:-1  ,CCTV1
+https://stream1.freetv.fun/cctv1-zong-he-13.m3u8
+#EXTINF:-1  ,CCTV11
+https://stream1.freetv.fun/3b113a270721c92b11ac23df7841cba88ad22745adc12f16dcf86c81c5953a6c.m3u8
+#EXTINF:-1  ,CCTV12
+https://stream1.freetv.fun/9acc0421e56ee5ba451a29b7be3734e44dcdd9c44348d6ead0d69022cedf53d4.m3u8
+#EXTINF:-1  ,CCTV15
+https://stream1.freetv.fun/cctv15gao-qing-2.m3u8
+#EXTINF:-1  ,CCTV16
+http://115.234.196.165:8808/udp/233.50.201.192:5140
