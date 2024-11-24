@@ -1,4 +1,10 @@
-www.visa.com.sg#官方优选域名
-www.wto.org:8443#官方优选域名
-visa.cn:2087
-icook.hk
+www.visa.com.sg#visa1
+www.wto.org:8443#wto
+visa.cn:2087#visa2
+icook.hk#icook
+usa.visa.com:443#visa-US
+myanmar.visa.com:8443#visa-my
+www.visa.com.tw:2053#visa-tw
+www.visaeurope.ch:2083#visa-ero
+www.visa.com.br:2087#visa-br
+www.visasoutheasteurope.com:2096#visa-eur
