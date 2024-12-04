@@ -6,10 +6,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZtZXNzd3MtczgtdHJ5Y2JlIiwNCiAgImFkZCI6
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNmLjA5MDIyNyIsDQogICJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIyYmNjOWZmNi03OTI0LTRmNDktYmUyOS1lMjJiODljODVmMDIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNzZG4uZmVpZmFuNjgwNS51cy5rZyIsDQogICJwYXRoIjogIi9zZXJ2MDA/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJjc2RuLmZlaWZhbjY4MDUudXMua2ciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 trojan://feifan@104.21.238.25:443?security=tls&sni=tf.feifan6805.us.kg&fp=randomized&type=ws&host=tf.feifan6805.us.kg&path=%2F%3Fed%3D2560#CFtr1
 trojan://feifan@104.21.238.35:443?security=tls&sni=tf.feifan6805.us.kg&fp=randomized&type=ws&host=tf.feifan6805.us.kg&path=%2F%3Fed%3D2560#CFtr2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.234.131:443#SG
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.136.207.233:443#SG2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.136.210.98:443#SG3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.1.203.16:443#SG4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.215.69:443#JP1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.248.142.136:443#JP2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.254.74:443#KR
+
