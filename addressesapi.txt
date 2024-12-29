@@ -32,7 +32,7 @@ yycfde1.benbo789.me:8443#UK
 104.16.49.44#S05
 104.21.10.106:2083#LHR2
 //hugh.ns.cloudflare.com#W1
-surina.ns.cloudflare.com#W2
+/surina.ns.cloudflare.com#W2
 melina.ns.cloudflare.com#W3
 kaiser.ns.cloudflare.com#W4
 fred.ns.cloudflare.com#W5
