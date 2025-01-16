@@ -8,4 +8,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjQyNS0xIiwNCiAgImFkZCI6ICIxMDQuMjEuMjM4
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjQyNS0yIiwNCiAgImFkZCI6ICIxMDQuMjEuMjM4LjY1IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLA0KICAicGF0aCI6ICIvbGluayIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 trojan://feifan@104.21.238.25:443?security=tls&sni=1226.csdn100.us.kg&fp=randomized&type=ws&host=1226.csdn100.us.kg&path=%2F%3Fed%3D2560#CFtr1
 trojan://feifan@104.21.238.35:443?security=tls&sni=1226.csdn100.us.kg&fp=randomized&type=ws&host=1226.csdn100.us.kg&path=%2F%3Fed%3D2560#CFtr2
+vless://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.113:62574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cerebrium.ai&fp=chrome&pbk=xZpMDbSQt7n1RCdZcWX-QX49pVKyucoMVCsnlHD3-X8&allowInsecure=1&type=tcp&headerType=none#PL-s8-reality
+hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.113:19400/?sni=www.bing.com&alpn=h3&insecure=1#PL-s8-hy2
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@128.204.223.113:50136?sni=www.bing.com&alpn=h3&congestion_control=bbr#PL-s8-tuic
+
 
