@@ -2,7 +2,7 @@ vless://8427fa1c-c156-4adb-1fad-3273ef8ded43@128.204.223.113:33102?encryption=no
 hysteria2://8427fa1c-c156-4adb-1fad-3273ef8ded43@128.204.223.113:44027/?sni=www.bing.com&alpn=h3&insecure=1#PL-s8-hysteria2
 tuic://8427fa1c-c156-4adb-1fad-3273ef8ded43:admin@128.204.223.113:6281?sni=www.bing.com&alpn=h3&congestion_control=bbr#PL-s8-tuic
 hysteria2://8fa93bb1@189.1.238.153:39669/?sni=www.bing.com&insecure=1#Hysteria2-misaka
-hy2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#dongtaiw
+hy2://dongtaiwang.com@46.17.41.189:51224?insecure=1&sni=www.bing.com#dongtaiw
 trojan://feifan@104.21.238.25:443?security=tls&sni=1226.csdn100.us.kg&fp=randomized&type=ws&host=1226.csdn100.us.kg&path=%2F%3Fed%3D2560#CFtr1
 trojan://feifan@104.21.238.35:443?security=tls&sni=1226.csdn100.us.kg&fp=randomized&type=ws&host=1226.csdn100.us.kg&path=%2F%3Fed%3D2560#CFtr2
 vless://08c5c95e-c88b-409f-1c42-23fa77cf47dd@128.204.223.113:62574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cerebrium.ai&fp=chrome&pbk=Zl2F8BgJr2TYLJX2xVTDlWNG9Atx9teAsI6MCIsi1Go&allowInsecure=1&type=tcp&headerType=none#PL-s8-reality
