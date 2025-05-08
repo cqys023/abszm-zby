@@ -6,6 +6,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVZNRVNTIiwNCiAgImFkZCI6ICJ3d3cudmlz
 hysteria2://b77e572d-e145-4e82-9505-96d47d8deebe@38.247.80.192:50081/?sni=www.bing.com&insecure=1&alpn=h3&obfs=none#US-hy2
 tuic://b77e572d-e145-4e82-9505-96d47d8deebe:q6J02t0h6Q0cwH87BhPqp5Nu@38.247.80.192:50080?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#US-tuic
 hysteria://185.22.155.71:10803?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
-hysteria://195.154.200.178:44557?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://176.32.35.226:62003?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
