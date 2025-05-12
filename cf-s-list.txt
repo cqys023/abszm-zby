@@ -8,3 +8,6 @@ tuic://b77e572d-e145-4e82-9505-96d47d8deebe:q6J02t0h6Q0cwH87BhPqp5Nu@38.247.80.1
 hysteria://185.22.155.71:10803?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://176.32.35.226:62003?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
+vless://9139e902-7d9b-415c-a1c7-169439d41efc@cl.feifan6805.dpdns.org:443?encryption=none&security=tls&sni=cl.feifan6805.dpdns.org&allowInsecure=1&type=ws&host=cl.feifan6805.dpdns.org&path=%2F#webhost
+hysteria2://89e543fe@173.234.15.108:14383/?sni=www.bing.com&insecure=1#Hysteria2-DJJ
+hysteria2://23ded5fd-a5ed-4c82-83b0-d6207957ef0e@173.234.15.108:23379/?sni=www.bing.com&alpn=h3&insecure=1#DJJ-hy2-nogpt
