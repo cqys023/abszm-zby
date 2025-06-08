@@ -10,4 +10,4 @@ tuic://b77e572d-e145-4e82-9505-96d47d8deebe:q6J02t0h6Q0cwH87BhPqp5Nu@38.247.80.1
 hysteria://185.22.155.71:10803?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://176.32.35.226:62003?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
-hysteria2://sysadmin.sysadmin@ofuuzlrdqxob.us-west-1.clawcloudrun.com:39339/?insecure=1#clawcloud-hy2
+hysteria2://sysadmin.sysadmin@ofuuzlrdqxob.us-west-1.clawcloudrun.com:39339/?insecure=1#feifan-hy2
