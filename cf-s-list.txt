@@ -17,8 +17,7 @@ vless://5a43c123-685a-4e4d-bc60-e2e9a45aaba4@www.visa.com.br:8443?encryption=non
 vless://5a43c123-685a-4e4d-bc60-e2e9a45aaba4@www.visaeurope.ch:443?encryption=none&security=tls&sni=clawcloud.feifan6805.dpdns.org&host=clawcloud.feifan6805.dpdns.org&fp=chrome&type=ws&path=%2F5a43c123-685a-4e4d-bc60-e2e9a45aaba4%3Fed%3D2048#cf_tunnel_visa_ch_443
 vless://5a43c123-685a-4e4d-bc60-e2e9a45aaba4@usa.visa.com:2053?encryption=none&security=tls&sni=clawcloud.feifan6805.dpdns.org&host=clawcloud.feifan6805.dpdns.org&fp=chrome&type=ws&path=%2F5a43c123-685a-4e4d-bc60-e2e9a45aaba4%3Fed%3D2048#cf_tunnel_visa_us_2053
 vless://5a43c123-685a-4e4d-bc60-e2e9a45aaba4@icook.hk:8443?encryption=none&security=tls&sni=clawcloud.feifan6805.dpdns.org&host=clawcloud.feifan6805.dpdns.org&fp=chrome&type=ws&path=%2F5a43c123-685a-4e4d-bc60-e2e9a45aaba4%3Fed%3D2048#cf_tunnel_icook_hk_8443
-hysteria2://abb098de@108.181.55.125:20026/?sni=www.bing.com&insecure=1#%E7%8B%AC%E8%A7%92%E9%B2%B8misaka
-hysteria2://123456@108.181.55.125:5525/?sni=https://news.ycombinator.com&alpn=h3&insecure=1#%E7%8B%AC%E8%A7%92%E9%B2%B8HY2
+hysteria2://d54b3d54-8ec0-46a1-972b-aee7db7eaefb@108.181.55.125:61092/?sni=www.bing.com&alpn=h3&insecure=1#独角鲸hy2
 hysteria2://dongtaiwang.com@51.159.111.32:31180/?sni=apple.com&insecure=1#FR
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234/?insecure=1#US
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@129.153.59.124:54530/?sni=www.bing.com&insecure=1#CA
