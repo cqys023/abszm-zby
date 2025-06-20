@@ -10,7 +10,8 @@ tuic://b77e572d-e145-4e82-9505-96d47d8deebe:q6J02t0h6Q0cwH87BhPqp5Nu@38.247.80.1
 hysteria://185.22.155.71:10803?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://176.32.35.226:62003?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
 hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3
-hysteria2://da764685-8223-4c40-9752-ef23659e016a@47.89.210.96:30149/?sni=www.bing.com&alpn=h3&insecure=1#hy2-feifan
+
+
 vless://5a43c123-685a-4e4d-bc60-e2e9a45aaba4@www.visa.com.tw:443?encryption=none&security=tls&sni=clawcloud.feifan6805.dpdns.org&host=clawcloud.feifan6805.dpdns.org&fp=chrome&type=ws&path=%2F5a43c123-685a-4e4d-bc60-e2e9a45aaba4%3Fed%3D2048#cf_tunnel_visa_tw_443
 vless://5a43c123-685a-4e4d-bc60-e2e9a45aaba4@www.visa.com.hk:2053?encryption=none&security=tls&sni=clawcloud.feifan6805.dpdns.org&host=clawcloud.feifan6805.dpdns.org&fp=chrome&type=ws&path=%2F5a43c123-685a-4e4d-bc60-e2e9a45aaba4%3Fed%3D2048#cf_tunnel_visa_hk_2053
 vless://5a43c123-685a-4e4d-bc60-e2e9a45aaba4@www.visa.com.br:8443?encryption=none&security=tls&sni=clawcloud.feifan6805.dpdns.org&host=clawcloud.feifan6805.dpdns.org&fp=chrome&type=ws&path=%2F5a43c123-685a-4e4d-bc60-e2e9a45aaba4%3Fed%3D2048#cf_tunnel_visa_br_8443
