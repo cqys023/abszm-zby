@@ -1,4 +1,4 @@
-hysteria2://8fa93bb1@189.1.238.153:39669/?sni=www.bing.com&insecure=1#Hysteria2-misaka
+
 hysteria2://dongtaiwang.com@hy2.694463.xyz:30033/?sni=www.bing.com&insecure=1#dongtaiw1
 hysteria2://dongtaiwang.com@45.129.2.108:30033/?sni=www.bing.com&insecure=1#dongtaiw2
 hysteria2://dongtaiwang.com@46.17.41.217:30033/?sni=www.bing.com&insecure=1#dongtaiw3
