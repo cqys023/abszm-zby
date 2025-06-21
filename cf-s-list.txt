@@ -22,4 +22,3 @@ hysteria2://dongtaiwang.com@51.159.111.32:31180/?sni=apple.com&insecure=1#FR
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234/?insecure=1#US
 hysteria2://57a7a255-45bd-404b-8e5a-0b23b8b69280@108.181.55.125:49615/?sni=www.bing.com&alpn=h3&insecure=1#独角hy2
 hysteria2://5e4c84d8-f9e3-46aa-80c5-43715c448056@38.247.80.192:49615/?sni=www.bing.com&alpn=h3&insecure=1#hy2-vtexs
-vless://57a7a255-45bd-404b-8e5a-0b23b8b69280@108.181.55.125:26558?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=h2i_NTny2zj5V8YAStiZk2ANfBoV94LpeqNhdCRAIGc&sid=24d040aa&allowInsecure=1&type=tcp&headerType=none#vl-reality-feifan
