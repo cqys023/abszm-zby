@@ -1,13 +1,131 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1,Loupe
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1,Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,CCTV1
+https://tv.iill.top/migu/cctv1
+#EXTINF:-1,CCTV2
+https://tv.iill.top/migu/cctv2
+#EXTINF:-1,CCTV3
+https://tv.iill.top/migu/cctv3
+#EXTINF:-1,CCTV4
+https://tv.iill.top/migu/cctv4
+#EXTINF:-1,CCTV4美洲
+https://tv.iill.top/migu/cctv4m
+#EXTINF:-1,CCTV4欧洲
+https://tv.iill.top/migu/cctv4o
+#EXTINF:-1,CCTV5
+https://tv.iill.top/migu/cctv5
+#EXTINF:-1,CCTV5+
+https://tv.iill.top/migu/cctv5p
+#EXTINF:-1,CCTV6
+https://tv.iill.top/migu/cctv6
+#EXTINF:-1,CCTV7
+https://tv.iill.top/migu/cctv7
+#EXTINF:-1,CCTV8
+https://tv.iill.top/migu/cctv8
+#EXTINF:-1,CCTV9
+https://tv.iill.top/migu/cctv9
+#EXTINF:-1,CCTV10
+https://tv.iill.top/migu/cctv10
+#EXTINF:-1,CCTV11
+https://tv.iill.top/migu/cctv11
+#EXTINF:-1,CCTV12
+https://tv.iill.top/migu/cctv12
+#EXTINF:-1,CCTV13
+https://tv.iill.top/migu/cctv13
+#EXTINF:-1,CCTV14
+https://tv.iill.top/migu/cctv14
+#EXTINF:-1,CCTV15
+https://tv.iill.top/migu/cctv15
+#EXTINF:-1,CCTV17
+https://tv.iill.top/migu/cctv17
+#EXTINF:-1,CETV1
+https://tv.iill.top/migu/cetv1
+#EXTINF:-1,CETV2
+https://tv.iill.top/migu/cetv2
+#EXTINF:-1,CETV4
+https://tv.iill.top/migu/cetv4
+#EXTINF:-1,浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1,东方卫视
+https://tv.iill.top/migu/dfws
+#EXTINF:-1,江苏卫视
+https://tv.iill.top/migu/jsws
+#EXTINF:-1,广东卫视
+https://tv.iill.top/migu/gdws
+#EXTINF:-1,江西卫视
+https://tv.iill.top/migu/jxws
+#EXTINF:-1,陕西卫视
+https://tv.iill.top/migu/sxws
+#EXTINF:-1,湖北卫视
+https://tv.iill.top/migu/hubws
+#EXTINF:-1,东南卫视
+https://tv.iill.top/migu/dnws
+#EXTINF:-1,海峡卫视
+https://tv.iill.top/migu/hxws
+#EXTINF:-1,上海新闻综合
+https://tv.iill.top/migu/shxw
+#EXTINF:-1,上视东方影视
+https://tv.iill.top/migu/shys
+#EXTINF:-1,CHC影迷电影
+https://tv.iill.top/migu/chcym
+#EXTINF:-1,CHC动作电影
+https://tv.iill.top/migu/chcdz
+#EXTINF:-1,CHC家庭影院
+https://tv.iill.top/migu/chcjt
+#EXTINF:-1,新片放映厅
+https://tv.iill.top/migu/xpfy
+#EXTINF:-1,高清大片
+https://tv.iill.top/migu/gqdp
+#EXTINF:-1,红色轮播台
+https://tv.iill.top/migu/hslb
+#EXTINF:-1,赛事最经典
+https://tv.iill.top/migu/sszjd
+#EXTINF:-1,掼蛋精英赛
+https://tv.iill.top/migu/gdjs
+#EXTINF:-1,体坛名栏汇
+https://tv.iill.top/migu/ttmh
+#EXTINF:-1,咪咕24小时体育台
+https://tv.iill.top/migu/mgty
+#EXTINF:-1,和美乡途轮播台
+https://tv.iill.top/migu/hmxt
+#EXTINF:-1,中国航天
+https://tv.iill.top/migu/zght
+#EXTINF:-1,深度对话
+https://tv.iill.top/migu/sddh
+#EXTINF:-1,华语乐坛最强音
+https://tv.iill.top/migu/hylt
+#EXTINF:-1,周杰伦现场
+https://tv.iill.top/migu/zjl
+#EXTINF:-1,最强综艺趴
+https://tv.iill.top/migu/zqzyp
+#EXTINF:-1,经典动画大集合
+https://tv.iill.top/migu/jddh
+#EXTINF:-1,新动解码在一线
+https://tv.iill.top/migu/xdjm
+#EXTINF:-1,开封鼓楼
+https://tv.iill.top/migu/kfgl
+#EXTINF:-1,钱塘江
+https://tv.iill.top/migu/qtj
+#EXTINF:-1,幸福空间居家台
+https://tv.iill.top/4gtv/168
+#EXTINF:-1,戏剧免费看 1台
+https://tv.iill.top/4gtv/270
+#EXTINF:-1,人间卫视
+https://tv.iill.top/4gtv/210
+#EXTINF:-1,滚动力ROLLOR
+https://tv.iill.top/4gtv/249
+#EXTINF:-1,车迷TV
+https://tv.iill.top/4gtv/160
+#EXTINF:-1,金光布袋戏
+https://tv.iill.top/4gtv/236
+#EXTINF:-1,霹雳布袋戏
+https://tv.iill.top/4gtv/301
+#EXTINF:-1,电影原声台CMUSIC
+https://tv.iill.top/4gtv/218
 
-#EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",免费订阅：请勿贩卖...
-https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护时间：2025-1-15#佛系维护...
-https://epg.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护内容：维护 Gather「删除 •IPV6 源」
-https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",公告说明：IPV6 暂无
-https://epg.iill.top/v/301.mp4
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",晴彩广场舞「IPV4」
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
@@ -259,5 +377,4 @@ https://live.iill.top/huya/11601966
 https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
 https://live.iill.top/huya/11342413
-#EXTINF:-1  group-title="•影视「轮播」",cctv1
-https://tv.iill.top/migu/cctv1
+
