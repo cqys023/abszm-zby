@@ -28,4 +28,4 @@ hysteria2://dongtaiwang.com@108.181.5.133:4710/?sni=apple.com&insecure=1#hy2-93
 hysteria2://dongtaiwang.com@108.181.5.134:4710/?sni=apple.com&insecure=1#hy2-94
 hysteria2://dongtaiwang.com@46.17.41.5:12904/?sni=apple.com&insecure=1#er1
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563/?sni=h2.gzcloud.shop&obfs=salamander&obfs-password=rPvCrCom7ETCNOvA&insecure=0#hk
-hysteria2://hfWoFliBzz7DzJ4AhSrCpNsiw@34.221.171.77:21779/?insecure=1#US
+hysteria2://hfWoFliBzz7DzJ4AhSrCpNsiw@34.221.171.77:21779/?insecure=1#hy2-US2
