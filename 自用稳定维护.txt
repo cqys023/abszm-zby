@@ -259,8 +259,6 @@ https://stream1.freetv.fun/fox-sport-2-2.ctv
 https://stream1.freetv.fun/bbc-earth-10.m3u8
 #EXTINF:-1 ,西安戏剧影视
 https://stream1.freetv.fun/xi-an-xi-ju-ying-shi-2.m3u8
-#EXTINF:-1 ,00
-http://182.203.1.134:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
