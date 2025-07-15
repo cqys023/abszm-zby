@@ -229,36 +229,9 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 http://118.89.87.74:88/brtv8k.php
 #EXTINF:-1 ,science
 https://stream1.freetv.fun/159f545b5e12147a58648771a800f82eaa413c0dc16f90c1d4b683a5b1cbd060.ctv
-#EXTINF:-1 ,重庆新闻
-https://stream1.freetv.fun/zhong-qing-xin-wen-2.ctv
-#EXTINF:-1 ,tvbplus
-https://stream1.freetv.fun/tvbplus-2.m3u8
-#EXTINF:-1 ,凤凰卫视中文
-https://stream1.freetv.fun/feng-huang-wei-shi-zhong-wen-1.ctv
-#EXTINF:-1 ,popc
-https://stream1.freetv.fun/popc-1.m3u8
-#EXTINF:-1 ,lovenature
-https://stream1.freetv.fun/lovenature-1.m3u8
-#EXTINF:-1 ,channelu
-https://stream1.freetv.fun/channelu-4.m3u8
-#EXTINF:-1 ,channel8
-https://stream1.freetv.fun/channel8-1.m3u8
-#EXTINF:-1 ,中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-6.m3u8
-#EXTINF:-1 ,tvbs新聞
-https://stream1.freetv.fun/tvbsxin-wen-8.m3u8
-#EXTINF:-1 ,channel5
-https://stream1.freetv.fun/channel5-1.m3u8
 #EXTINF:-1 ,明珠
 https://stream1.freetv.fun/ming-zhu-5.m3u8
-#EXTINF:-1 ,fox sport1
-https://stream1.freetv.fun/fox-sport-1-1.ctv
-#EXTINF:-1 ,fox sport2
-https://stream1.freetv.fun/fox-sport-2-2.ctv
-#EXTINF:-1 ,bbc earth
-https://stream1.freetv.fun/bbc-earth-10.m3u8
-#EXTINF:-1 ,西安戏剧影视
-https://stream1.freetv.fun/xi-an-xi-ju-ying-shi-2.m3u8
+
 
 
 
