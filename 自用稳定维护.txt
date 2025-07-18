@@ -231,10 +231,314 @@ http://118.89.87.74:88/brtv8k.php
 https://stream1.freetv.fun/159f545b5e12147a58648771a800f82eaa413c0dc16f90c1d4b683a5b1cbd060.ctv
 #EXTINF:-1 ,明珠
 https://stream1.freetv.fun/ming-zhu-5.m3u8
-#EXTINF:-1 ,CCTV1
-http://115.239.112.72:3333/mgtv/608807420.m3u8
-#EXTINF:-1 ,CCTV6
-http://115.239.112.72:3333/mgtv/624878396.m3u8
+#EXTINF:-1 ,CCTV1综合
+http://61.177.81.198:35455/mgtv/608807420.m3u8
+#EXTINF:-1 ,CCTV2财经
+http://61.177.81.198:35455/mgtv/631780532.m3u8
+#EXTINF:-1 ,CCTV3综艺
+http://61.177.81.198:35455/mgtv/624878271.m3u8
+#EXTINF:-1 ,CCTV4中文国际
+http://61.177.81.198:35455/mgtv/631780421.m3u8
+#EXTINF:-1 ,CCTV5体育
+http://61.177.81.198:35455/mgtv/641886683.m3u8
+#EXTINF:-1 ,CCTV5+体育赛事
+http://61.177.81.198:35455/mgtv/641886773.m3u8
+#EXTINF:-1 ,CCTV6电影
+http://61.177.81.198:35455/mgtv/624878396.m3u8
+#EXTINF:-1 ,CCTV7国防军事
+http://61.177.81.198:35455/mgtv/673168121.m3u8
+#EXTINF:-1 ,CCTV8电视剧
+http://61.177.81.198:35455/mgtv/624878356.m3u8
+#EXTINF:-1 ,CCTV9纪录
+http://61.177.81.198:35455/mgtv/673168140.m3u8
+#EXTINF:-1 ,CCTV10科教
+http://61.177.81.198:35455/mgtv/624878405.m3u8
+#EXTINF:-1 ,CCTV11戏曲
+http://61.177.81.198:35455/mgtv/667987558.m3u8
+#EXTINF:-1 ,CCTV12社会与法
+http://61.177.81.198:35455/mgtv/673168185.m3u8
+#EXTINF:-1 ,CCTV13新闻
+http://61.177.81.198:35455/mgtv/608807423.m3u8
+#EXTINF:-1 ,CCTV14少儿
+http://61.177.81.198:35455/mgtv/624878440.m3u8
+#EXTINF:-1 ,CCTV15音乐
+http://61.177.81.198:35455/mgtv/673168223.m3u8
+#EXTINF:-1 ,CCTV17农业农村
+http://61.177.81.198:35455/mgtv/673168256.m3u8
+#EXTINF:-1 ,CCTV4欧洲
+http://61.177.81.198:35455/mgtv/608807419.m3u8
+#EXTINF:-1 ,CCTV4美洲
+http://61.177.81.198:35455/mgtv/608807416.m3u8
+#EXTINF:-1 ,CGTN外语纪录
+http://61.177.81.198:35455/mgtv/609006487.m3u8
+#EXTINF:-1 ,CGTN阿拉伯语
+http://61.177.81.198:35455/mgtv/609154345.m3u8
+#EXTINF:-1 ,CGTN西班牙语
+http://61.177.81.198:35455/mgtv/609006450.m3u8
+#EXTINF:-1 ,CGTN法语
+http://61.177.81.198:35455/mgtv/609006476.m3u8
+#EXTINF:-1 ,CGTN俄语
+http://61.177.81.198:35455/mgtv/609006446.m3u8
+#EXTINF:-1 ,老故事
+http://61.177.81.198:35455/mgtv/884121956.m3u8
+#EXTINF:-1 ,发现之旅
+http://61.177.81.198:35455/mgtv/624878970.m3u8
+#EXTINF:-1 ,中学生
+http://61.177.81.198:35455/mgtv/708869532.m3u8
+#EXTINF:-1 ,CGTN
+http://61.177.81.198:35455/mgtv/609017205.m3u8
+#EXTINF:-1 ,东方卫视
+http://61.177.81.198:35455/mgtv/651632648.m3u8
+#EXTINF:-1 ,江苏卫视
+http://61.177.81.198:35455/mgtv/623899368.m3u8
+#EXTINF:-1 ,广东卫视
+http://61.177.81.198:35455/mgtv/608831231.m3u8
+#EXTINF:-1 ,江西卫视
+http://61.177.81.198:35455/mgtv/783847495.m3u8
+#EXTINF:-1 ,河南卫视
+http://61.177.81.198:35455/mgtv/790187291.m3u8
+#EXTINF:-1 ,陕西卫视
+http://61.177.81.198:35455/mgtv/738910838.m3u8
+#EXTINF:-1 ,大湾区卫视
+http://61.177.81.198:35455/mgtv/608917627.m3u8
+#EXTINF:-1 ,湖北卫视
+http://61.177.81.198:35455/mgtv/947472496.m3u8
+#EXTINF:-1 ,吉林卫视
+http://61.177.81.198:35455/mgtv/947472500.m3u8
+#EXTINF:-1 ,青海卫视
+http://61.177.81.198:35455/mgtv/947472506.m3u8
+#EXTINF:-1 ,东南卫视
+http://61.177.81.198:35455/mgtv/849116810.m3u8
+#EXTINF:-1 ,海南卫视
+http://61.177.81.198:35455/mgtv/947472502.m3u8
+#EXTINF:-1 ,海峡卫视
+http://61.177.81.198:35455/mgtv/849119120.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://61.177.81.198:35455/mgtv/651632657.m3u8
+#EXTINF:-1 ,上视东方影视
+http://61.177.81.198:35455/mgtv/617290047.m3u8
+#EXTINF:-1 ,上海第一财经
+http://61.177.81.198:35455/mgtv/608780988.m3u8
+#EXTINF:-1 ,南京新闻综合频道
+http://61.177.81.198:35455/mgtv/838109047.m3u8
+#EXTINF:-1 ,南京教科频道
+http://61.177.81.198:35455/mgtv/838153729.m3u8
+#EXTINF:-1 ,南京十八频道
+http://61.177.81.198:35455/mgtv/838151753.m3u8
+#EXTINF:-1 ,体育休闲频道
+http://61.177.81.198:35455/mgtv/626064707.m3u8
+#EXTINF:-1 ,江苏城市频道
+http://61.177.81.198:35455/mgtv/626064714.m3u8
+#EXTINF:-1 ,江苏国际
+http://61.177.81.198:35455/mgtv/626064674.m3u8
+#EXTINF:-1 ,江苏教育
+http://61.177.81.198:35455/mgtv/628008321.m3u8
+#EXTINF:-1 ,江苏影视频道
+http://61.177.81.198:35455/mgtv/626064697.m3u8
+#EXTINF:-1 ,江苏综艺频道
+http://61.177.81.198:35455/mgtv/626065193.m3u8
+#EXTINF:-1 ,公共新闻频道
+http://61.177.81.198:35455/mgtv/626064693.m3u8
+#EXTINF:-1 ,盐城新闻综合
+http://61.177.81.198:35455/mgtv/639731825.m3u8
+#EXTINF:-1 ,淮安新闻综合
+http://61.177.81.198:35455/mgtv/639731826.m3u8
+#EXTINF:-1 ,泰州新闻综合
+http://61.177.81.198:35455/mgtv/639731818.m3u8
+#EXTINF:-1 ,连云港新闻综合
+http://61.177.81.198:35455/mgtv/639731715.m3u8
+#EXTINF:-1 ,宿迁新闻综合
+http://61.177.81.198:35455/mgtv/639731832.m3u8
+#EXTINF:-1 ,徐州新闻综合
+http://61.177.81.198:35455/mgtv/639731747.m3u8
+#EXTINF:-1 ,优漫卡通频道
+http://61.177.81.198:35455/mgtv/626064703.m3u8
+#EXTINF:-1 ,江阴新闻综合
+http://61.177.81.198:35455/mgtv/955227979.m3u8
+#EXTINF:-1 ,南通新闻综合
+http://61.177.81.198:35455/mgtv/955227985.m3u8
+#EXTINF:-1 ,宜兴新闻综合
+http://61.177.81.198:35455/mgtv/955227996.m3u8
+#EXTINF:-1 ,苏州新闻综合
+http://61.177.81.198:35455/mgtv/639731952.m3u8
+#EXTINF:-1 ,溧水新闻综合
+http://61.177.81.198:35455/mgtv/639737327.m3u8
+#EXTINF:-1 ,央八《以法之名》主演作品集
+http://61.177.81.198:35455/mgtv/625133682.m3u8
+#EXTINF:-1 ,青春怀旧剧场
+http://61.177.81.198:35455/mgtv/617432318.m3u8
+#EXTINF:-1 ,新片放映厅
+http://61.177.81.198:35455/mgtv/619495952.m3u8
+#EXTINF:-1 ,CHC影迷电影
+http://61.177.81.198:35455/mgtv/952383261.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://61.177.81.198:35455/mgtv/644368714.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://61.177.81.198:35455/mgtv/644368373.m3u8
+#EXTINF:-1 ,和美乡途轮播台
+http://61.177.81.198:35455/mgtv/713591450.m3u8
+#EXTINF:-1 ,高清大片
+http://61.177.81.198:35455/mgtv/629943678.m3u8
+#EXTINF:-1 ,南方影视
+http://61.177.81.198:35455/mgtv/614961829.m3u8
+#EXTINF:-1 ,血色山河·抗日战争影像志
+http://61.177.81.198:35455/mgtv/713600957.m3u8
+#EXTINF:-1 ,深度对话
+http://61.177.81.198:35455/mgtv/625703337.m3u8
+#EXTINF:-1 ,熊猫频道1
+http://61.177.81.198:35455/mgtv/608933610.m3u8
+#EXTINF:-1 ,熊猫频道2
+http://61.177.81.198:35455/mgtv/608933640.m3u8
+#EXTINF:-1 ,熊猫频道3
+http://61.177.81.198:35455/mgtv/608934619.m3u8
+#EXTINF:-1 ,熊猫频道4
+http://61.177.81.198:35455/mgtv/608934721.m3u8
+#EXTINF:-1 ,熊猫频道5
+http://61.177.81.198:35455/mgtv/608935104.m3u8
+#EXTINF:-1 ,熊猫频道6
+http://61.177.81.198:35455/mgtv/608935797.m3u8
+#EXTINF:-1 ,熊猫频道7
+http://61.177.81.198:35455/mgtv/609169286.m3u8
+#EXTINF:-1 ,熊猫频道8
+http://61.177.81.198:35455/mgtv/609169287.m3u8
+#EXTINF:-1 ,熊猫频道9
+http://61.177.81.198:35455/mgtv/609169226.m3u8
+#EXTINF:-1 ,熊猫频道10
+http://61.177.81.198:35455/mgtv/609169285.m3u8
+#EXTINF:-1 ,最强综艺趴
+http://61.177.81.198:35455/mgtv/629942228.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://61.177.81.198:35455/mgtv/614952364.m3u8
+#EXTINF:-1 ,经典动画大集合
+http://61.177.81.198:35455/mgtv/629942219.m3u8
+#EXTINF:-1 ,新动力量创一流
+http://61.177.81.198:35455/mgtv/713589837.m3u8
+#EXTINF:-1 ,钱塘江
+http://61.177.81.198:35455/mgtv/647370520.m3u8
+#EXTINF:-1 ,五环传奇
+http://61.177.81.198:35455/mgtv/707671890.m3u8
+#EXTINF:-1 ,赛事最经典
+http://61.177.81.198:35455/mgtv/646596895.m3u8
+#EXTINF:-1 ,掼蛋精英赛
+http://61.177.81.198:35455/mgtv/631354620.m3u8
+#EXTINF:-1 ,体坛名栏汇
+http://61.177.81.198:35455/mgtv/629943305.m3u8
+#EXTINF:-1 ,咪咕24小时体育台
+http://61.177.81.198:35455/mgtv/654102378.m3u8
+#EXTINF:-1 ,CETV1
+http://61.177.81.198:35455/mgtv/923287154.m3u8
+#EXTINF:-1 ,CETV2
+http://61.177.81.198:35455/mgtv/923287211.m3u8
+#EXTINF:-1 ,CETV4
+http://61.177.81.198:35455/mgtv/923287339.m3u8
+#EXTINF:-1 ,cctv16-NPTV
+http://61.177.81.198:35455/nptv/cctv16.m3u8
+#EXTINF:-1 ,cctv4k-NPTV
+http://61.177.81.198:35455/nptv/cctv4k.m3u8
+#EXTINF:-1 ,cctv8k-NPTV
+http://61.177.81.198:35455/nptv/cctv8k.m3u8
+#EXTINF:-1 ,cgtnar-NPTV
+http://61.177.81.198:35455/nptv/cgtnar.m3u8
+#EXTINF:-1 ,cgtndoc-NPTV
+http://61.177.81.198:35455/nptv/cgtndoc.m3u8
+#EXTINF:-1 ,cgtn-NPTV
+http://61.177.81.198:35455/nptv/cgtn.m3u8
+#EXTINF:-1 ,cgtnfr-NPTV
+http://61.177.81.198:35455/nptv/cgtnfr.m3u8
+#EXTINF:-1 ,cgtnru-NPTV
+http://61.177.81.198:35455/nptv/cgtnru.m3u8
+#EXTINF:-1 ,cgtnsp-NPTV
+http://61.177.81.198:35455/nptv/cgtnsp.m3u8
+#EXTINF:-1 ,第一剧场-NPTV
+http://61.177.81.198:35455/nptv/dyjc.m3u8
+#EXTINF:-1 ,风云剧场-NPTV
+http://61.177.81.198:35455/nptv/fyjc.m3u8
+#EXTINF:-1 ,怀旧剧场-NPTV
+http://61.177.81.198:35455/nptv/hjjc.m3u8
+#EXTINF:-1 ,中国教育电视台-NPTV
+http://61.177.81.198:35455/nptv/cetv1.m3u8
+#EXTINF:-1 ,重温经典
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+#EXTINF:-1 ,北京纪实科教8K
+https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+#EXTINF:-1 ,北京卫视-NPTV
+http://61.177.81.198:35455/nptv/beijing.m3u8
+#EXTINF:-1 ,湖南卫视-NPTV
+http://61.177.81.198:35455/nptv/hunan.m3u8
+#EXTINF:-1 ,江苏卫视-NPTV
+http://61.177.81.198:35455/nptv/jiangsu.m3u8
+#EXTINF:-1 ,东方卫视-NPTV
+http://61.177.81.198:35455/nptv/dongfang.m3u8
+#EXTINF:-1 ,浙江卫视-NPTV
+http://61.177.81.198:35455/nptv/zhejiang.m3u8
+#EXTINF:-1 ,湖北卫视-NPTV
+http://61.177.81.198:35455/nptv/hubei.m3u8
+#EXTINF:-1 ,天津卫视-NPTV
+http://61.177.81.198:35455/nptv/tianjing.m3u8
+#EXTINF:-1 ,山东卫视-NPTV
+http://61.177.81.198:35455/nptv/shandong.m3u8
+#EXTINF:-1 ,辽宁卫视-NPTV
+http://61.177.81.198:35455/nptv/liaoning.m3u8
+#EXTINF:-1 ,安徽卫视-NPTV
+http://61.177.81.198:35455/nptv/anhui.m3u8
+#EXTINF:-1 ,黑龙江卫视-NPTV
+http://61.177.81.198:35455/nptv/heilongjiang.m3u8
+#EXTINF:-1 ,贵州卫视-NPTV
+http://61.177.81.198:35455/nptv/guizhou.m3u8
+#EXTINF:-1 ,东南卫视-NPTV
+http://61.177.81.198:35455/nptv/dongnan.m3u8
+#EXTINF:-1 ,重庆卫视-NPTV
+http://61.177.81.198:35455/nptv/chongqing.m3u8
+#EXTINF:-1 ,江西卫视-NPTV
+http://61.177.81.198:35455/nptv/jiangxi.m3u8
+#EXTINF:-1 ,广东卫视-NPTV
+http://61.177.81.198:35455/nptv/guangdong.m3u8
+#EXTINF:-1 ,河北卫视-NPTV
+http://61.177.81.198:35455/nptv/hebei.m3u8
+#EXTINF:-1 ,深圳卫视-NPTV
+http://61.177.81.198:35455/nptv/shenzheng.m3u8
+#EXTINF:-1 ,吉林卫视-NPTV
+http://61.177.81.198:35455/nptv/jiling.m3u8
+#EXTINF:-1 ,河南卫视-NPTV
+http://61.177.81.198:35455/nptv/henan.m3u8
+#EXTINF:-1 ,四川卫视-NPTV
+http://61.177.81.198:35455/nptv/sichuan.m3u8
+#EXTINF:-1 ,河北卫视-NPTV
+http://61.177.81.198:35455/nptv/hebei.m3u8
+#EXTINF:-1 ,广西卫视-NPTV
+http://61.177.81.198:35455/nptv/guangxi.m3u8
+#EXTINF:-1 ,陕西卫视-NPTV
+http://61.177.81.198:35455/nptv/shanxiws.m3u8
+#EXTINF:-1 ,山西卫视-NPTV
+http://61.177.81.198:35455/nptv/shanxi.m3u8
+#EXTINF:-1 ,内蒙古卫视-NPTV
+http://61.177.81.198:35455/nptv/neimenggu.m3u8
+#EXTINF:-1 ,青海卫视-NPTV
+http://61.177.81.198:35455/nptv/qinghai.m3u8
+#EXTINF:-1 ,海南卫视-NPTV
+http://61.177.81.198:35455/nptv/hainan.m3u8
+#EXTINF:-1 ,宁夏卫视-NPTV
+http://61.177.81.198:35455/nptv/ningxia.m3u8
+#EXTINF:-1 ,西藏卫视-NPTV
+http://61.177.81.198:35455/nptv/xizang.m3u8
+#EXTINF:-1 ,新疆卫视-NPTV
+http://61.177.81.198:35455/nptv/xinjiang.m3u8
+#EXTINF:-1 ,甘肃卫视-NPTV
+http://61.177.81.198:35455/nptv/gansu.m3u8
+#EXTINF:-1 ,云南卫视-NPTV
+http://61.177.81.198:35455/nptv/yunnan.m3u8
+#EXTINF:-1 ,兵团卫视-NPTV
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 ,咪咕4K-1
+http://61.177.81.198:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 ,咪咕4K-2
+http://61.177.81.198:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1 ,LoveNature4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,Loupe4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 ,Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
 
