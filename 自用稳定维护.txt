@@ -231,8 +231,10 @@ http://118.89.87.74:88/brtv8k.php
 https://stream1.freetv.fun/159f545b5e12147a58648771a800f82eaa413c0dc16f90c1d4b683a5b1cbd060.ctv
 #EXTINF:-1 ,明珠
 https://stream1.freetv.fun/ming-zhu-5.m3u8
-
-
+#EXTINF:-1 ,CCTV1
+http://115.239.112.72:3333/mgtv/608807420.m3u8
+#EXTINF:-1 ,CCTV6
+http://115.239.112.72:3333/mgtv/624878396.m3u8
 
 
 
