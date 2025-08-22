@@ -5,6 +5,7 @@ hysteria2://da764685-8223-4c40-9752-ef23659e016a@47.251.33.161:30149/?sni=www.bi
 hysteria2://da764685-8223-4c40-9752-ef23659e016a@udp.us-west-1.clawcloudrun.com:30149/?sni=www.bing.com&alpn=h3&insecure=1#hy2-feifanudp
 hysteria2://34b5eb37-584f-4d90-855c-13d5ae340dd0@108.181.55.125:49615/?sni=www.bing.com&alpn=h3&insecure=1#独角hy2
 hysteria2://5e4c84d8-f9e3-46aa-80c5-43715c448056@38.247.80.192:49615/?sni=www.bing.com&alpn=h3&insecure=1#hy2-vtexs
+trojan://a3cb590e-0bce-42e2-a189-155cad9a5414@joeyblog.net:443?security=tls&sni=momentum-something-packets-glasses.trycloudflare.com&fp=chrome&type=ws&host=momentum-something-packets-glasses.trycloudflare.com&path=%2Ftrojan-argo%3Fed%3D2560#Vls-US-Amazon_Data_Services_Northern_Virginia
 
 
 
