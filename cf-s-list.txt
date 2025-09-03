@@ -5,10 +5,10 @@ hysteria2://da764685-8223-4c40-9752-ef23659e016a@47.251.33.161:30149/?sni=www.bi
 hysteria2://da764685-8223-4c40-9752-ef23659e016a@udp.us-west-1.clawcloudrun.com:30149/?sni=www.bing.com&alpn=h3&insecure=1#hy2-feifanudp
 hysteria2://34b5eb37-584f-4d90-855c-13d5ae340dd0@108.181.55.125:49615/?sni=www.bing.com&alpn=h3&insecure=1#独角hy2
 hysteria2://5e4c84d8-f9e3-46aa-80c5-43715c448056@38.247.80.192:49615/?sni=www.bing.com&alpn=h3&insecure=1#hy2-vtexs
-hysteria2://27cc5c07-99d6-4378-897b-5169c7838b5a@[2604:abc0:103:413:b8fe:52ff:febc:6676]:9098/?sni=www.bing.com&alpn=h3&insecure=1#ip6
-hysteria2://27cc5c07-99d6-4378-897b-5169c7838b5a@[2604:abc0:103:413:6::63]:9098/?sni=www.bing.com&alpn=h3&insecure=1#ip62
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVVuUmVhbF9TZXJ2ZXJzLF9MTEMiLA0KICAiYWRkIjogIjIxMC42MS45Ny4yNDEiLA0KICAicG9ydCI6ICI4MSIsDQogICJpZCI6ICIyN2NjNWMwNy05OWQ2LTQzNzgtODk3Yi01MTY5Yzc4MzhiNWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInJldmVsYXRpb24tbW9kZWxzLWdyYWR1YXRpb24tbWVhbi50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTI1NjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAicmV2ZWxhdGlvbi1tb2RlbHMtZ3JhZHVhdGlvbi1tZWFuLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLVVuUmVhbF9TZXJ2ZXJzLF9MTEMtY2xvbmUiLA0KICAiYWRkIjogIjEwNC4yMS4yMzguNjgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMjdjYzVjMDctOTlkNi00Mzc4LTg5N2ItNTE2OWM3ODM4YjVhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJyZXZlbGF0aW9uLW1vZGVscy1ncmFkdWF0aW9uLW1lYW4udHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yNTYwIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInJldmVsYXRpb24tbW9kZWxzLWdyYWR1YXRpb24tbWVhbi50cnljbG91ZGZsYXJlLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
+hysteria2://27cc5c07-99d6-4378-897b-5169c7838b5a@[2604:abc0:103:413:b8fe:52ff:febc:6676]:9098/?sni=www.bing.com&alpn=h3&insecure=1#帕斯云ip6
+hysteria2://27cc5c07-99d6-4378-897b-5169c7838b5a@pss.feifan6805.dpdns.org:9098/?sni=www.bing.com&alpn=h3&insecure=1#帕斯云hy2
+
+
 
 
 
