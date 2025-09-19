@@ -2,7 +2,7 @@
 #EXTINF:-1 ,====== 1-分类1 电信 ,#genre# ======
 #EXTGRP:1-分类1 电信
 #EXTINF:-1 ,CCTV1-综合
-http://171.43.64.184:9901/tsfile/live/0001_1.m3u8?key=txiptv
+http://117.141.162.238:8181/tsfile/live/1107_1.m3u8?key=txiptv
 #EXTGRP:1-分类1 电信
 #EXTINF:-1 ,CCTV1-综合
 http://110.181.235.130:9901/tsfile/live/0001_1.m3u8?key=txiptv
