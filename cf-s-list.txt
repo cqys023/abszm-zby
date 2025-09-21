@@ -7,6 +7,10 @@ hysteria2://34b5eb37-584f-4d90-855c-13d5ae340dd0@108.181.55.125:49615/?sni=www.b
 hysteria2://dongtaiwang.com@51.159.111.32:5355/?sni=www.bing.com&insecure=1#FK
 hysteria2://0c87d9a0-7f36-41de-b4a9-666ca1c4dc18@[2604:abc0:103:413:6::63]:9098/?sni=www.bing.com&alpn=h3&insecure=1#帕斯云ip6
 hysteria2://0c87d9a0-7f36-41de-b4a9-666ca1c4dc18@pssh.feifan6805.dpdns.org:9098/?sni=www.bing.com&alpn=h3&insecure=1#帕斯云hy2
+vless://1e1ce3a5-868c-4f8b-96d5-bf72e96b7aff@cf.877774.xyz:443?encryption=none&security=tls&sni=btp1.feifan6805.dpdns.org&allowInsecure=1&type=ws&host=btp1.feifan6805.dpdns.org&path=%2Fvless-argo%3Fed%3D2560#SAP-US01
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNBUC1VUzAyIiwNCiAgImFkZCI6ICJjZi44Nzc3NzQueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjFlMWNlM2E1LTg2OGMtNGY4Yi05NmQ1LWJmNzJlOTZiN2FmZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAibm9uZSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYnRwMS5mZWlmYW42ODA1LmRwZG5zLm9yZyIsDQogICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTI1NjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYnRwMS5mZWlmYW42ODA1LmRwZG5zLm9yZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+trojan://1e1ce3a5-868c-4f8b-96d5-bf72e96b7aff@cf.877774.xyz:443?security=tls&sni=btp1.feifan6805.dpdns.org&allowInsecure=1&type=ws&host=btp1.feifan6805.dpdns.org&path=%2Ftrojan-argo%3Fed%3D2560#SAP-US03
+vless://1e1ce3a5-868c-4f8b-96d5-bf72e96b7aff@104.21.238.45:443?encryption=none&security=tls&sni=btp1.feifan6805.dpdns.org&allowInsecure=1&type=ws&host=btp1.feifan6805.dpdns.org&path=%2Fvless-argo%3Fed%3D2560#SAP-clone
 
 
 
