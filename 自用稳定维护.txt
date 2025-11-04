@@ -2857,5 +2857,344 @@ http://ygbh.site/php/bfgd.php?id=278
 #EXTGRP:site-site
 #EXTINF:-1 ,辽宁影视剧
 http://ygbh.site/php/bfgd.php?id=070
-
+#EXTINF:-1 ,====== 1-4GTV ,#genre# ======
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,ARIRANG阿里郎頻道
+http://4gtv.feifanlib.qzz.io/?id=QVJJUkFORamYvamHjOmDjumguamBkwxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Bloomberg TV
+http://4gtv.feifanlib.qzz.io/?id=Qmxvb21iZXJnIFRW&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,CLASSICA 古典樂
+http://4gtv.feifanlib.qzz.io/?id=Q0xBU1NJQ0Eg5Yak5YW45qiC&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,CI 罪案偵查頻道
+http://4gtv.feifanlib.qzz.io/?id=Q0kg572q5qGI5YG15pal6aC76YGT&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,CinemaWorld
+http://4gtv.feifanlib.qzz.io/?id=Q2luZW1hV29ybGQx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,CNBC Asia 財經台
+http://4gtv.feifanlib.qzz.io/?id=Q05CQyBBc2lhIOiyoee2kaWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,DreamWorks 夢工廠動畫
+http://4gtv.feifanlib.qzz.io/?id=RHJlYW1Xb3JrcyDlpKLlt6Xlu6Dli5Xnlasx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,DW德國之聲
+http://4gtv.feifanlib.qzz.io/?id=RFflvrflnIvkuYvogbIx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,ELTV生活英語台
+http://4gtv.feifanlib.qzz.io/?id=RUxUVueUnaa0uaiLseiqnuWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,FRANCE24 英文台
+http://4gtv.feifanlib.qzz.io/?id=RlJBTkNFMjQg6Iux5paH5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Global Trekker
+http://4gtv.feifanlib.qzz.io/?id=R2xvYmFsIFRyZWtrZXIx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,GINX Esports TV
+http://4gtv.feifanlib.qzz.io/?id=R0lOWCBFc3BvcnRzIFRW&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,History 歷史頻道
+http://4gtv.feifanlib.qzz.io/?id=SGlzdG9yeSDmrbflj7LpoLvpgZMx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,HITS頻道
+http://4gtv.feifanlib.qzz.io/?id=SElUUamguamBkwxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,INULTRA
+http://4gtv.feifanlib.qzz.io/?id=SU5VTFRSQQxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,KLT-靖天國際台
+http://4gtv.feifanlib.qzz.io/?id=S0xULemdluWkqeWciamamaWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,LiveABC互動英語頻道
+http://4gtv.feifanlib.qzz.io/?id=TGl2ZUFCQaS6kuWLleiLseiqnumguamBkwxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Lifetime 娛樂頻道
+http://4gtv.feifanlib.qzz.io/?id=TGlmZXRpbWUg5aib5qiC6aC76YGT&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Love Nature
+http://4gtv.feifanlib.qzz.io/?id=TG92ZSBOYXR1cmUx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,LUXE TV Channel
+http://4gtv.feifanlib.qzz.io/?id=TFVYRSBUViBDaGFubmVs&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,MOMO親子台
+http://4gtv.feifanlib.qzz.io/?id=TU9NTaimquWtkOWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,MTV Live HD 音樂頻道
+http://4gtv.feifanlib.qzz.io/?id=TVRWIExpdmUgSEQg6Zaz5qiC6aC76YGT&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Mezzo Live HD
+http://4gtv.feifanlib.qzz.io/?id=TWV6em8gTGl2ZSBIRAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,MagellanTV頻道 (麥哲倫頻道) 
+http://4gtv.feifanlib.qzz.io/?id=TWFnZWxsYW5UVumguamBkyAo6bql5ZOy5YCr6aC76YGTKSAx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,My Cinema Europe HD 我的歐洲電影
+http://4gtv.feifanlib.qzz.io/?id=TXkgQ2luZW1hIEV1cm9wZSBIRCDmiJHnmoTmrZDmtLLpm7vlvbEx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Nick Jr. 兒童頻道
+http://4gtv.feifanlib.qzz.io/?id=TmljayBKci4g5YWS56ul6aC76YGT&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Nice TV 靖天歡樂台
+http://4gtv.feifanlib.qzz.io/?id=TmljZSBUViDpnZblpKnmraHmqILlj7Ax&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,NHK WORLD-JAPAN
+http://4gtv.feifanlib.qzz.io/?id=TkhLIFdPUkxELUpBUEFO&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,Pet Club TV
+http://4gtv.feifanlib.qzz.io/?id=UGV0IENsdWIgVFYx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,ROCK Entertainment
+http://4gtv.feifanlib.qzz.io/?id=Uk9DSyBFbnRlcnRhaW5tZW50&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,ROCK Action
+http://4gtv.feifanlib.qzz.io/?id=Uk9DSyBBY3Rpb24x&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,SBN全球財經台
+http://4gtv.feifanlib.qzz.io/?id=U0JO5YWo55CD6LKh57aT5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TVBS精采台
+http://4gtv.feifanlib.qzz.io/?id=VFZCUaeyvumHhaWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TVBS新聞
+http://4gtv.feifanlib.qzz.io/?id=VFZCUaaWsOiBngxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TVBS
+http://4gtv.feifanlib.qzz.io/?id=VFZCUwxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TVBS歡樂台
+http://4gtv.feifanlib.qzz.io/?id=VFZCUaatoeaoguWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TRACE Urban
+http://4gtv.feifanlib.qzz.io/?id=VFJBQ0UgVXJiYW4x&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TRACE Sport Stars
+http://4gtv.feifanlib.qzz.io/?id=VFJBQ0UgU3BvcnQgU3RhcnMx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TVBS綜藝台
+http://4gtv.feifanlib.qzz.io/?id=VFZCUae2nOiXneWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,TVBS台劇台
+http://4gtv.feifanlib.qzz.io/?id=VFZCUaWPsOWKhaWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,amc電影台
+http://4gtv.feifanlib.qzz.io/?id=YW1j6Zu75b2x5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,fun探索娛樂台
+http://4gtv.feifanlib.qzz.io/?id=ZnVu5o6i57Si5aib5qiC5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,三立綜合台
+http://4gtv.feifanlib.qzz.io/?id=5LiJ56uL57ac5ZCI5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,三立新聞iNEWS
+http://4gtv.feifanlib.qzz.io/?id=5LiJ56uL5paw6IGeaU5FV1Mx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,中視
+http://4gtv.feifanlib.qzz.io/?id=5Lit6KaW&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,中視經典台
+http://4gtv.feifanlib.qzz.io/?id=5Lit6KaW57aT5YW45Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,中視菁采台
+http://4gtv.feifanlib.qzz.io/?id=5Lit6KaW6IaB6YeH5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,中視新聞
+http://4gtv.feifanlib.qzz.io/?id=5Lit6KaW5paw6IGe&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,中天新聞台
+http://4gtv.feifanlib.qzz.io/?id=5Lit5aSp5paw6IGe5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,亞洲旅遊台
+http://4gtv.feifanlib.qzz.io/?id=5Lqe5rSy5peF6YGK5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,人間衛視
+http://4gtv.feifanlib.qzz.io/?id=5Lq66ZaT6KGb6KaW&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,八大綜藝台
+http://4gtv.feifanlib.qzz.io/?id=5YWr5aSn57ac6Jed5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,八大精彩台
+http://4gtv.feifanlib.qzz.io/?id=5YWr5aSn57Ka5b2p5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,公視戲劇
+http://4gtv.feifanlib.qzz.io/?id=5YWs6KaW5oiy5YqH&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,半島國際新聞台
+http://4gtv.feifanlib.qzz.io/?id=5Y2K5bO25ZyL6Zqb5paw6IGe5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,原住民族電視台
+http://4gtv.feifanlib.qzz.io/?id=5Y6f5L2P5rCR5peP6Zu76KaW5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,國會頻道1
+http://4gtv.feifanlib.qzz.io/?id=5ZyL5pyD6aC76YGTMQxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,國會頻道2
+http://4gtv.feifanlib.qzz.io/?id=5ZyL5pyD6aC76YGTMgxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,大愛電視
+http://4gtv.feifanlib.qzz.io/?id=5aSn5oSb6Zu76KaW&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,大愛二台
+http://4gtv.feifanlib.qzz.io/?id=5aSn5oSb5LqM5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,好消息
+http://4gtv.feifanlib.qzz.io/?id=5aW95raI5oGv&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,好消息2台
+http://4gtv.feifanlib.qzz.io/?id=5aW95raI5oGvMuWPsAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,客家電視台
+http://4gtv.feifanlib.qzz.io/?id=5a6i5a626Zu76KaW5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,寰宇新聞台
+http://4gtv.feifanlib.qzz.io/?id=5aaw5a6H5paw6IGe5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,寰宇新聞台灣台
+http://4gtv.feifanlib.qzz.io/?id=5aaw5a6H5paw6IGe5Yaw54Gj5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,尼克兒童頻道
+http://4gtv.feifanlib.qzz.io/?id=5bC85YWL5YWS56ul6aC76YGT&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,幸福空間居家台
+http://4gtv.feifanlib.qzz.io/?id=5bm456aP56m66ZaT5bGF5a625Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,影迷數位紀實台
+http://4gtv.feifanlib.qzz.io/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,影迷數位電影台
+http://4gtv.feifanlib.qzz.io/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,愛爾達娛樂台
+http://4gtv.feifanlib.qzz.io/?id=5oSb54ia6YGU5aib5qiC5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,愛爾達生活旅遊台
+http://4gtv.feifanlib.qzz.io/?id=5oSb54ia6YGU55Sf5rS75peF6YGK5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,戲劇免費看 1台
+http://4gtv.feifanlib.qzz.io/?id=5oiy5YqH5YWN6LK755yLIDHlj7Ax&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,時尚運動X
+http://4gtv.feifanlib.qzz.io/?id=5pmC5bCa6YGL5YuVWAxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,智林體育台
+http://4gtv.feifanlib.qzz.io/?id=5pm65p6X6auU6IKy5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,東森購物四台
+http://4gtv.feifanlib.qzz.io/?id=5p2x5qOu6LO854mp5Zub5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,東森購物一台
+http://4gtv.feifanlib.qzz.io/?id=5p2x5qOu6LO854mp5LiA5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,東森新聞台
+http://4gtv.feifanlib.qzz.io/?id=5p2x5qOu5paw6IGe5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,東森財經新聞台
+http://4gtv.feifanlib.qzz.io/?id=5p2x5qOu6LKh57aT5paw6IGe5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,東森購物二台
+http://4gtv.feifanlib.qzz.io/?id=5p2x5qOu6LO854mp5LqM5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,東森購物三台
+http://4gtv.feifanlib.qzz.io/?id=5p2x5qOu6LO854mp5LiJ5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,民視第一台
+http://4gtv.feifanlib.qzz.io/?id=5rCR6KaW56ys5LiA5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,民視台灣台
+http://4gtv.feifanlib.qzz.io/?id=5rCR6KaW5Yaw54Gj5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,民視
+http://4gtv.feifanlib.qzz.io/?id=5rCR6KaW&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,民視新聞台
+http://4gtv.feifanlib.qzz.io/?id=5rCR6KaW5paw6IGe5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,民視綜藝台
+http://4gtv.feifanlib.qzz.io/?id=5rCR6KaW57ac6Jed5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,民視旅遊台
+http://4gtv.feifanlib.qzz.io/?id=5rCR6KaW5peF6YGK5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,民視影劇台
+http://4gtv.feifanlib.qzz.io/?id=5rCR6KaW5b2x5YqH5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,滾動力rollor
+http://4gtv.feifanlib.qzz.io/?id=5rua5YuV5Yqbcm9sbG9y&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,精選動漫台
+http://4gtv.feifanlib.qzz.io/?id=57Ka6YG45YuV5ryr5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,經典電影台
+http://4gtv.feifanlib.qzz.io/?id=57aT5YW46Zu75b2x5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,經典卡通台
+http://4gtv.feifanlib.qzz.io/?id=57aT5YW45Y2h6YCa5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,華視
+http://4gtv.feifanlib.qzz.io/?id=6Iav6KaW&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,華視新聞
+http://4gtv.feifanlib.qzz.io/?id=6Iav6KaW5paw6IGe&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,視納華仁紀實頻道
+http://4gtv.feifanlib.qzz.io/?id=6KaW57SN6Iav5LuB57SA5aam6aC76YGT&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,豬哥亮歌廳秀
+http://4gtv.feifanlib.qzz.io/?id=6LGs5ZOl5Lqu5q2M5buz56eA&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,車迷TV
+http://4gtv.feifanlib.qzz.io/?id=6LuK6La3VFYx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,達文西頻道
+http://4gtv.feifanlib.qzz.io/?id=6YGU5paH6KWz6aC76YGT&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,采昌影劇台
+http://4gtv.feifanlib.qzz.io/?id=6YeH5piM5b2x5YqH5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,金光布袋戲
+http://4gtv.feifanlib.qzz.io/?id=6YeR5YWJ5biD6KKL5oiy&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,鏡電視新聞台
+http://4gtv.feifanlib.qzz.io/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,電影原聲台CMusic
+http://4gtv.feifanlib.qzz.io/?id=6Zu75b2x5Y6f6IGy5YawQ011c2lj&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,霹靂布袋戲
+http://4gtv.feifanlib.qzz.io/?id=6Zy56Z2C5biD6KKL5oiy&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天綜合台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp57ac5ZCI5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天日本台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp5pel5pys5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天卡通台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖洋卡通Nice Bingo
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5rSL5Y2h6YCaTmljZSBCaW5nbwxx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天育樂台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp6IKy5qiC5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天資訊台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天戲劇台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖洋戲劇台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天映畫
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp5pig55Wr&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,靖天電影台
+http://4gtv.feifanlib.qzz.io/?id=6Z2W5aSp6Zu75b2x5Yaw&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
+#EXTGRP:1-4GTV
+#EXTINF:-1 ,韓國娛樂台 KMTV
+http://4gtv.feifanlib.qzz.io/?id=6ZaT5ZyL5aib5qiC5YawIEtNVFYx&auth=964348363edf9fd3adf283913cb534b93821c4d79246d50a936e70a7b788251ceba3665bcfb0da159a34ecb0290b5e96
 
