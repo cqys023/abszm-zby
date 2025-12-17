@@ -1,4 +1,4 @@
-ss://bm9uZToxZTg0NTUxZC01ODI1LTQ5ZjQtYjc3Mi0yZTlkMjk3OWVlYmI=@mfa.gov.ua:443#shadows
+ss://bm9uZToxZTg0NTUxZC01ODI1LTQ5ZjQtYjc3Mi0yZTlkMjk3OWVlYmI@mfa.gov.ua:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dshadows2.feifanlib.shop%3Bpath%3D%2F1e84551d-5825-49f4-b772-2e9d2979eebb%2F%3Fed%3D2560%3Btls#shadows
 
 hysteria2://da764685-8223-4c40-9752-ef23659e016a@47.251.33.161:30149/?sni=www.bing.com&alpn=h3&insecure=1#hy2-feifan
 hysteria2://da764685-8223-4c40-9752-ef23659e016a@udp.us-west-1.clawcloudrun.com:30149/?sni=www.bing.com&alpn=h3&insecure=1#hy2-feifanudp
@@ -24,6 +24,7 @@ vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.39.4:443?encryption=none&sec
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.35.4:443?encryption=none&security=tls&sni=cqys023.cqdjzxys123.netlib.re&fp=chrome&allowInsecure=1&type=ws&host=cqys023.cqdjzxys123.netlib.re&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@172.64.152.0:443?encryption=none&security=tls&sni=cqys023.cqdjzxys123.netlib.re&fp=chrome&allowInsecure=1&type=ws&host=cqys023.cqdjzxys123.netlib.re&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.17.144.0:443?encryption=none&security=tls&sni=cqys023.cqdjzxys123.netlib.re&fp=chrome&allowInsecure=1&type=ws&host=cqys023.cqdjzxys123.netlib.re&path=%2F#US-443-WS-TLS
+
 
 
 
