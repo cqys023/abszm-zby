@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ====== 11-新疆 #genre# ======
+#EXTINF:-1 ====== 11-新疆 ======
 #EXTINF:-1 ,CCTV-1
 http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv
 #EXTINF:-1 ,CGTN俄语
@@ -22,7 +22,7 @@ http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?key=txiptv
 http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv
 #EXTINF:-1 ,телевидение
 http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv
-#EXTINF:-1 ====== 12-第十二区#genre# ======
+#EXTINF:-1 ====== 12-第十二区 ======
 #EXTINF:-1 ,CCTV1-综合
 http://111.9.163.109:55555/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV2-财经
@@ -35,7 +35,7 @@ http://111.9.163.109:55555/tsfile/live/0004_1.m3u8?key=txiptv
 http://111.9.163.109:55555/tsfile/live/0005_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV6-电影
 http://111.9.163.109:55555/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 ,====== 19-第十九区,#genre# ======
+#EXTINF:-1 ,====== 19-第十九区 ======
 #EXTINF:-1 ,五华
 http://120.196.235.42:9901/tsfile/live/1000_1.m3u8?key=txiptv
 #EXTINF:-1 ,深圳都市频道
@@ -236,7 +236,7 @@ http://120.196.235.42:9901/tsfile/live/1109_1.m3u8?key=txiptv
 http://120.196.235.42:9901/tsfile/live/1110_1.m3u8?key=txiptv
 #EXTINF:-1 ,法治
 http://120.196.235.42:9901/tsfile/live/1111_1.m3u8?key=txiptv
-#EXTINF:-1 ======家里蹲通信 #genre# ======
+#EXTINF:-1 ====== 家里蹲通信 ======
 #EXTINF:-1 ,CCTV-1高清
 http://120.233.73.4:19901/tsfile/live/1020_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV-2高清
