@@ -1,0 +1,566 @@
+#EXTM3U
+#EXTINF:-1 ,====== 11-新疆 ,#genre# ======
+#EXTGRP:11-新疆
+#EXTINF:-1 ,CCTV-1
+http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 11-新疆,#genre# ======
+#EXTINF:-1 ,CGTN俄语
+http://120.70.60.179:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-6
+http://120.70.60.179:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-8
+http://120.70.60.179:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 ,新疆卫视-3
+http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 ,新疆卫视-5
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 ,24KZ
+http://120.70.60.179:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 ,ТВ
+http://120.70.60.179:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 ,Хабар
+http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 ,TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 ,телевидение
+http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 12-第十二区 ,#genre# ======
+#EXTGRP:12-第十二区
+#EXTINF:-1 ,CCTV1-综合
+http://111.9.163.109:55555/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 12-第十二区,#genre# ======
+#EXTINF:-1 ,CCTV2-财经
+http://111.9.163.109:55555/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV3-综艺
+http://111.9.163.109:55555/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV4-国际
+http://111.9.163.109:55555/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV5-体育
+http://111.9.163.109:55555/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV6-电影
+http://111.9.163.109:55555/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 19-第十九区 ,#genre# ======
+#EXTGRP:19-第十九区
+#EXTINF:-1 ,五华
+http://120.196.235.42:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 19-第十九区,#genre# ======
+#EXTINF:-1 ,深圳都市频道
+http://120.196.235.42:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 ,梅州1
+http://120.196.235.42:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 ,梅州2
+http://120.196.235.42:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 ,山歌台
+http://120.196.235.42:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 ,测试
+http://120.196.235.42:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 ,翡翠台
+http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 ,梅县1
+http://120.196.235.42:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳龙岗频道
+http://120.196.235.42:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 ,珠海-1
+http://120.196.235.42:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东卫视高清
+http://120.196.235.42:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东珠江高清
+http://120.196.235.42:9901/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东新闻
+http://120.196.235.42:9901/tsfile/live/1012_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东公共
+http://120.196.235.42:9901/tsfile/live/1013_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东体育高清
+http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 ,云浮综合
+http://120.196.235.42:9901/tsfile/live/1015_1.m3u8?key=txiptv
+#EXTINF:-1 ,南方一高清
+http://120.196.235.42:9901/tsfile/live/1016_1.m3u8?key=txiptv
+#EXTINF:-1 ,南方二
+http://120.196.235.42:9901/tsfile/live/1017_1.m3u8?key=txiptv
+#EXTINF:-1 ,南方四
+http://120.196.235.42:9901/tsfile/live/1018_1.m3u8?key=txiptv
+#EXTINF:-1 ,南方五
+http://120.196.235.42:9901/tsfile/live/1019_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV1高清
+http://120.196.235.42:9901/tsfile/live/1020_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV2高清
+http://120.196.235.42:9901/tsfile/live/1021_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV3高清
+http://120.196.235.42:9901/tsfile/live/1022_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV4
+http://120.196.235.42:9901/tsfile/live/1023_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV5高清
+http://120.196.235.42:9901/tsfile/live/1024_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV5+高清
+http://120.196.235.42:9901/tsfile/live/1025_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV6高清
+http://120.196.235.42:9901/tsfile/live/1026_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV7高清
+http://120.196.235.42:9901/tsfile/live/1027_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV8高清
+http://120.196.235.42:9901/tsfile/live/1028_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV9高清
+http://120.196.235.42:9901/tsfile/live/1029_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV10高清
+http://120.196.235.42:9901/tsfile/live/1030_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV11
+http://120.196.235.42:9901/tsfile/live/1031_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV12高清
+http://120.196.235.42:9901/tsfile/live/1032_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV13
+http://120.196.235.42:9901/tsfile/live/1033_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV14高清
+http://120.196.235.42:9901/tsfile/live/1034_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV15
+http://120.196.235.42:9901/tsfile/live/1035_1.m3u8?key=txiptv
+#EXTINF:-1 ,凤凰卫视
+http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv
+#EXTINF:-1 ,广州综合HD
+http://120.196.235.42:9901/tsfile/live/1043_1.m3u8?key=txiptv
+#EXTINF:-1 ,少儿卫视
+http://120.196.235.42:9901/tsfile/live/1038_1.m3u8?key=txiptv
+#EXTINF:-1 ,金鹰卡通
+http://120.196.235.42:9901/tsfile/live/1039_1.m3u8?key=txiptv
+#EXTINF:-1 ,炫动卡通
+http://120.196.235.42:9901/tsfile/live/1040_1.m3u8?key=txiptv
+#EXTINF:-1 ,嘉佳卡通
+http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv
+#EXTINF:-1 ,少儿动画
+http://120.196.235.42:9901/tsfile/live/1042_1.m3u8?key=txiptv
+#EXTINF:-1 ,江门综合
+http://120.196.235.42:9901/tsfile/live/1037_1.m3u8?key=txiptv
+#EXTINF:-1 ,揭阳综合
+http://120.196.235.42:9901/tsfile/live/1044_1.m3u8?key=txiptv
+#EXTINF:-1 ,经典电影
+http://120.196.235.42:9901/tsfile/live/1045_1.m3u8?key=txiptv
+#EXTINF:-1 ,CHC高清电影
+http://120.196.235.42:9901/tsfile/live/1046_1.m3u8?key=txiptv
+#EXTINF:-1 ,谍战剧场
+http://120.196.235.42:9901/tsfile/live/1047_1.m3u8?key=txiptv
+#EXTINF:-1 ,湖南卫视高清
+http://120.196.235.42:9901/tsfile/live/1048_1.m3u8?key=txiptv
+#EXTINF:-1 ,浙江卫视高清
+http://120.196.235.42:9901/tsfile/live/1049_1.m3u8?key=txiptv
+#EXTINF:-1 ,江苏卫视高清
+http://120.196.235.42:9901/tsfile/live/1050_1.m3u8?key=txiptv
+#EXTINF:-1 ,东方卫视高清
+http://120.196.235.42:9901/tsfile/live/1051_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳体育健康
+http://120.196.235.42:9901/tsfile/live/1052_1.m3u8?key=txiptv
+#EXTINF:-1 ,黑龙江卫视高清
+http://120.196.235.42:9901/tsfile/live/1054_1.m3u8?key=txiptv
+#EXTINF:-1 ,北京卫视高清
+http://120.196.235.42:9901/tsfile/live/1055_1.m3u8?key=txiptv
+#EXTINF:-1 ,天津卫视高清
+http://120.196.235.42:9901/tsfile/live/1056_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东卫视高清
+http://120.196.235.42:9901/tsfile/live/1057_1.m3u8?key=txiptv
+#EXTINF:-1 ,江西卫视高清
+http://120.196.235.42:9901/tsfile/live/1058_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳卫视高清
+http://120.196.235.42:9901/tsfile/live/1059_1.m3u8?key=txiptv
+#EXTINF:-1 ,湖北卫视高清
+http://120.196.235.42:9901/tsfile/live/1060_1.m3u8?key=txiptv
+#EXTINF:-1 ,辽宁卫视高清
+http://120.196.235.42:9901/tsfile/live/1061_1.m3u8?key=txiptv
+#EXTINF:-1 ,贵州卫视高清
+http://120.196.235.42:9901/tsfile/live/1062_1.m3u8?key=txiptv
+#EXTINF:-1 ,四川卫视高清
+http://120.196.235.42:9901/tsfile/live/1063_1.m3u8?key=txiptv
+#EXTINF:-1 ,金鹰纪实高清
+http://120.196.235.42:9901/tsfile/live/1064_1.m3u8?key=txiptv
+#EXTINF:-1 ,安徽卫视高清
+http://120.196.235.42:9901/tsfile/live/1065_1.m3u8?key=txiptv
+#EXTINF:-1 ,上海纪实高清
+http://120.196.235.42:9901/tsfile/live/1067_1.m3u8?key=txiptv
+#EXTINF:-1 ,重庆卫视高清
+http://120.196.235.42:9901/tsfile/live/1068_1.m3u8?key=txiptv
+#EXTINF:-1 ,河北卫视高清
+http://120.196.235.42:9901/tsfile/live/1069_1.m3u8?key=txiptv
+#EXTINF:-1 ,东南卫视高清
+http://120.196.235.42:9901/tsfile/live/1070_1.m3u8?key=txiptv
+#EXTINF:-1 ,吉林卫视高清
+http://120.196.235.42:9901/tsfile/live/1071_1.m3u8?key=txiptv
+#EXTINF:-1 ,本港台
+http://120.196.235.42:9901/tsfile/live/1072_1.m3u8?key=txiptv
+#EXTINF:-1 ,广西卫视
+http://120.196.235.42:9901/tsfile/live/1074_1.m3u8?key=txiptv
+#EXTINF:-1 ,陕西卫视
+http://120.196.235.42:9901/tsfile/live/1077_1.m3u8?key=txiptv
+#EXTINF:-1 ,山西卫视
+http://120.196.235.42:9901/tsfile/live/1078_1.m3u8?key=txiptv
+#EXTINF:-1 ,内蒙古
+http://120.196.235.42:9901/tsfile/live/1079_1.m3u8?key=txiptv
+#EXTINF:-1 ,宁夏卫视
+http://120.196.235.42:9901/tsfile/live/1083_1.m3u8?key=txiptv
+#EXTINF:-1 ,西藏卫视
+http://120.196.235.42:9901/tsfile/live/1084_1.m3u8?key=txiptv
+#EXTINF:-1 ,综合卫视
+http://120.196.235.42:9901/tsfile/live/1085_1.m3u8?key=txiptv
+#EXTINF:-1 ,兵团卫视
+http://120.196.235.42:9901/tsfile/live/1087_1.m3u8?key=txiptv
+#EXTINF:-1 ,相声小品
+http://120.196.235.42:9901/tsfile/live/1088_1.m3u8?key=txiptv
+#EXTINF:-1 ,热播剧场
+http://120.196.235.42:9901/tsfile/live/1089_1.m3u8?key=txiptv
+#EXTINF:-1 ,魅力时尚
+http://120.196.235.42:9901/tsfile/live/1090_1.m3u8?key=txiptv
+#EXTINF:-1 ,收视指南
+http://120.196.235.42:9901/tsfile/live/1091_1.m3u8?key=txiptv
+#EXTINF:-1 ,第一剧场高清
+http://120.196.235.42:9901/tsfile/live/1093_1.m3u8?key=txiptv
+#EXTINF:-1 ,风云足球高清
+http://120.196.235.42:9901/tsfile/live/1094_1.m3u8?key=txiptv
+#EXTINF:-1 ,世界地理高清
+http://120.196.235.42:9901/tsfile/live/1095_1.m3u8?key=txiptv
+#EXTINF:-1 ,风云音乐高清
+http://120.196.235.42:9901/tsfile/live/1096_1.m3u8?key=txiptv
+#EXTINF:-1 ,风云剧场高清
+http://120.196.235.42:9901/tsfile/live/1097_1.m3u8?key=txiptv
+#EXTINF:-1 ,怀旧剧场高清
+http://120.196.235.42:9901/tsfile/live/1098_1.m3u8?key=txiptv
+#EXTINF:-1 ,央视文化高清
+http://120.196.235.42:9901/tsfile/live/1099_1.m3u8?key=txiptv
+#EXTINF:-1 ,河源综合
+http://120.196.235.42:9901/tsfile/live/1100_1.m3u8?key=txiptv
+#EXTINF:-1 ,河源公共
+http://120.196.235.42:9901/tsfile/live/1101_1.m3u8?key=txiptv
+#EXTINF:-1 ,惠州1
+http://120.196.235.42:9901/tsfile/live/1103_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东移动
+http://120.196.235.42:9901/tsfile/live/1105_1.m3u8?key=txiptv
+#EXTINF:-1 ,南方购物
+http://120.196.235.42:9901/tsfile/live/1106_1.m3u8?key=txiptv
+#EXTINF:-1 ,房产
+http://120.196.235.42:9901/tsfile/live/1107_1.m3u8?key=txiptv
+#EXTINF:-1 ,粤荟萃
+http://120.196.235.42:9901/tsfile/live/1108_1.m3u8?key=txiptv
+#EXTINF:-1 ,足球
+http://120.196.235.42:9901/tsfile/live/1109_1.m3u8?key=txiptv
+#EXTINF:-1 ,野外
+http://120.196.235.42:9901/tsfile/live/1110_1.m3u8?key=txiptv
+#EXTINF:-1 ,法治
+http://120.196.235.42:9901/tsfile/live/1111_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 原能用的-中国 家里蹲 通信 ,#genre# ======
+#EXTGRP:原能用的-中国 家里蹲 通信
+#EXTINF:-1 ,CCTV-1高清
+http://120.233.73.4:19901/tsfile/live/1020_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 原能用的-中国 家里蹲 通信,#genre# ======
+#EXTINF:-1 ,CCTV-2高清
+http://120.233.73.4:19901/tsfile/live/1028_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-3
+http://120.233.73.4:19901/tsfile/live/1029_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-4
+http://120.233.73.4:19901/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-5
+http://120.233.73.4:19901/tsfile/live/1015_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-7高清
+http://120.233.73.4:19901/tsfile/live/1017_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-8
+http://120.233.73.4:19901/tsfile/live/1030_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-9高清
+http://120.233.73.4:19901/tsfile/live/1031_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-10高清
+http://120.233.73.4:19901/tsfile/live/1032_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-12
+http://120.233.73.4:19901/tsfile/live/1033_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳卫视高清
+http://120.233.73.4:19901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳都市高清
+http://120.233.73.4:19901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳电视剧高清
+http://120.233.73.4:19901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳生活
+http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv
+#EXTINF:-1 ,珠江卫视
+http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳体育高清
+http://120.233.73.4:19901/tsfile/live/1036_1.m3u8?key=txiptv
+#EXTINF:-1 ,珠江新闻
+http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳公共高清
+http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东卫视高清
+http://120.233.73.4:19901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 ,南方2台
+http://120.233.73.4:19901/tsfile/live/1039_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东体育超清
+http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv
+#EXTINF:-1 ,少儿动画
+http://120.233.73.4:19901/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 ,湖南卫视高清
+http://120.233.73.4:19901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 ,浙江卫视高清
+http://120.233.73.4:19901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 ,江苏卫视高清
+http://120.233.73.4:19901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 ,东方卫视高清
+http://120.233.73.4:19901/tsfile/live/1041_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== site-site ,#genre# ======
+#EXTGRP:site-site
+#EXTINF:-1 ,CCTV1HD
+http://ygbh.site/php/bfgd.php?id=488
+#EXTINF:-1 ,====== site-site,#genre# ======
+#EXTINF:-1 ,CCTV1HD
+http://ygbh.site/php/bfgd.php?id=201
+#EXTINF:-1 ,CCTV1
+http://ygbh.site/php/bfgd.php?id=484
+#EXTINF:-1 ,CCTV1
+http://ygbh.site/php/bfgd.php?id=489
+#EXTINF:-1 ,CCTV2
+http://ygbh.site/php/bfgd.php?id=061
+#EXTINF:-1 ,CCTV3HD
+http://ygbh.site/php/bfgd.php?id=062
+#EXTINF:-1 ,CCTV4HD
+http://ygbh.site/php/bfgd.php?id=063
+#EXTINF:-1 ,CCTV5HD
+http://ygbh.site/php/bfgd.php?id=064
+#EXTINF:-1 ,CCTV5+HD
+http://ygbh.site/php/bfgd.php?id=246
+#EXTINF:-1 ,CCTV6HD
+http://ygbh.site/php/bfgd.php?id=065
+#EXTINF:-1 ,CCTV7
+http://ygbh.site/php/bfgd.php?id=127
+#EXTINF:-1 ,CCTV8HD
+http://ygbh.site/php/bfgd.php?id=066
+#EXTINF:-1 ,CCTV9HD
+http://ygbh.site/php/bfgd.php?id=128
+#EXTINF:-1 ,CCTV10HD
+http://ygbh.site/php/bfgd.php?id=129
+#EXTINF:-1 ,CCTV11HD
+http://ygbh.site/php/bfgd.php?id=130
+#EXTINF:-1 ,CCTV12HD
+http://ygbh.site/php/bfgd.php?id=131
+#EXTINF:-1 ,CCTV13HD
+http://ygbh.site/php/bfgd.php?id=067
+#EXTINF:-1 ,CCTV14
+http://ygbh.site/php/bfgd.php?id=132
+#EXTINF:-1 ,CCTV15HD
+http://ygbh.site/php/bfgd.php?id=133
+#EXTINF:-1 ,CCTV17
+http://ygbh.site/php/bfgd.php?id=204
+#EXTINF:-1 ,CETV1HD
+http://ygbh.site/php/bfgd.php?id=135
+#EXTINF:-1 ,CETV2
+http://ygbh.site/php/bfgd.php?id=492
+#EXTINF:-1 ,CGTN
+http://ygbh.site/php/bfgd.php?id=134
+#EXTINF:-1 ,CGTN
+http://ygbh.site/php/bfgd.php?id=305
+#EXTINF:-1 ,CGTN西班牙语
+http://ygbh.site/php/bfgd.php?id=306
+#EXTINF:-1 ,CGTN阿拉伯语
+http://ygbh.site/php/bfgd.php?id=308
+#EXTINF:-1 ,书画
+http://ygbh.site/php/bfgd.php?id=180
+#EXTINF:-1 ,综艺
+http://ygbh.site/php/bfgd.php?id=292
+#EXTINF:-1 ,绘画
+http://ygbh.site/php/bfgd.php?id=297
+#EXTINF:-1 ,家政
+http://ygbh.site/php/bfgd.php?id=167
+#EXTINF:-1 ,午夜影院HD
+http://ygbh.site/php/bfgd.php?id=294
+#EXTINF:-1 ,重温经典
+http://ygbh.site/php/bfgd.php?id=636
+#EXTINF:-1 ,外国影院HD
+http://ygbh.site/php/bfgd.php?id=291
+#EXTINF:-1 ,家庭影院HD
+http://ygbh.site/php/bfgd.php?id=289
+#EXTINF:-1 ,求索地理HD
+http://ygbh.site/php/bfgd.php?id=286
+#EXTINF:-1 ,社区老年教育课堂HD
+http://ygbh.site/php/bfgd.php?id=615
+#EXTINF:-1 ,CGTN法语
+http://ygbh.site/php/bfgd.php?id=307
+#EXTINF:-1 ,CGTN俄语
+http://ygbh.site/php/bfgd.php?id=309
+#EXTINF:-1 ,纪录片HD
+http://ygbh.site/php/bfgd.php?id=295
+#EXTINF:-1 ,茶频道
+http://ygbh.site/php/bfgd.php?id=181
+#EXTINF:-1 ,老故事
+http://ygbh.site/php/bfgd.php?id=166
+#EXTINF:-1 ,3D影院HD
+http://ygbh.site/php/bfgd.php?id=298
+#EXTINF:-1 ,中国天气
+http://ygbh.site/php/bfgd.php?id=160
+#EXTINF:-1 ,法治天地
+http://ygbh.site/php/bfgd.php?id=162
+#EXTINF:-1 ,重庆汽摩
+http://ygbh.site/php/bfgd.php?id=168
+#EXTINF:-1 ,百姓健康
+http://ygbh.site/php/bfgd.php?id=219
+#EXTINF:-1 ,摄影频道
+http://ygbh.site/php/bfgd.php?id=222
+#EXTINF:-1 ,家庭理财
+http://ygbh.site/php/bfgd.php?id=139
+#EXTINF:-1 ,网络棋牌
+http://ygbh.site/php/bfgd.php?id=141
+#EXTINF:-1 ,游戏竞技
+http://ygbh.site/php/bfgd.php?id=142
+#EXTINF:-1 ,天元围棋
+http://ygbh.site/php/bfgd.php?id=144
+#EXTINF:-1 ,电子体育
+http://ygbh.site/php/bfgd.php?id=143
+#EXTINF:-1 ,车迷频道
+http://ygbh.site/php/bfgd.php?id=146
+#EXTINF:-1 ,生态环境
+http://ygbh.site/php/bfgd.php?id=149
+#EXTINF:-1 ,北京卡酷少儿HD
+http://ygbh.site/php/bfgd.php?id=106
+#EXTINF:-1 ,山东教育卫视HD
+http://ygbh.site/php/bfgd.php?id=112
+#EXTINF:-1 ,北京纪实科教
+http://ygbh.site/php/bfgd.php?id=113
+#EXTINF:-1 ,黑龙江卫视
+http://ygbh.site/php/bfgd.php?id=095
+#EXTINF:-1 ,内蒙古卫视
+http://ygbh.site/php/bfgd.php?id=110
+#EXTINF:-1 ,葫芦岛新闻综合
+http://ygbh.site/php/bfgd.php?id=284
+#EXTINF:-1 ,家庭剧场
+http://ygbh.site/php/bfgd.php?id=290
+#EXTINF:-1 ,求索动物HD
+http://ygbh.site/php/bfgd.php?id=287
+#EXTINF:-1 ,求索生活HD
+http://ygbh.site/php/bfgd.php?id=288
+#EXTINF:-1 ,环球旅游
+http://ygbh.site/php/bfgd.php?id=147
+#EXTINF:-1 ,北方导视
+http://ygbh.site/php/bfgd.php?id=187
+#EXTINF:-1 ,四海钓鱼
+http://ygbh.site/php/bfgd.php?id=229
+#EXTINF:-1 ,湖南卫视HD
+http://ygbh.site/php/bfgd.php?id=086
+#EXTINF:-1 ,天元围棋HD
+http://ygbh.site/php/bfgd.php?id=633
+#EXTINF:-1 ,电视指南
+http://ygbh.site/php/bfgd.php?id=164
+#EXTINF:-1 ,安徽卫视HD
+http://ygbh.site/php/bfgd.php?id=096
+#EXTINF:-1 ,北京卫视HD
+http://ygbh.site/php/bfgd.php?id=083
+#EXTINF:-1 ,优优宝贝
+http://ygbh.site/php/bfgd.php?id=153
+#EXTINF:-1 ,游戏竞技
+http://ygbh.site/php/bfgd.php?id=296
+#EXTINF:-1 ,天津卫视
+http://ygbh.site/php/bfgd.php?id=084
+#EXTINF:-1 ,山西卫视
+http://ygbh.site/php/bfgd.php?id=109
+#EXTINF:-1 ,延边卫视
+http://ygbh.site/php/bfgd.php?id=117
+#EXTINF:-1 ,中华特产
+http://ygbh.site/php/bfgd.php?id=158
+#EXTINF:-1 ,广西卫视
+http://ygbh.site/php/bfgd.php?id=116
+#EXTINF:-1 ,辽宁卫视
+http://ygbh.site/php/bfgd.php?id=058
+#EXTINF:-1 ,农林卫视
+http://ygbh.site/php/bfgd.php?id=122
+#EXTINF:-1 ,辽宁经济
+http://ygbh.site/php/bfgd.php?id=480
+#EXTINF:-1 ,广东卫视
+http://ygbh.site/php/bfgd.php?id=092
+#EXTINF:-1 ,东方卫视
+http://ygbh.site/php/bfgd.php?id=093
+#EXTINF:-1 ,东南卫视
+http://ygbh.site/php/bfgd.php?id=483
+#EXTINF:-1 ,湖北卫视
+http://ygbh.site/php/bfgd.php?id=102
+#EXTINF:-1 ,儿童动漫
+http://ygbh.site/php/bfgd.php?id=293
+#EXTINF:-1 ,深圳卫视
+http://ygbh.site/php/bfgd.php?id=100
+#EXTINF:-1 ,重庆卫视
+http://ygbh.site/php/bfgd.php?id=107
+#EXTINF:-1 ,吉林卫视
+http://ygbh.site/php/bfgd.php?id=097
+#EXTINF:-1 ,发现之旅
+http://ygbh.site/php/bfgd.php?id=151
+#EXTINF:-1 ,先锋乒羽
+http://ygbh.site/php/bfgd.php?id=349
+#EXTINF:-1 ,浙江卫视
+http://ygbh.site/php/bfgd.php?id=094
+#EXTINF:-1 ,江西卫视
+http://ygbh.site/php/bfgd.php?id=098
+#EXTINF:-1 ,山东卫视
+http://ygbh.site/php/bfgd.php?id=099
+#EXTINF:-1 ,贵州卫视
+http://ygbh.site/php/bfgd.php?id=101
+#EXTINF:-1 ,四川卫视
+http://ygbh.site/php/bfgd.php?id=103
+#EXTINF:-1 ,陕西卫视
+http://ygbh.site/php/bfgd.php?id=512
+#EXTINF:-1 ,河南卫视
+http://ygbh.site/php/bfgd.php?id=339
+#EXTINF:-1 ,海南卫视
+http://ygbh.site/php/bfgd.php?id=473
+#EXTINF:-1 ,云南卫视
+http://ygbh.site/php/bfgd.php?id=482
+#EXTINF:-1 ,金鹰卡通
+http://ygbh.site/php/bfgd.php?id=105
+#EXTINF:-1 ,河北卫视
+http://ygbh.site/php/bfgd.php?id=108
+#EXTINF:-1 ,云南卫视
+http://ygbh.site/php/bfgd.php?id=115
+#EXTINF:-1 ,宁夏卫视
+http://ygbh.site/php/bfgd.php?id=118
+#EXTINF:-1 ,陕西卫视
+http://ygbh.site/php/bfgd.php?id=114
+#EXTINF:-1 ,甘肃卫视
+http://ygbh.site/php/bfgd.php?id=119
+#EXTINF:-1 ,西藏卫视
+http://ygbh.site/php/bfgd.php?id=121
+#EXTINF:-1 ,兵团卫视
+http://ygbh.site/php/bfgd.php?id=124
+#EXTINF:-1 ,新疆卫视
+http://ygbh.site/php/bfgd.php?id=150
+#EXTINF:-1 ,辽阳新闻综合HD
+http://ygbh.site/php/bfgd.php?id=280
+#EXTINF:-1 ,大连新闻综合HD
+http://ygbh.site/php/bfgd.php?id=273
+#EXTINF:-1 ,财富天下
+http://ygbh.site/php/bfgd.php?id=231
+#EXTINF:-1 ,辽宁公共
+http://ygbh.site/php/bfgd.php?id=077
+#EXTINF:-1 ,辽宁公共
+http://ygbh.site/php/bfgd.php?id=481
+#EXTINF:-1 ,抚顺综合
+http://ygbh.site/php/bfgd.php?id=275
+#EXTINF:-1 ,连山区综合
+http://ygbh.site/php/bfgd.php?id=491
+#EXTINF:-1 ,辽宁新动漫
+http://ygbh.site/php/bfgd.php?id=140
+#EXTINF:-1 ,龙港区综合
+http://ygbh.site/php/bfgd.php?id=490
+#EXTINF:-1 ,辽宁体育HD
+http://ygbh.site/php/bfgd.php?id=611
+#EXTINF:-1 ,辽宁北方
+http://ygbh.site/php/bfgd.php?id=071
+#EXTINF:-1 ,辽宁都市HD
+http://ygbh.site/php/bfgd.php?id=610
+#EXTINF:-1 ,辽宁生活HD
+http://ygbh.site/php/bfgd.php?id=073
+#EXTINF:-1 ,辽宁教育青少
+http://ygbh.site/php/bfgd.php?id=075
+#EXTINF:-1 ,丹东新闻综合
+http://ygbh.site/php/bfgd.php?id=276
+#EXTINF:-1 ,铁岭新闻综合
+http://ygbh.site/php/bfgd.php?id=281
+#EXTINF:-1 ,锦州新闻综合
+http://ygbh.site/php/bfgd.php?id=277
+#EXTINF:-1 ,盘锦新闻综合
+http://ygbh.site/php/bfgd.php?id=283
+#EXTINF:-1 ,朝阳新闻综合HD
+http://ygbh.site/php/bfgd.php?id=282
+#EXTINF:-1 ,鞍山新闻综合HD
+http://ygbh.site/php/bfgd.php?id=274
+#EXTINF:-1 ,沈阳新闻综合
+http://ygbh.site/php/bfgd.php?id=059
+#EXTINF:-1 ,营口新闻综合
+http://ygbh.site/php/bfgd.php?id=278
+#EXTINF:-1 ,辽宁影视剧
+http://ygbh.site/php/bfgd.php?id=070
