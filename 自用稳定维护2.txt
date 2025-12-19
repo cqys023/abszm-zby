@@ -236,7 +236,7 @@ http://120.196.235.42:9901/tsfile/live/1109_1.m3u8?key=txiptv
 http://120.196.235.42:9901/tsfile/live/1110_1.m3u8?key=txiptv
 #EXTINF:-1 ,法治
 http://120.196.235.42:9901/tsfile/live/1111_1.m3u8?key=txiptv
-#EXTINF:-1 ,====== 原能用的-中国 家里蹲 通信,#genre# ======
+#EXTINF:-1 ,====== 中国 家里蹲 通信,#genre# ======
 #EXTINF:-1 ,CCTV-1高清
 http://120.233.73.4:19901/tsfile/live/1020_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV-2高清
