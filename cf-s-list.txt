@@ -6,6 +6,10 @@ hysteria2://20250926abc@66.181.36.242:27169/?insecure=1#Hy2-freecloud
 hysteria2://22c2cb89-cf4d-4fb1-be34-2e6ddfdbc4a0@66.181.36.85:43835/?sni=www.bing.com&alpn=h3&insecure=1#hy2-PASSP
 hysteria2://22c2cb89-cf4d-4fb1-be34-2e6ddfdbc4a0@[2604:abc0:103:415:216:3eff:feb6:686f]:43835/?sni=www.bing.com&alpn=h3&insecure=1#hy2-PASSPV6
 hysteria2://b048305a-ef9c-4330-9a4f-ed7fc92dcc15@108.181.55.125:51432?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-独角
+
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::8]:22000/?sni=apple.com&insecure=1#FR
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?sni=apple.com&insecure=1#FR2
+
 vless://e883ddd8-4011-4fac-9971-1ac3671475b8@210.61.97.241:81?encryption=none&security=tls&sni=shdows.feifanlib.fun&fp=firefox&allowInsecure=1&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560#TW
 vless://e883ddd8-4011-4fac-9971-1ac3671475b8@220.128.110.108:43?encryption=none&security=tls&sni=shdows.feifanlib.fun&fp=firefox&allowInsecure=1&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560#TW-2
 trojan://47cf6025-e1ed-46f0-950a-e72b7036cf5b@162.159.58.20:443?security=tls&sni=cqys023.cqdjzxys123.netlib.re&fp=chrome&allowInsecure=1&type=ws&host=cqys023.cqdjzxys123.netlib.re&path=%2F#US-443-Trojan-WS-TLS
@@ -24,6 +28,7 @@ vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.39.4:443?encryption=none&sec
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.35.4:443?encryption=none&security=tls&sni=cqys023.cqdjzxys123.netlib.re&fp=chrome&allowInsecure=1&type=ws&host=cqys023.cqdjzxys123.netlib.re&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@172.64.152.0:443?encryption=none&security=tls&sni=cqys023.cqdjzxys123.netlib.re&fp=chrome&allowInsecure=1&type=ws&host=cqys023.cqdjzxys123.netlib.re&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.17.144.0:443?encryption=none&security=tls&sni=cqys023.cqdjzxys123.netlib.re&fp=chrome&allowInsecure=1&type=ws&host=cqys023.cqdjzxys123.netlib.re&path=%2F#US-443-WS-TLS
+
 
 
 
