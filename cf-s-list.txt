@@ -10,7 +10,7 @@ hysteria2://b048305a-ef9c-4330-9a4f-ed7fc92dcc15@108.181.55.125:51432?security=t
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::8]:22000/?sni=apple.com&insecure=1#FR
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?sni=apple.com&insecure=1#FR2
 
-vless://e883ddd8-4011-4fac-9971-1ac3671475b8@210.61.97.241:81?encryption=none&security=tls&sni=shdows.feifanlib.fun&fp=firefox&allowInsecure=1&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560#TW
+vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@220.128.110.108:43?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#TW
 vless://e883ddd8-4011-4fac-9971-1ac3671475b8@220.128.110.108:43?encryption=none&security=tls&sni=shdows.feifanlib.fun&fp=firefox&allowInsecure=1&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560#TW-2
 trojan://47cf6025-e1ed-46f0-950a-e72b7036cf5b@162.159.58.20:443?security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-Trojan-WS-TLS
 
@@ -28,6 +28,7 @@ vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.39.4:443?encryption=none&sec
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.35.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@172.64.152.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.17.144.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
+
 
 
 
