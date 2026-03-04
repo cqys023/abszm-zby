@@ -3,7 +3,7 @@ vless://70a4c2af-4a5b-4375-91db-0c8162b12851@www.visa.com.tw:443?encryption=none
 vless://70a4c2af-4a5b-4375-91db-0c8162b12851@www.visa.com.br:8443?encryption=none&security=tls&sni=monsters-nature-grab-abraham.trycloudflare.com&fp=chrome&type=ws&host=monsters-nature-grab-abraham.trycloudflare.com&path=%2F70a4c2af-4a5b-4375-91db-0c8162b12851%3Fed%3D2048#claw3
 hysteria2://22c2cb89-cf4d-4fb1-be34-2e6ddfdbc4a0@66.181.36.85:43835/?sni=www.bing.com&alpn=h3&insecure=1#hy2-PASSP
 
-hysteria2://b048305a-ef9c-4330-9a4f-ed7fc92dcc15@108.181.55.125:51432?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-独角
+hysteria2://3c2ccf7c-b127-4b77-a5d8-585e727abbcb@193.108.58.32:24079/?sni=www.bing.com&alpn=h3&insecure=1#hy2-独角
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::8]:22000/?sni=apple.com&insecure=1#FR
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?sni=apple.com&insecure=1#FR2
@@ -26,6 +26,7 @@ vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.39.4:443?encryption=none&sec
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.35.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@172.64.152.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.17.144.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
+
 
 
 
