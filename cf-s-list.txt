@@ -9,6 +9,13 @@ hysteria2://3c2ccf7c-b127-4b77-a5d8-585e727abbcb@193.108.58.32:24079/?sni=www.bi
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::8]:22000/?sni=apple.com&insecure=1#FR
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?sni=apple.com&insecure=1#FR2
+hysteria2://hysteria2_fastlane_62hxzxhw6%3AgpjapMeYWiBsDR3KEun6DrwY0Is3gXay@150.241.78.128:1935?sni=de3.h.fastlanehosting.ru&insecure=0&allowInsecure=0#co1
+hysteria2://hysteria2_fastlane_81uqqeagr%3ALepBwrE84qJQqGYctplZF35Z8cSmFDn6@150.241.78.128:1935?sni=de3.h.fastlanehosting.ru&insecure=1&allowInsecure=1#co2
+hysteria2://hysteria2_fastlane_dnq9o89yn%3Ap6G9GwfEF7DqKxfBImWNKgW4YXHiDh6B@150.241.78.128:1935?sni=de3.h.fastlanehosting.ru&insecure=0&allowInsecure=0#co3
+hysteria2://hysteria2_fastlane_e4139zxuu%3Av98M16cL2SxCumFUxZ6gwTRuniuT54lC@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru&insecure=1&allowInsecure=1#co4
+hysteria2://hysteria2_fastlane_hrfva78cf%3AUJCSMeIa9cggK5NMqQABakETpHzrZ7SU@138.124.183.9:1935?sni=us1.h.smartaisupport.ru&insecure=0&allowInsecure=0#co5
+
+
 
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@220.128.110.108:43?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#TW
 vless://e883ddd8-4011-4fac-9971-1ac3671475b8@220.128.110.108:43?encryption=none&security=tls&sni=shdows.feifanlib.fun&fp=firefox&allowInsecure=1&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560#TW-2
@@ -28,6 +35,7 @@ vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.39.4:443?encryption=none&sec
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.35.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@172.64.152.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.17.144.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
+
 
 
 
