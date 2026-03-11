@@ -1,4 +1,81 @@
 #EXTM3U
+#EXTINF:-1 ,====== 11-新疆,#genre# ======
+#EXTINF:-1 ,CCTV-1
+http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 ,CGTN俄语
+http://120.70.60.179:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-6
+http://120.70.60.179:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-8
+http://120.70.60.179:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 ,新疆卫视-3
+http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 ,新疆卫视-5
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 ,24KZ
+http://120.70.60.179:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 ,ТВ
+http://120.70.60.179:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 ,Хабар
+http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 ,TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 ,телевидение
+http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 中国 家里蹲 通信,#genre# ======
+#EXTINF:-1 ,CCTV-1高清
+http://120.233.73.4:19901/tsfile/live/1020_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-2高清
+http://120.233.73.4:19901/tsfile/live/1028_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-3
+http://120.233.73.4:19901/tsfile/live/1029_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-4
+http://120.233.73.4:19901/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-5
+http://120.233.73.4:19901/tsfile/live/1015_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-7高清
+http://120.233.73.4:19901/tsfile/live/1017_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-8
+http://120.233.73.4:19901/tsfile/live/1030_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-9高清
+http://120.233.73.4:19901/tsfile/live/1031_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-10高清
+http://120.233.73.4:19901/tsfile/live/1032_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-12
+http://120.233.73.4:19901/tsfile/live/1033_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳卫视高清
+http://120.233.73.4:19901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳都市高清
+http://120.233.73.4:19901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳电视剧高清
+http://120.233.73.4:19901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳生活
+http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv
+#EXTINF:-1 ,珠江卫视
+http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳体育高清
+http://120.233.73.4:19901/tsfile/live/1036_1.m3u8?key=txiptv
+#EXTINF:-1 ,珠江新闻
+http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳公共高清
+http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东卫视高清
+http://120.233.73.4:19901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 ,南方2台
+http://120.233.73.4:19901/tsfile/live/1039_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东体育超清
+http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv
+#EXTINF:-1 ,少儿动画
+http://120.233.73.4:19901/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 ,湖南卫视高清
+http://120.233.73.4:19901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 ,浙江卫视高清
+http://120.233.73.4:19901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 ,江苏卫视高清
+http://120.233.73.4:19901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 ,东方卫视高清
+http://120.233.73.4:19901/tsfile/live/1041_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 综合列表,#genre# ======
 #EXTINF:-1 group-title="咪咕央卫",CCTV1
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=f1b8533bd76e5ef240eb347531087dea&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260311080153&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=223.88.0.2&SecurityKey=20260311080153&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=144514710&jmhm=f1b8533bd76e5ef240eb347531087dea&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38fa98fed308012780906ed2163069c7&sv=10004&ct=android
 #EXTINF:-1 group-title="咪咕央卫",CCTV2
