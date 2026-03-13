@@ -247,6 +247,8 @@ http://120.233.73.4:19901/tsfile/live/1029_1.m3u8?key=txiptv
 http://120.233.73.4:19901/tsfile/live/1014_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV-5
 http://120.233.73.4:19901/tsfile/live/1015_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV-6
+http://120.233.73.4:19901/tsfile/live/1003_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV-7高清
 http://120.233.73.4:19901/tsfile/live/1017_1.m3u8?key=txiptv
 #EXTINF:-1 ,CCTV-8
