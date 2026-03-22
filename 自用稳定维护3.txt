@@ -7,7 +7,7 @@ http://209.141.45.89:82/live/cctv1.m3u8?jsbt=1773717075&jsbk=a6d9ff53b98212e2ede
 #EXTINF:-1 group-title="央视卫视",CCTV-2
 http://107.150.39.250:82/live/cctv2.m3u8?jsbt=1773717079&jsbk=4506090c4d4ac2c73c29db13cc1ec17c&from=zbdq6
 #EXTINF:-1 group-title="央视卫视",CCTV-2
-http://205.185.115.230:82/live/cctv2.m3u8?jsbt=1773717085&jsbk=ef409f51501315b71b2dd86700ea30ee
+http://209.141.53.52:82/live/cctv1.m3u8?jsbt=1774138559&jsbk=eb4ee19d6c9b9660570a8c273d70f50f
 #EXTINF:-1 group-title="央视卫视",CCTV-3
 http://107.150.39.250:82/live/cctv3.m3u8?jsbt=1773717085&jsbk=45ed1ae2bfa80e242d3396f9e5f1a3a6&from=zbdq6
 #EXTINF:-1 group-title="央视卫视",CCTV-3
