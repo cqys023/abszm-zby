@@ -1,62 +1,4241 @@
 #EXTM3U
-#EXTINF:-1 ,====== 中国 家里蹲 通信,#genre# ======
-#EXTINF:-1 ,CCTV-1
-http://120.70.60.179:9901/tsfile/live/1007_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-1高清
-http://120.233.73.4:19901/tsfile/live/1020_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-2高清
-http://120.233.73.4:19901/tsfile/live/1028_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-3
-http://120.233.73.4:19901/tsfile/live/1029_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-4
-http://120.233.73.4:19901/tsfile/live/1014_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-5
-http://120.233.73.4:19901/tsfile/live/1015_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-6
-http://120.70.60.179:9901/tsfile/live/1009_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-6
-http://120.233.73.4:19901/tsfile/live/1003_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-7高清
-http://120.233.73.4:19901/tsfile/live/1017_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-8
-http://120.70.60.179:9901/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-8
-http://120.233.73.4:19901/tsfile/live/1030_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-9高清
-http://120.233.73.4:19901/tsfile/live/1031_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-10高清
-http://120.233.73.4:19901/tsfile/live/1032_1.m3u8?key=txiptv
-#EXTINF:-1 ,CCTV-12
-http://120.233.73.4:19901/tsfile/live/1033_1.m3u8?key=txiptv
-#EXTINF:-1 ,深圳卫视高清
-http://120.233.73.4:19901/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 ,深圳都市高清
-http://120.233.73.4:19901/tsfile/live/1001_1.m3u8?key=txiptv
-#EXTINF:-1 ,深圳电视剧高清
-http://120.233.73.4:19901/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 ,深圳生活
-http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv
-#EXTINF:-1 ,珠江卫视
-http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv
-#EXTINF:-1 ,深圳体育高清
-http://120.233.73.4:19901/tsfile/live/1036_1.m3u8?key=txiptv
-#EXTINF:-1 ,珠江新闻
-http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv
-#EXTINF:-1 ,深圳公共高清
-http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
-#EXTINF:-1 ,广东卫视高清
-http://120.233.73.4:19901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 ,南方2台
-http://120.233.73.4:19901/tsfile/live/1039_1.m3u8?key=txiptv
-#EXTINF:-1 ,广东体育超清
-http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv
-#EXTINF:-1 ,少儿动画
-http://120.233.73.4:19901/tsfile/live/1011_1.m3u8?key=txiptv
-#EXTINF:-1 ,湖南卫视高清
-http://120.233.73.4:19901/tsfile/live/1007_1.m3u8?key=txiptv
-#EXTINF:-1 ,浙江卫视高清
-http://120.233.73.4:19901/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 ,江苏卫视高清
-http://120.233.73.4:19901/tsfile/live/1009_1.m3u8?key=txiptv
-#EXTINF:-1 ,东方卫视高清
-http://120.233.73.4:19901/tsfile/live/1041_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视卫视",CCTV-1
+http://107.150.60.122/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-1
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-2
+http://107.150.60.122/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-2
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-3
+http://107.150.60.122/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-3
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-4
+http://107.150.60.122/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-5
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-6
+http://107.150.60.122/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-6
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-7
+http://107.150.60.122/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-8
+http://107.150.60.122/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-9
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-9
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-10
+http://107.150.60.122/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-12
+http://107.150.60.122/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-14
+http://107.150.60.122/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-15
+http://107.150.60.122/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-16
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CCTV-17
+http://107.150.60.122/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-17
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",CGTN英语
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CGTN记录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 group-title="央视卫视",CGTN俄语
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+#EXTINF:-1 group-title="央视卫视",CGTN法语
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 group-title="央视卫视",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://107.150.60.122/live/dnwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 group-title="央视卫视",云南卫视
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",四川卫视
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",天津卫视
+http://107.150.60.122/live/tjwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://107.150.60.122/live/sdwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",广西卫视
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://107.150.60.122/live/jswshd.m3u8
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",河北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",浙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",海南卫视
+http://nn.7x9d.cn/%e5%9c%b0%e6%96%b9%e5%8f%b08563/%e6%b5%b7%e5%8d%97.php?id=hnws
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://107.150.60.122/live/szwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://107.150.60.122/live/hbwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://107.150.60.122/live/hnwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",西藏卫视
+http://107.150.60.122/live/xzws.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://107.150.60.122/live/lnwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",重庆卫视
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",重庆卫视
+http://107.150.60.122/live/cqwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西卫视
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",陕西卫视
+http://107.150.60.122/live/snwshd.m3u8
+#EXTINF:-1 group-title="央视卫视",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",浙江卫视4K
+https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="央视卫视",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",CCTV-1
+http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-2
+http://116.1.148.123:9901/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-3
+http://116.1.148.123:9901/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-4
+http://116.1.148.123:9901/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-5
+http://116.1.148.123:9901/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-5+
+http://116.1.148.123:9901/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-6
+http://116.1.148.123:9901/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-7
+http://116.1.148.123:9901/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-8
+http://116.1.148.123:9901/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-9
+http://116.1.148.123:9901/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-10
+http://116.1.148.123:9901/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-11
+http://116.1.148.123:9901/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-12
+http://116.1.148.123:9901/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-14
+http://116.1.148.123:9901/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-15
+http://116.1.148.123:9901/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-17
+http://116.1.148.123:9901/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="央视卫视",咪咕央卫
+#genre#
+#EXTINF:-1 group-title="央视卫视",CCTV1
+http://1.14.161.13:3000/608807420
+#EXTINF:-1 group-title="央视卫视",CCTV2
+http://1.14.161.13:3000/631780532
+#EXTINF:-1 group-title="央视卫视",CCTV3
+http://1.14.161.13:3000/624878271
+#EXTINF:-1 group-title="央视卫视",CCTV4
+http://1.14.161.13:3000/631780421
+#EXTINF:-1 group-title="央视卫视",CCTV5
+http://1.14.161.13:3000/641886683
+#EXTINF:-1 group-title="央视卫视",CCTV5+
+http://1.14.161.13:3000/641886773
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://1.14.161.13:3000/624878396
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://1.14.161.13:3000/673168121
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://1.14.161.13:3000/624878356
+#EXTINF:-1 group-title="央视卫视",CCTV9
+http://1.14.161.13:3000/673168140
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://1.14.161.13:3000/624878405
+#EXTINF:-1 group-title="央视卫视",CCTV11
+http://1.14.161.13:3000/667987558
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://1.14.161.13:3000/673168185
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://1.14.161.13:3000/608807423
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://1.14.161.13:3000/624878440
+#EXTINF:-1 group-title="央视卫视",CCTV15
+http://1.14.161.13:3000/673168223
+#EXTINF:-1 group-title="央视卫视",CCTV17
+http://1.14.161.13:3000/673168256
+#EXTINF:-1 group-title="央视卫视",CCTV4欧洲
+http://1.14.161.13:3000/608807419
+#EXTINF:-1 group-title="央视卫视",CCTV4美洲
+http://1.14.161.13:3000/608807416
+#EXTINF:-1 group-title="央视卫视",赛事最经典
+http://1.14.161.13:3000/646596895
+#EXTINF:-1 group-title="央视卫视",体坛名栏汇
+http://1.14.161.13:3000/629943305
+#EXTINF:-1 group-title="央视卫视",四海钓鱼
+http://1.14.161.13:3000/637444975
+#EXTINF:-1 group-title="央视卫视",陕西体育
+http://1.14.161.13:3000/956909356
+#EXTINF:-1 group-title="央视卫视",辽宁体育
+http://1.14.161.13:3000/962067526
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://1.14.161.13:3000/651632648
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://1.14.161.13:3000/623899368
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://1.14.161.13:3000/608831231
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://1.14.161.13:3000/630287636
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://1.14.161.13:3000/630291707
+#EXTINF:-1 group-title="央视卫视",河北卫视
+http://1.14.161.13:3000/962042070
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://1.14.161.13:3000/783847495
+#EXTINF:-1 group-title="央视卫视",陕西卫视
+http://1.14.161.13:3000/738910838
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://1.14.161.13:3000/947472496
+#EXTINF:-1 group-title="央视卫视",农林卫视
+http://1.14.161.13:3000/956904896
+#EXTINF:-1 group-title="央视卫视",兵团卫视
+http://1.14.161.13:3000/956923145
+#EXTINF:-1 group-title="央视卫视",上海新闻综合
+http://1.14.161.13:3000/651632657
+#EXTINF:-1 group-title="央视卫视",上视东方影视
+http://1.14.161.13:3000/617290047
+#EXTINF:-1 group-title="央视卫视",公共新闻频道
+http://1.14.161.13:3000/626064693
+#EXTINF:-1 group-title="央视卫视",盐城新闻综合
+http://1.14.161.13:3000/639731825
+#EXTINF:-1 group-title="央视卫视",江阴新闻综合
+http://1.14.161.13:3000/955227979
+#EXTINF:-1 group-title="央视卫视",南通新闻综合
+http://1.14.161.13:3000/955227985
+#EXTINF:-1 group-title="央视卫视",宜兴新闻综合
+http://1.14.161.13:3000/955227996
+#EXTINF:-1 group-title="央视卫视",溧水新闻综合
+http://1.14.161.13:3000/639737327
+#EXTINF:-1 group-title="央视卫视",陕西银龄频道
+http://1.14.161.13:3000/956909362
+#EXTINF:-1 group-title="央视卫视",陕西都市青春频道
+http://1.14.161.13:3000/956909358
+#EXTINF:-1 group-title="央视卫视",陕西秦腔频道
+http://1.14.161.13:3000/956909303
+#EXTINF:-1 group-title="央视卫视",陕西新闻资讯频道
+http://1.14.161.13:3000/956909289
+#EXTINF:-1 group-title="央视卫视",财富天下
+http://1.14.161.13:3000/956923159
+#EXTINF:-1 group-title="央视卫视",辽宁公共频道
+http://1.14.161.13:3000/962045223
+#EXTINF:-1 group-title="央视卫视",辽宁生活频道
+http://1.14.161.13:3000/962045226
+#EXTINF:-1 group-title="央视卫视",辽宁影视剧频道
+http://1.14.161.13:3000/962067517
+#EXTINF:-1 group-title="央视卫视",宁夏文旅频道
+http://1.14.161.13:3000/962067523
+#EXTINF:-1 group-title="央视卫视",宁夏经济频道
+http://1.14.161.13:3000/962067520
+#EXTINF:-1 group-title="央视卫视",经典香港电影
+http://1.14.161.13:3000/625703337
+#EXTINF:-1 group-title="央视卫视",抗战经典影片
+http://1.14.161.13:3000/617432318
+#EXTINF:-1 group-title="央视卫视",新片放映厅
+http://1.14.161.13:3000/619495952
+#EXTINF:-1 group-title="央视卫视",CHC影迷电影
+http://1.14.161.13:3000/952383261
+#EXTINF:-1 group-title="央视卫视",CHC动作电影
+http://1.14.161.13:3000/644368714
+#EXTINF:-1 group-title="央视卫视",CHC家庭影院
+http://1.14.161.13:3000/644368373
+#EXTINF:-1 group-title="央视卫视",和美乡途轮播台
+http://1.14.161.13:3000/713591450
+#EXTINF:-1 group-title="央视卫视",最强综艺趴
+http://1.14.161.13:3000/629942228
+#EXTINF:-1 group-title="央视卫视",体育-昨天
+#genre#
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】萨巴伦卡2-0麦克纳莉 00:00
+http://1.14.161.13:3000/963774928
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】莱巴金娜2-0科斯秋克 00:00
+http://1.14.161.13:3000/963773226
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】费尔南德斯0-2佩古拉 00:00
+http://1.14.161.13:3000/963772543
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】斯维托丽娜0-2巴普蒂斯特 00:00
+http://1.14.161.13:3000/963772876
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】郑钦文-凯斯（刘钟鸣） 00:00
+http://1.14.161.13:3000/963774608
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】郑钦文2-1凯斯 00:00
+http://1.14.161.13:3000/963774906
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】郑钦文2-1凯斯（英文原声） 00:00
+http://1.14.161.13:3000/963778286
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】萨巴伦卡2-0麦克纳莉（英文原声） 00:00
+http://1.14.161.13:3000/963777055
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】莱巴金娜2-0科斯秋克（英文原声） 00:00
+http://1.14.161.13:3000/963774434
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】费尔南德斯0-2佩古拉（英文原声） 00:00
+http://1.14.161.13:3000/963772831
+#EXTINF:-1 group-title="央视卫视",WTA 莱巴、佩古拉晋级 萨巴速胜 【回放】斯维托丽娜0-2巴普蒂斯特（英文原声） 00:00
+http://1.14.161.13:3000/963773982
+#EXTINF:-1 group-title="央视卫视",法甲 马赛VS里尔 全场回放（盛斌） 00:00
+http://1.14.161.13:3000/963772509
+#EXTINF:-1 group-title="央视卫视",法甲 巴黎FCVS勒阿弗尔 全场回放（李永熙） 00:00
+http://1.14.161.13:3000/963772550
+#EXTINF:-1 group-title="央视卫视",法甲 雷恩VS梅斯 全场回放（乔迁） 00:00
+http://1.14.161.13:3000/963772466
+#EXTINF:-1 group-title="央视卫视",德甲 圣保利VS弗赖堡 全场回放（王子睿） 00:15
+http://1.14.161.13:3000/963772632
+#EXTINF:-1 group-title="央视卫视",意甲 罗马VS莱切 全场回放（张昊泽） 00:45
+http://1.14.161.13:3000/963772749
+#EXTINF:-1 group-title="央视卫视",西甲 毕尔巴鄂竞技VS皇家贝蒂斯 全场回放（张天翼） 01:15
+http://1.14.161.13:3000/963772729
+#EXTINF:-1 group-title="央视卫视",德甲 奥格斯堡VS斯图加特 全场回放（赵宇） 02:15
+http://1.14.161.13:3000/963772856
+#EXTINF:-1 group-title="央视卫视",法甲 南特VS斯特拉斯堡 全场回放（张天翼） 03:30
+http://1.14.161.13:3000/963773336
+#EXTINF:-1 group-title="央视卫视",意甲 佛罗伦萨VS国际米兰 全场回放（刘腾、贺宇） 03:30
+http://1.14.161.13:3000/963773339
+#EXTINF:-1 group-title="央视卫视",西甲 皇家马德里VS马德里竞技 全场回放（刘畅、孙雷） 03:45
+http://1.14.161.13:3000/963773583
+#EXTINF:-1 group-title="央视卫视",NBA 掘金VS开拓者 全场回放（邵化谦） 04:55
+http://1.14.161.13:3000/963774072
+#EXTINF:-1 group-title="央视卫视",NBA 掘金VS开拓者 全场回放（邢晨） 04:55
+http://1.14.161.13:3000/963774035
+#EXTINF:-1 group-title="央视卫视",NBA 掘金VS开拓者 全场回放（英文原声） 04:55
+http://1.14.161.13:3000/963774093
+#EXTINF:-1 group-title="央视卫视",WTA 郑钦文VS凯斯 全场回放（刘钟鸣） 00:00
+http://1.14.161.13:3000/963774608
+#EXTINF:-1 group-title="央视卫视",WTA 郑钦文VS凯斯 全场回放 00:00
+http://1.14.161.13:3000/963774906
+#EXTINF:-1 group-title="央视卫视",WTA 郑钦文VS凯斯 全场回放（英文原声） 00:00
+http://1.14.161.13:3000/963778286
+#EXTINF:-1 group-title="央视卫视",NBA 国王VS篮网 全场回放（贾磊） 05:55
+http://1.14.161.13:3000/963774745
+#EXTINF:-1 group-title="央视卫视",NBA 国王VS篮网 全场回放（英文原声） 05:55
+http://1.14.161.13:3000/963774764
+#EXTINF:-1 group-title="央视卫视",NBA 尼克斯VS奇才 全场回放（刘圳展） 07:25
+http://1.14.161.13:3000/963776201
+#EXTINF:-1 group-title="央视卫视",NBA 尼克斯VS奇才 全场回放（英文原声） 07:25
+http://1.14.161.13:3000/963776228
+#EXTINF:-1 group-title="央视卫视",NBA 凯尔特人VS森林狼 全场回放（蔡凯臣、马健、拜月宁） 07:55
+http://1.14.161.13:3000/963777161
+#EXTINF:-1 group-title="央视卫视",NBA 凯尔特人VS森林狼 全场回放（英文原声） 07:55
+http://1.14.161.13:3000/963776998
+#EXTINF:-1 group-title="央视卫视",NBA 太阳VS猛龙 全场回放（王冠证、殷文玉、廖昕阳） 08:55
+http://1.14.161.13:3000/963777959
+#EXTINF:-1 group-title="央视卫视",NBA 太阳VS猛龙 全场回放（英文原声） 08:55
+http://1.14.161.13:3000/963777895
+#EXTINF:-1 group-title="央视卫视",WTA 阿尼西莫娃出战 高芙、穆霍娃晋级 赛场原声 23:00
+http://1.14.161.13:3000/963658862
+#EXTINF:-1 group-title="央视卫视",WTA 阿尼西莫娃出战 高芙、穆霍娃晋级 英文原声 23:00
+http://1.14.161.13:3000/963658879
+#EXTINF:-1 group-title="央视卫视",体育-今天
+#genre#
+#EXTINF:-1 group-title="央视卫视",WTA 萨巴伦卡VS郑钦文 【全场回放】（刘钟鸣） 23:00
+http://1.14.161.13:3000/963788083
+#EXTINF:-1 group-title="央视卫视",WTA 萨巴伦卡VS郑钦文 【全场回放】 23:00
+http://1.14.161.13:3000/963788495
+#EXTINF:-1 group-title="央视卫视",NBA 76人VS雷霆 罗森 06:55
+http://1.14.161.13:3000/963724432
+#EXTINF:-1 group-title="央视卫视",NBA 76人VS雷霆 英文原声 06:55
+http://1.14.161.13:3000/963724542
+#EXTINF:-1 group-title="央视卫视",NBA 活塞VS湖人 李天宇 陈正昊 王羽希 06:45
+http://1.14.161.13:3000/963724136
+#EXTINF:-1 group-title="央视卫视",NBA 活塞VS湖人 英文原声 06:55
+http://1.14.161.13:3000/963724300
+#EXTINF:-1 group-title="央视卫视",NBA 魔术VS步行者 盛哲 06:55
+http://1.14.161.13:3000/963724339
+#EXTINF:-1 group-title="央视卫视",NBA 魔术VS步行者 英文原声 06:55
+http://1.14.161.13:3000/963724390
+#EXTINF:-1 group-title="央视卫视",NBA 热火VS马刺 吴博文 06:55
+http://1.14.161.13:3000/963724559
+#EXTINF:-1 group-title="央视卫视",NBA 热火VS马刺 王晓晨 06:55
+http://1.14.161.13:3000/963724617
+#EXTINF:-1 group-title="央视卫视",NBA 热火VS马刺 英文原声 06:55
+http://1.14.161.13:3000/963724709
+#EXTINF:-1 group-title="央视卫视",NBA 老鹰VS灰熊 贾磊 07:25
+http://1.14.161.13:3000/963724725
+#EXTINF:-1 group-title="央视卫视",NBA 老鹰VS灰熊 英文原声 07:25
+http://1.14.161.13:3000/963724778
+#EXTINF:-1 group-title="央视卫视",NBA 公牛VS火箭 连睿 周鹏 王润陶 07:45
+http://1.14.161.13:3000/963723939
+#EXTINF:-1 group-title="央视卫视",NBA 公牛VS火箭 英文原声 07:55
+http://1.14.161.13:3000/963723994
+#EXTINF:-1 group-title="央视卫视",NBA 爵士VS猛龙 刘芳宇 08:55
+http://1.14.161.13:3000/963724088
+#EXTINF:-1 group-title="央视卫视",NBA 爵士VS猛龙 英文原声 08:55
+http://1.14.161.13:3000/963724111
+#EXTINF:-1 group-title="央视卫视",NBA 独行侠VS勇士 杨健 曾令旭 闫宇峰 09:15
+http://1.14.161.13:3000/963724154
+#EXTINF:-1 group-title="央视卫视",NBA 独行侠VS勇士 拜月宁 09:25
+http://1.14.161.13:3000/963724246
+#EXTINF:-1 group-title="央视卫视",NBA 独行侠VS勇士 英文原声 09:25
+http://1.14.161.13:3000/963724309
+#EXTINF:-1 group-title="央视卫视",NBA 独行侠VS勇士 智能字幕 09:25
+http://1.14.161.13:3000/963724362
+#EXTINF:-1 group-title="央视卫视",NBA 开拓者VS篮网 姜帆 季孟年 09:55
+http://1.14.161.13:3000/963724456
+#EXTINF:-1 group-title="央视卫视",NBA 开拓者VS篮网 邢晨 09:55
+http://1.14.161.13:3000/963724490
+#EXTINF:-1 group-title="央视卫视",NBA 开拓者VS篮网 英文原声 09:55
+http://1.14.161.13:3000/963724511
+#EXTINF:-1 group-title="央视卫视",NBA 开拓者VS篮网 智能字幕 09:55
+http://1.14.161.13:3000/963724551
+#EXTINF:-1 group-title="央视卫视",NBA 快船VS雄鹿 孙博 10:25
+http://1.14.161.13:3000/963724629
+#EXTINF:-1 group-title="央视卫视",NBA 快船VS雄鹿 英文原声 10:25
+http://1.14.161.13:3000/963724654
+#EXTINF:-1 group-title="央视卫视",WTT 汪洋、杨晓馨领衔外协众将冲正赛 1号桌 16:00
+http://1.14.161.13:3000/963692076
+#EXTINF:-1 group-title="央视卫视",WTT 汪洋、杨晓馨领衔外协众将冲正赛 2号桌 16:00
+http://1.14.161.13:3000/963692105
+#EXTINF:-1 group-title="央视卫视",WTT 汪洋、杨晓馨领衔外协众将冲正赛 3号桌 16:00
+http://1.14.161.13:3000/963692134
+#EXTINF:-1 group-title="央视卫视",WTT 汪洋、杨晓馨领衔外协众将冲正赛 4号桌 16:00
+http://1.14.161.13:3000/963692149
+#EXTINF:-1 group-title="央视卫视",NBL 江西鲸裕清酒VS石家庄翔蓝 解说 19:20
+http://1.14.161.13:3000/963778020
+#EXTINF:-1 group-title="央视卫视",NBL 江西鲸裕清酒VS石家庄翔蓝 赛场原声 19:20
+http://1.14.161.13:3000/963778025
+#EXTINF:-1 group-title="央视卫视",NBL 香港金牛VS盐南苏科雄狮 解说 19:20
+http://1.14.161.13:3000/963777980
+#EXTINF:-1 group-title="央视卫视",NBL 香港金牛VS盐南苏科雄狮 赛场原声 19:20
+http://1.14.161.13:3000/963777993
+#EXTINF:-1 group-title="央视卫视",CBA 深圳马可波罗VS江苏肯帝亚 图文直播 19:35
+http://1.14.161.13:3000/963499711
+#EXTINF:-1 group-title="央视卫视",CBA 天津先行者VS浙江浙商证券 图文直播 19:35
+http://1.14.161.13:3000/963499721
+#EXTINF:-1 group-title="央视卫视",体育-明天
+#genre#
+#EXTINF:-1 group-title="央视卫视",WTA WTA迈阿密站女单day8 清流播出 02:00
+http://1.14.161.13:3000/963658920
+#EXTINF:-1 group-title="央视卫视",WTA WTA迈阿密站女单day8 英文原声 02:00
+http://1.14.161.13:3000/963659093
+#EXTINF:-1 group-title="央视卫视",NBA 黄蜂VS国王 董倡硕 06:55
+http://1.14.161.13:3000/963724070
+#EXTINF:-1 group-title="央视卫视",NBA 黄蜂VS国王 英文原声 06:55
+http://1.14.161.13:3000/963723974
+#EXTINF:-1 group-title="央视卫视",NBA 尼克斯VS鹈鹕 刘圳展 07:25
+http://1.14.161.13:3000/963724238
+#EXTINF:-1 group-title="央视卫视",NBA 尼克斯VS鹈鹕 英文原声 07:25
+http://1.14.161.13:3000/963724144
+#EXTINF:-1 group-title="央视卫视",NBA 骑士VS魔术 杨健 曾令旭 裴优 07:45
+http://1.14.161.13:3000/963724824
+#EXTINF:-1 group-title="央视卫视",NBA 骑士VS魔术 英文原声 07:55
+http://1.14.161.13:3000/963724734
+#EXTINF:-1 group-title="央视卫视",NBA 骑士VS魔术 智能字幕 07:55
+http://1.14.161.13:3000/963724719
+#EXTINF:-1 group-title="央视卫视",全国撑竿跳高单项赛 全国撑竿跳高单项赛第4站 官方解说 09:45
+http://1.14.161.13:3000/963722550
+#EXTINF:-1 group-title="央视卫视",NBA 太阳VS掘金 庄宁宇 徐咏 陈正昊 10:45
+http://1.14.161.13:3000/963724587
+#EXTINF:-1 group-title="央视卫视",NBA 太阳VS掘金 英文原声 10:55
+http://1.14.161.13:3000/963724331
+#EXTINF:-1 group-title="央视卫视",NBA 太阳VS掘金 智能字幕 10:55
+http://1.14.161.13:3000/963724295
+#EXTINF:-1 group-title="央视卫视",亚冠精英 亚冠精英决赛阶段抽签仪式 涂远 14:55
+http://1.14.161.13:3000/963710298
+#EXTINF:-1 group-title="央视卫视",亚冠精英 亚冠精英决赛阶段抽签仪式 赛场原声 14:55
+http://1.14.161.13:3000/963710294
+#EXTINF:-1 group-title="央视卫视",WTT 资格赛最终轮 1号桌 16:00
+http://1.14.161.13:3000/963692175
+#EXTINF:-1 group-title="央视卫视",WTT 资格赛最终轮 2号桌 16:00
+http://1.14.161.13:3000/963692205
+#EXTINF:-1 group-title="央视卫视",WTT 资格赛最终轮 3号桌 16:00
+http://1.14.161.13:3000/963692239
+#EXTINF:-1 group-title="央视卫视",WTT 资格赛最终轮 4号桌 16:00
+http://1.14.161.13:3000/963692254
+#EXTINF:-1 group-title="央视卫视",NBL 上海玄鸟VS山东蜜獾 解说 19:20
+http://1.14.161.13:3000/963778062
+#EXTINF:-1 group-title="央视卫视",NBL 上海玄鸟VS山东蜜獾 赛场原声 19:20
+http://1.14.161.13:3000/963778139
+#EXTINF:-1 group-title="央视卫视",NBL 合肥狂风VS长沙勇胜 解说 19:20
+http://1.14.161.13:3000/963778045
+#EXTINF:-1 group-title="央视卫视",NBL 合肥狂风VS长沙勇胜 赛场原声 19:20
+http://1.14.161.13:3000/963778053
+#EXTINF:-1 group-title="央视卫视",CBA 宁波町渥VS福建晋江文旅 图文直播 19:35
+http://1.14.161.13:3000/963499728
+#EXTINF:-1 group-title="央视卫视",CBA 广东东阳光VS四川丰谷酒业 图文直播 19:35
+http://1.14.161.13:3000/963499732
+#EXTINF:-1 group-title="央视卫视",CBA 长白山恩都里VS辽宁本钢 图文直播 19:35
+http://1.14.161.13:3000/963499741
+#EXTINF:-1 group-title="央视卫视",CBA 山西汾酒VS上海久事 图文直播 19:35
+http://1.14.161.13:3000/963499754
+#EXTINF:-1 group-title="央视卫视",CBA 北京北汽VS浙江稠州金租 图文直播 19:35
+http://1.14.161.13:3000/963499759
+#EXTINF:-1 group-title="央视卫视",CBA 新疆伊力特VS山东高速 图文直播 20:00
+http://1.14.161.13:3000/963499780
+#EXTINF:-1 group-title="央视卫视",今日组播
+#genre#
+#EXTINF:-1 group-title="央视卫视",九屏直播频道
+http://106.116.126.240:4022/rtp/239.254.200.248:6000
+#EXTINF:-1 group-title="央视卫视",河北卫视
+http://106.116.126.240:4022/rtp/239.254.200.174:6000
+#EXTINF:-1 group-title="央视卫视",河北经济生活
+http://106.116.126.240:4022/rtp/239.254.200.18:6000
+#EXTINF:-1 group-title="央视卫视",河北都市频道
+http://106.116.126.240:4022/rtp/239.254.200.19:6000
+#EXTINF:-1 group-title="央视卫视",河北影视剧频道
+http://106.116.126.240:4022/rtp/239.254.200.20:6000
+#EXTINF:-1 group-title="央视卫视",河北少儿科教
+http://106.116.126.240:4022/rtp/239.254.200.21:6000
+#EXTINF:-1 group-title="央视卫视",河北文旅公共
+http://106.116.126.240:4022/rtp/239.254.200.22:6000
+#EXTINF:-1 group-title="央视卫视",河北农民
+http://106.116.126.240:4022/rtp/239.254.200.23:6000
+#EXTINF:-1 group-title="央视卫视",睛彩河北
+http://106.116.126.240:4022/rtp/239.254.200.27:6000
+#EXTINF:-1 group-title="央视卫视",河北杂技频道
+http://106.116.126.240:4022/rtp/239.254.201.139:7203
+#EXTINF:-1 group-title="央视卫视",河北三佳购物
+http://106.116.126.240:4022/rtp/239.254.200.143:6000
+#EXTINF:-1 group-title="央视卫视",CCTV-1综合
+http://106.116.126.240:4022/rtp/239.254.200.45:8008
+#EXTINF:-1 group-title="央视卫视",CCTV-2财经
+http://106.116.126.240:4022/rtp/239.254.200.158:6000
+#EXTINF:-1 group-title="央视卫视",CCTV-3综艺
+http://106.116.126.240:4022/rtp/239.254.201.152:7205
+#EXTINF:-1 group-title="央视卫视",CCTV-4中文国际
+http://106.116.126.240:4022/rtp/239.254.200.190:6307
+#EXTINF:-1 group-title="央视卫视",CCTV-5体育
+http://106.116.126.240:4022/rtp/239.254.201.153:7206
+#EXTINF:-1 group-title="央视卫视",CCTV-5+体育赛事
+http://106.116.126.240:4022/rtp/239.254.200.46:8004
+#EXTINF:-1 group-title="央视卫视",CCTV-6电影
+http://106.116.126.240:4022/rtp/239.254.201.154:7207
+#EXTINF:-1 group-title="央视卫视",CCTV-7国防军事
+http://106.116.126.240:4022/rtp/239.254.200.159:6000
+#EXTINF:-1 group-title="央视卫视",CCTV-8电视剧
+http://106.116.126.240:4022/rtp/239.254.201.155:7208
+#EXTINF:-1 group-title="央视卫视",CCTV-9纪录
+http://106.116.126.240:4022/rtp/239.254.200.59:8112
+#EXTINF:-1 group-title="央视卫视",CCTV-10科教
+http://106.116.126.240:4022/rtp/239.254.200.160:6000
+#EXTINF:-1 group-title="央视卫视",CCTV-11戏曲
+http://106.116.126.240:4022/rtp/239.254.201.123:8120
+#EXTINF:-1 group-title="央视卫视",CCTV-12社会与法
+http://106.116.126.240:4022/rtp/239.254.200.161:6000
+#EXTINF:-1 group-title="央视卫视",CCTV-13新闻
+http://106.116.126.240:4022/rtp/239.254.200.9:8264
+#EXTINF:-1 group-title="央视卫视",CCTV-14少儿
+http://106.116.126.240:4022/rtp/239.254.200.162:6000
+#EXTINF:-1 group-title="央视卫视",CCTV-15音乐
+http://106.116.126.240:4022/rtp/239.254.201.124:8136
+#EXTINF:-1 group-title="央视卫视",CCTV-17农业农村
+http://106.116.126.240:4022/rtp/239.254.201.120:8144
+#EXTINF:-1 group-title="央视卫视",CCTV电视指南
+http://106.116.126.240:4022/rtp/239.254.201.217:7250
+#EXTINF:-1 group-title="央视卫视",CCTV第一剧场
+http://106.116.126.240:4022/rtp/239.254.201.218:7258
+#EXTINF:-1 group-title="央视卫视",CCTV风云剧场
+http://106.116.126.240:4022/rtp/239.254.201.219:7257
+#EXTINF:-1 group-title="央视卫视",CCTV怀旧剧场
+http://106.116.126.240:4022/rtp/239.254.201.220:7256%e4%b8%8a%e6%b5%b7
+#EXTINF:-1 group-title="央视卫视",CCTV风云音乐
+http://106.116.126.240:4022/rtp/239.254.201.221:7259
+#EXTINF:-1 group-title="央视卫视",CCTV风云足球
+http://106.116.126.240:4022/rtp/239.254.201.222:7251
+#EXTINF:-1 group-title="央视卫视",CCTV高尔夫网球
+http://106.116.126.240:4022/rtp/239.254.201.223:7252
+#EXTINF:-1 group-title="央视卫视",CCTV央视台球
+http://106.116.126.240:4022/rtp/239.254.201.171:7176
+#EXTINF:-1 group-title="央视卫视",CCTV女性时尚
+http://106.116.126.240:4022/rtp/239.254.201.228:7255
+#EXTINF:-1 group-title="央视卫视",CCTV央视文化精品
+http://106.116.126.240:4022/rtp/239.254.201.229:7260
+#EXTINF:-1 group-title="央视卫视",CCTV兵器科技
+http://106.116.126.240:4022/rtp/239.254.201.225:7249
+#EXTINF:-1 group-title="央视卫视",CCTV世界地理
+http://106.116.126.240:4022/rtp/239.254.201.226:7254
+#EXTINF:-1 group-title="央视卫视",羽毛球专区
+http://106.116.126.240:4022/rtp/239.254.201.214:7264
+#EXTINF:-1 group-title="央视卫视",中式八球国际公开赛
+http://106.116.126.240:4022/rtp/239.254.200.187:6000
+#EXTINF:-1 group-title="央视卫视",石家庄新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.157:6000
+#EXTINF:-1 group-title="央视卫视",石家庄文化娱乐
+http://106.116.126.240:4022/rtp/239.254.200.29:6000
+#EXTINF:-1 group-title="央视卫视",石家庄城市服务
+http://106.116.126.240:4022/rtp/239.254.200.30:6000
+#EXTINF:-1 group-title="央视卫视",承德新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.32:6000
+#EXTINF:-1 group-title="央视卫视",承德旅游文化
+http://106.116.126.240:4022/rtp/239.254.200.33:6000
+#EXTINF:-1 group-title="央视卫视",秦皇岛新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.39:6000
+#EXTINF:-1 group-title="央视卫视",秦皇岛公共频道
+http://106.116.126.240:4022/rtp/239.254.200.40:6000
+#EXTINF:-1 group-title="央视卫视",秦皇岛影视
+http://106.116.126.240:4022/rtp/239.254.200.41:6000
+#EXTINF:-1 group-title="央视卫视",唐山新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.166:6000
+#EXTINF:-1 group-title="央视卫视",唐山生活服务
+http://106.116.126.240:4022/rtp/239.254.200.167:6000
+#EXTINF:-1 group-title="央视卫视",唐山影视频道
+http://106.116.126.240:4022/rtp/239.254.200.168:6000
+#EXTINF:-1 group-title="央视卫视",唐山公共频道
+http://106.116.126.240:4022/rtp/239.254.200.169:6000
+#EXTINF:-1 group-title="央视卫视",廊坊新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.183:6000
+#EXTINF:-1 group-title="央视卫视",廊坊生活频道
+http://106.116.126.240:4022/rtp/239.254.200.184:6000
+#EXTINF:-1 group-title="央视卫视",保定新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.144:6000
+#EXTINF:-1 group-title="央视卫视",保定公共频道
+http://106.116.126.240:4022/rtp/239.254.200.145:6000
+#EXTINF:-1 group-title="央视卫视",保定生活健康
+http://106.116.126.240:4022/rtp/239.254.200.146:6000
+#EXTINF:-1 group-title="央视卫视",衡水新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.147:6000
+#EXTINF:-1 group-title="央视卫视",衡水经济科教
+http://106.116.126.240:4022/rtp/239.254.200.149:6000
+#EXTINF:-1 group-title="央视卫视",邢台综合频道
+http://106.116.126.240:4022/rtp/239.254.200.150:6000
+#EXTINF:-1 group-title="央视卫视",邢台城市生活
+http://106.116.126.240:4022/rtp/239.254.200.152:6000
+#EXTINF:-1 group-title="央视卫视",邯郸新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.153:6000
+#EXTINF:-1 group-title="央视卫视",邯郸公共频道
+http://106.116.126.240:4022/rtp/239.254.200.154:6000
+#EXTINF:-1 group-title="央视卫视",邯郸科技教育
+http://106.116.126.240:4022/rtp/239.254.200.155:6000
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://106.116.126.240:4022/rtp/239.254.200.48:8012
+#EXTINF:-1 group-title="央视卫视",浙江卫视
+http://106.116.126.240:4022/rtp/239.254.200.53:8036
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://106.116.126.240:4022/rtp/239.254.200.51:8028
+#EXTINF:-1 group-title="央视卫视",安徽卫视
+http://106.116.126.240:4022/rtp/239.254.200.163:6000
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://106.116.126.240:4022/rtp/239.254.201.13:6291
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://106.116.126.240:4022/rtp/239.254.200.47:8024
+#EXTINF:-1 group-title="央视卫视",天津卫视
+http://106.116.126.240:4022/rtp/239.254.200.54:1234
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://106.116.126.240:4022/rtp/239.254.200.57:8056
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://106.116.126.240:4022/rtp/239.254.200.55:8052
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://106.116.126.240:4022/rtp/239.254.201.16:7174
+#EXTINF:-1 group-title="央视卫视",黑龙江卫视
+http://106.116.126.240:4022/rtp/239.254.200.49:8016
+#EXTINF:-1 group-title="央视卫视",四川卫视
+http://106.116.126.240:4022/rtp/239.254.200.202:6325
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://106.116.126.240:4022/rtp/239.254.201.12:6290
+#EXTINF:-1 group-title="央视卫视",贵州卫视
+http://106.116.126.240:4022/rtp/239.254.201.20:6315
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://106.116.126.240:4022/rtp/239.254.200.50:8020
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://106.116.126.240:4022/rtp/239.254.200.164:6000
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://106.116.126.240:4022/rtp/239.254.200.52:8032
+#EXTINF:-1 group-title="央视卫视",重庆卫视
+http://106.116.126.240:4022/rtp/239.254.200.203:6323
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://106.116.126.240:4022/rtp/239.254.200.56:8048
+#EXTINF:-1 group-title="央视卫视",广西卫视
+http://106.116.126.240:4022/rtp/239.254.200.80:8300
+#EXTINF:-1 group-title="央视卫视",海南卫视
+http://106.116.126.240:4022/rtp/239.254.201.125:6288
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://106.116.126.240:4022/rtp/239.254.201.15:6339
+#EXTINF:-1 group-title="央视卫视",陕西卫视
+http://106.116.126.240:4022/rtp/239.254.200.82:8140
+#EXTINF:-1 group-title="央视卫视",山西卫视
+http://106.116.126.240:4022/rtp/239.254.200.83:8172
+#EXTINF:-1 group-title="央视卫视",云南卫视
+http://106.116.126.240:4022/rtp/239.254.200.68:8108
+#EXTINF:-1 group-title="央视卫视",内蒙古卫视
+http://106.116.126.240:4022/rtp/239.254.200.84:8176
+#EXTINF:-1 group-title="央视卫视",青海卫视
+http://106.116.126.240:4022/rtp/239.254.200.85:8184
+#EXTINF:-1 group-title="央视卫视",宁夏卫视
+http://106.116.126.240:4022/rtp/239.254.200.87:8124
+#EXTINF:-1 group-title="央视卫视",西藏卫视
+http://106.116.126.240:4022/rtp/239.254.200.88:8164
+#EXTINF:-1 group-title="央视卫视",新疆卫视
+http://106.116.126.240:4022/rtp/239.254.200.89:8160
+#EXTINF:-1 group-title="央视卫视",山东教育卫视
+http://106.116.126.240:4022/rtp/239.254.200.247:4120
+#EXTINF:-1 group-title="央视卫视",金鹰卡通
+http://106.116.126.240:4022/rtp/239.254.200.92:9252
+#EXTINF:-1 group-title="央视卫视",卡酷少儿
+http://106.116.126.240:4022/rtp/239.254.200.91:9248
+#EXTINF:-1 group-title="央视卫视",嘉佳卡通
+http://106.116.126.240:4022/rtp/239.254.201.201:7269
+#EXTINF:-1 group-title="央视卫视",优漫卡通
+http://106.116.126.240:4022/rtp/239.254.201.203:7178
+#EXTINF:-1 group-title="央视卫视",北京纪实科教
+http://106.116.126.240:4022/rtp/239.254.200.188:6311
+#EXTINF:-1 group-title="央视卫视",金鹰纪实
+http://106.116.126.240:4022/rtp/239.254.200.189:6293
+#EXTINF:-1 group-title="央视卫视",茶频道
+http://106.116.126.240:4022/rtp/239.254.200.228:6258
+#EXTINF:-1 group-title="央视卫视",快乐垂钓
+http://106.116.126.240:4022/rtp/239.254.200.229:6257
+#EXTINF:-1 group-title="央视卫视",天元围棋
+http://106.116.126.240:4022/rtp/239.254.201.156:6270
+#EXTINF:-1 group-title="央视卫视",CETV1
+http://106.116.126.240:4022/rtp/239.254.200.225:6259
+#EXTINF:-1 group-title="央视卫视",CETV-2
+http://106.116.126.240:4022/rtp/239.254.200.226:6260
+#EXTINF:-1 group-title="央视卫视",CETV-4
+http://106.116.126.240:4022/rtp/239.254.200.227:6261
+#EXTINF:-1 group-title="央视卫视",CETV早期教育
+http://106.116.126.240:4022/rtp/239.254.201.230:7253
+#EXTINF:-1 group-title="央视卫视",CCTV4K超
+http://106.116.126.240:4022/rtp/239.254.201.67:6000
+#EXTINF:-1 group-title="央视卫视",北京卫视4K超
+http://106.116.126.240:4022/rtp/239.254.201.68:6000
+#EXTINF:-1 group-title="央视卫视",上海游戏风云
+http://106.116.126.240:4022/rtp/239.254.201.163:6354
+#EXTINF:-1 group-title="央视卫视",上海欢笑剧场4K
+http://106.116.126.240:4022/rtp/239.254.201.164:6355
+#EXTINF:-1 group-title="央视卫视",上海乐游频道
+http://106.116.126.240:4022/rtp/239.254.201.200:6356
+#EXTINF:-1 group-title="央视卫视",上海动漫秀场
+http://106.116.126.240:4022/rtp/239.254.201.165:6358
+#EXTINF:-1 group-title="央视卫视",上海生活时尚
+http://106.116.126.240:4022/rtp/239.254.201.166:6359
+#EXTINF:-1 group-title="央视卫视",上海都市剧场
+http://106.116.126.240:4022/rtp/239.254.201.167:6360
+#EXTINF:-1 group-title="央视卫视",上海法治天地
+http://106.116.126.240:4022/rtp/239.254.201.183:7226
+#EXTINF:-1 group-title="央视卫视",上海金色学堂
+http://106.116.126.240:4022/rtp/239.254.201.182:7227
+#EXTINF:-1 group-title="央视卫视",上海东方财经
+http://106.116.126.240:4022/rtp/239.254.201.181:7214
+#EXTINF:-1 group-title="央视卫视",河南武术世界
+http://106.116.126.240:4022/rtp/239.254.201.224:7229
+#EXTINF:-1 group-title="央视卫视",河南文物宝库
+http://106.116.126.240:4022/rtp/239.254.201.227:7230
+#EXTINF:-1 group-title="央视卫视",河南梨园频道
+http://106.116.126.240:4022/rtp/239.254.201.231:7228
+#EXTINF:-1 group-title="央视卫视",CCTV-4欧洲
+http://106.116.126.240:4022/rtp/239.254.201.205:4220
+#EXTINF:-1 group-title="央视卫视",CCTV-4美洲
+http://106.116.126.240:4022/rtp/239.254.201.206:4220
+#EXTINF:-1 group-title="央视卫视",CGTN英语
+http://106.116.126.240:4022/rtp/239.254.200.12:8056
+#EXTINF:-1 group-title="央视卫视",CGTN记录
+http://106.116.126.240:4022/rtp/239.254.201.208:4220
+#EXTINF:-1 group-title="央视卫视",CGTN西班牙语
+http://106.116.126.240:4022/rtp/239.254.201.209:4220
+#EXTINF:-1 group-title="央视卫视",CGTN法语
+http://106.116.126.240:4022/rtp/239.254.201.210:4220
+#EXTINF:-1 group-title="央视卫视",CGTN阿拉伯语
+http://106.116.126.240:4022/rtp/239.254.201.211:4220
+#EXTINF:-1 group-title="央视卫视",CGTN俄语
+http://106.116.126.240:4022/rtp/239.254.201.212:4220
+#EXTINF:-1 group-title="央视卫视",凤凰卫视电影台
+http://106.116.126.240:4022/rtp/239.254.201.1:5214
+#EXTINF:-1 group-title="央视卫视",凤凰卫视中文台
+http://106.116.126.240:4022/rtp/239.254.201.2:5226
+#EXTINF:-1 group-title="央视卫视",凤凰卫视资讯台
+http://106.116.126.240:4022/rtp/239.254.201.3:5227
+#EXTINF:-1 group-title="央视卫视",中国交通频道
+http://106.116.126.240:4022/rtp/239.254.201.110:5181
+#EXTINF:-1 group-title="央视卫视",高邑融媒
+http://106.116.126.240:4022/rtp/239.254.201.24:5170
+#EXTINF:-1 group-title="央视卫视",井陉矿区电视台
+http://106.116.126.240:4022/rtp/239.254.201.14:5175
+#EXTINF:-1 group-title="央视卫视",深泽综合频道
+http://106.116.126.240:4022/rtp/239.254.201.108:5180
+#EXTINF:-1 group-title="央视卫视",赵县综合频道
+http://106.116.126.240:4022/rtp/239.254.201.111:5183
+#EXTINF:-1 group-title="央视卫视",晋州综合频道
+http://106.116.126.240:4022/rtp/239.254.201.127:5184
+#EXTINF:-1 group-title="央视卫视",井陉综合频道
+http://106.116.126.240:4022/rtp/239.254.201.215:6167
+#EXTINF:-1 group-title="央视卫视",平泉综合频道
+http://106.116.126.240:4022/rtp/239.254.200.177:5286
+#EXTINF:-1 group-title="央视卫视",兴隆综合频道
+http://106.116.126.240:4022/rtp/239.254.201.95:5295
+#EXTINF:-1 group-title="央视卫视",隆化综合频道
+http://106.116.126.240:4022/rtp/239.254.201.142:5296
+#EXTINF:-1 group-title="央视卫视",崇礼电视台
+http://106.116.126.240:4022/rtp/239.254.201.117:5267
+#EXTINF:-1 group-title="央视卫视",康保综合频道
+http://106.116.126.240:4022/rtp/239.254.201.135:5270
+#EXTINF:-1 group-title="央视卫视",遵化综合频道
+http://106.116.126.240:4022/rtp/239.254.201.146:5202
+#EXTINF:-1 group-title="央视卫视",三河综合频道
+http://106.116.126.240:4022/rtp/239.254.201.113:5315
+#EXTINF:-1 group-title="央视卫视",永清综合频道
+http://106.116.126.240:4022/rtp/239.254.201.141:5316
+#EXTINF:-1 group-title="央视卫视",成安综合频道
+http://106.116.126.240:4022/rtp/239.254.201.143:6210
+#EXTINF:-1 group-title="央视卫视",魏县综合新闻
+http://106.116.126.240:4022/rtp/239.254.201.148:6211
+#EXTINF:-1 group-title="央视卫视",滦南综合频道
+http://106.116.126.240:4022/rtp/239.254.201.22:5191
+#EXTINF:-1 group-title="央视卫视",玉田综合频道
+http://106.116.126.240:4022/rtp/239.254.201.28:5194
+#EXTINF:-1 group-title="央视卫视",吴桥综合频道
+http://106.116.126.240:4022/rtp/239.254.201.138:5337
+#EXTINF:-1 group-title="央视卫视",阜平电视台
+http://106.116.126.240:4022/rtp/239.254.201.40:5248
+#EXTINF:-1 group-title="央视卫视",涞水综合频道
+http://106.116.126.240:4022/rtp/239.254.201.10:5250
+#EXTINF:-1 group-title="央视卫视",黄骅电视台
+http://106.116.126.240:4022/rtp/239.254.201.36:5325
+#EXTINF:-1 group-title="央视卫视",定州新闻综合
+http://106.116.126.240:4022/rtp/239.254.201.74:6251
+#EXTINF:-1 group-title="央视卫视",雄县电视台
+http://106.116.126.240:4022/rtp/239.254.201.94:6254
+#EXTINF:-1 group-title="央视卫视",涞源综合频道
+http://106.116.126.240:4022/rtp/239.254.200.213:5260
+#EXTINF:-1 group-title="央视卫视",高碑店综合频道
+http://106.116.126.240:4022/rtp/239.254.200.210:5254
+#EXTINF:-1 group-title="央视卫视",涿州综合频道
+http://106.116.126.240:4022/rtp/239.254.201.17:5261
+#EXTINF:-1 group-title="央视卫视",唐县综合频道
+http://106.116.126.240:4022/rtp/239.254.201.41:5264
+#EXTINF:-1 group-title="央视卫视",曲阳综合频道
+http://106.116.126.240:4022/rtp/239.254.200.242:5265
+#EXTINF:-1 group-title="央视卫视",柏乡综合频道
+http://106.116.126.240:4022/rtp/239.254.201.140:5383
+#EXTINF:-1 group-title="央视卫视",徐水电视台
+http://106.116.126.240:4022/rtp/239.254.201.147:6260
+#EXTINF:-1 group-title="央视卫视",景县综合频道
+http://106.116.126.240:4022/rtp/239.254.200.240:5350
+#EXTINF:-1 group-title="央视卫视",饶阳电视台
+http://106.116.126.240:4022/rtp/239.254.201.44:5353
+#EXTINF:-1 group-title="央视卫视",深州新闻综合
+http://106.116.126.240:4022/rtp/239.254.201.46:5357
+#EXTINF:-1 group-title="央视卫视",涉县综合频道
+http://106.116.126.240:4022/rtp/239.254.201.97:5222
+#EXTINF:-1 group-title="央视卫视",鸡泽新闻综合
+http://106.116.126.240:4022/rtp/239.254.201.60:5218
+#EXTINF:-1 group-title="央视卫视",武安新闻综合
+http://106.116.126.240:4022/rtp/239.254.201.6:5216
+#EXTINF:-1 group-title="央视卫视",枣强综合频道
+http://106.116.126.240:4022/rtp/239.254.201.136:5363
+#EXTINF:-1 group-title="央视卫视",清河电视台
+http://106.116.126.240:4022/rtp/239.254.200.170:5366
+#EXTINF:-1 group-title="央视卫视",大厂融媒体中心
+http://106.116.126.240:4022/rtp/239.254.201.71:5310
+#EXTINF:-1 group-title="央视卫视",顺平电视
+http://106.116.126.240:4022/rtp/239.254.201.118:6257
+#EXTINF:-1 group-title="央视卫视",赤城电视
+http://106.116.126.240:4022/rtp/239.254.201.131:5269
+#EXTINF:-1 group-title="央视卫视",邯山电视
+http://106.116.126.240:4022/rtp/239.254.201.116:5225
+#EXTINF:-1 group-title="央视卫视",任县电视
+http://106.116.126.240:4022/rtp/239.254.201.115:5381
+#EXTINF:-1 group-title="央视卫视",双滦电视
+http://106.116.126.240:4022/rtp/239.254.201.63:5293
+#EXTINF:-1 group-title="央视卫视",滦平电视
+http://106.116.126.240:4022/rtp/239.254.201.4:5291
+#EXTINF:-1 group-title="央视卫视",赞皇电视
+http://106.116.126.240:4022/rtp/239.254.200.244:5177
+#EXTINF:-1 group-title="央视卫视",栾城电视
+http://106.116.126.240:4022/rtp/239.254.200.215:5173
+#EXTINF:-1 group-title="央视卫视",张家口新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.35:6000
+#EXTINF:-1 group-title="央视卫视",张家口公共
+http://106.116.126.240:4022/rtp/239.254.200.36:6000
+#EXTINF:-1 group-title="央视卫视",沧州新闻综合
+http://106.116.126.240:4022/rtp/239.254.200.42:6000
+#EXTINF:-1 group-title="央视卫视",沧州公共频道
+http://106.116.126.240:4022/rtp/239.254.200.43:6000
+#EXTINF:-1 group-title="央视卫视",沧州影视娱乐
+http://106.116.126.240:4022/rtp/239.254.200.44:6000
+#EXTINF:-1 group-title="央视卫视",昌黎电视
+http://106.116.126.240:4022/rtp/239.254.201.61:5230
+#EXTINF:-1 group-title="央视卫视",抚宁电视
+http://106.116.126.240:4022/rtp/239.254.201.213:5232
+#EXTINF:-1 group-title="央视卫视",卢龙电视
+http://106.116.126.240:4022/rtp/239.254.201.216:5233
+#EXTINF:-1 group-title="央视卫视",丰南电视
+http://106.116.126.240:4022/rtp/239.254.200.218:5186
+#EXTINF:-1 group-title="央视卫视",迁西电视
+http://106.116.126.240:4022/rtp/239.254.201.26:5188
+#EXTINF:-1 group-title="央视卫视",滦州电视
+http://106.116.126.240:4022/rtp/239.254.201.30:5196
+#EXTINF:-1 group-title="央视卫视",香河电视
+http://106.116.126.240:4022/rtp/239.254.201.32:5306
+#EXTINF:-1 group-title="央视卫视",大城电视
+http://106.116.126.240:4022/rtp/239.254.201.34:5308
+#EXTINF:-1 group-title="央视卫视",固安电视
+http://106.116.126.240:4022/rtp/239.254.201.101:5312
+#EXTINF:-1 group-title="央视卫视",霸州电视
+http://106.116.126.240:4022/rtp/239.254.200.4:5313
+#EXTINF:-1 group-title="央视卫视",孟村电视
+http://106.116.126.240:4022/rtp/239.254.201.38:5329
+#EXTINF:-1 group-title="央视卫视",东光电视
+http://106.116.126.240:4022/rtp/239.254.201.76:5331
+#EXTINF:-1 group-title="央视卫视",青县电视
+http://106.116.126.240:4022/rtp/239.254.201.112:5333
+#EXTINF:-1 group-title="央视卫视",盐山电视
+http://106.116.126.240:4022/rtp/239.254.201.114:5334
+#EXTINF:-1 group-title="央视卫视",南皮电视
+http://106.116.126.240:4022/rtp/239.254.201.119:5335
+#EXTINF:-1 group-title="央视卫视",肃宁电视
+http://106.116.126.240:4022/rtp/239.254.201.122:5336
+#EXTINF:-1 group-title="央视卫视",丰宁电视
+http://106.116.126.240:4022/rtp/239.254.200.5:5290
+#EXTINF:-1 group-title="央视卫视",定兴电视
+http://106.116.126.240:4022/rtp/239.254.200.172:5246
+#EXTINF:-1 group-title="央视卫视",满城电视
+http://106.116.126.240:4022/rtp/239.254.200.222:5252
+#EXTINF:-1 group-title="央视卫视",望都电视
+http://106.116.126.240:4022/rtp/239.254.201.56:6246
+#EXTINF:-1 group-title="央视卫视",高阳电视
+http://106.116.126.240:4022/rtp/239.254.201.96:6253
+#EXTINF:-1 group-title="央视卫视",安新电视
+http://106.116.126.240:4022/rtp/239.254.201.99:6255
+#EXTINF:-1 group-title="央视卫视",容城电视
+http://106.116.126.240:4022/rtp/239.254.201.102:6256
+#EXTINF:-1 group-title="央视卫视",涿鹿电视
+http://106.116.126.240:4022/rtp/239.254.201.145:5272
+#EXTINF:-1 group-title="央视卫视",大名电视
+http://106.116.126.240:4022/rtp/239.254.201.149:6212
+#EXTINF:-1 group-title="央视卫视",冀州电视
+http://106.116.126.240:4022/rtp/239.254.200.179:5346
+#EXTINF:-1 group-title="央视卫视",安平电视
+http://106.116.126.240:4022/rtp/239.254.201.42:5348
+#EXTINF:-1 group-title="央视卫视",阜城电视
+http://106.116.126.240:4022/rtp/239.254.201.98:5361
+#EXTINF:-1 group-title="央视卫视",故城电视
+http://106.116.126.240:4022/rtp/239.254.201.126:5362
+#EXTINF:-1 group-title="央视卫视",广宗电视
+http://106.116.126.240:4022/rtp/239.254.201.50:5373
+#EXTINF:-1 group-title="央视卫视",宁晋电视
+http://106.116.126.240:4022/rtp/239.254.201.51:5375
+#EXTINF:-1 group-title="央视卫视",平乡电视
+http://106.116.126.240:4022/rtp/239.254.201.53:5378
+#EXTINF:-1 group-title="央视卫视",隆尧电视
+http://106.116.126.240:4022/rtp/239.254.201.69:5379
+#EXTINF:-1 group-title="央视卫视",广平电视
+http://106.116.126.240:4022/rtp/239.254.201.70:5220
+#EXTINF:-1 group-title="央视卫视",南和电视
+http://106.116.126.240:4022/rtp/239.254.201.72:6000
+#EXTINF:-1 group-title="央视卫视",临漳电视台
+http://106.116.126.240:4022/rtp/239.254.201.73:5221
+#EXTINF:-1 group-title="央视卫视",内丘电视台
+http://106.116.126.240:4022/rtp/239.254.201.77:5380
+#EXTINF:-1 group-title="央视卫视",迁安电视
+http://106.116.126.240:4022/rtp/239.254.201.109:5199
+#EXTINF:-1 group-title="央视卫视",馆陶电视
+http://106.116.126.240:4022/rtp/239.254.201.106:5224
+#EXTINF:-1 group-title="央视卫视",乐亭电视
+http://106.116.126.240:4022/rtp/239.254.201.107:5200
+#EXTINF:-1 group-title="央视卫视",沙河电视
+http://106.116.126.240:4022/rtp/239.254.200.181:5369
+#EXTINF:-1 group-title="央视卫视",南宫电视
+http://106.116.126.240:4022/rtp/239.254.201.48:5371
+#EXTINF:-1 group-title="央视卫视",丰润电视
+http://106.116.126.240:4022/rtp/239.254.201.58:5197
+#EXTINF:-1 group-title="央视卫视",临时直播频道2
+http://106.116.126.240:4022/rtp/239.254.201.65:6000
+#EXTINF:-1 group-title="央视卫视",临时直播频道3
+http://106.116.126.240:4022/rtp/239.254.201.66:6000
+#EXTINF:-1 group-title="央视卫视",全网通频
+#genre#
+#EXTINF:-1 group-title="央视卫视",CCTV1
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+#EXTINF:-1 group-title="央视卫视",CCTV2
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+#EXTINF:-1 group-title="央视卫视",CCTV3
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+#EXTINF:-1 group-title="央视卫视",CCTV4
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+#EXTINF:-1 group-title="央视卫视",CCTV5
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 group-title="央视卫视",CCTV5+
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+#EXTINF:-1 group-title="央视卫视",CCTV9
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+#EXTINF:-1 group-title="央视卫视",CCTV11
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+#EXTINF:-1 group-title="央视卫视",CCTV15
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+#EXTINF:-1 group-title="央视卫视",CCTV16
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+#EXTINF:-1 group-title="央视卫视",CCTV17
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+#EXTINF:-1 group-title="央视卫视",浙江卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+#EXTINF:-1 group-title="央视卫视",天津卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+#EXTINF:-1 group-title="央视卫视",安徽卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+#EXTINF:-1 group-title="央视卫视",河北卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
+#EXTINF:-1 group-title="央视卫视",四川卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+#EXTINF:-1 group-title="央视卫视",重庆卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+#EXTINF:-1 group-title="央视卫视",贵州卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+#EXTINF:-1 group-title="央视卫视",广西卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
+#EXTINF:-1 group-title="央视卫视",海南卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+#EXTINF:-1 group-title="央视卫视",青海卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+#EXTINF:-1 group-title="央视卫视",黑龙江视
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+#EXTINF:-1 group-title="央视卫视",咪咕js频
+#genre#
+#EXTINF:-1 group-title="央视卫视",CCTV1
+http://j.s.bkpcp.top/jj/cctv1
+#EXTINF:-1 group-title="央视卫视",CCTV2
+http://j.s.bkpcp.top/jj/cctv2
+#EXTINF:-1 group-title="央视卫视",CCTV3
+http://j.s.bkpcp.top/jj/cctv3
+#EXTINF:-1 group-title="央视卫视",CCTV4
+http://j.s.bkpcp.top/jj/cctv4
+#EXTINF:-1 group-title="央视卫视",CCTV5
+http://j.s.bkpcp.top/jj/cctv5
+#EXTINF:-1 group-title="央视卫视",CCTV5+
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://j.s.bkpcp.top/jj/cctv6
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://j.s.bkpcp.top/jj/cctv7
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://j.s.bkpcp.top/jj/cctv8
+#EXTINF:-1 group-title="央视卫视",CCTV9
+http://j.s.bkpcp.top/jj/cctv9
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1 group-title="央视卫视",CCTV11
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://j.s.bkpcp.top/jj/cctv12
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://j.s.bkpcp.top/jj/cctv13
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1 group-title="央视卫视",CCTV15
+http://j.s.bkpcp.top/jj/cctv15
+#EXTINF:-1 group-title="央视卫视",CCTV16
+http://j.s.bkpcp.top/jj/cctv16
+#EXTINF:-1 group-title="央视卫视",CCTV17
+http://j.s.bkpcp.top/jj/cctv17
+#EXTINF:-1 group-title="央视卫视",浙江卫视4K
+http://j.s.bkpcp.top/jj/zjws
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://j.s.bkpcp.top/jj/gdws
+#EXTINF:-1 group-title="央视卫视",江苏卫视4K
+http://j.s.bkpcp.top/jj/jsws
+#EXTINF:-1 group-title="央视卫视",东方卫视
+http://j.s.bkpcp.top/jj/dfws
+#EXTINF:-1 group-title="央视卫视",湖北卫视
+http://j.s.bkpcp.top/jj/hubws
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://j.s.bkpcp.top/jj/jlws
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://j.s.bkpcp.top/jj/hnws
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://j.s.bkpcp.top/jj/dnws
+#EXTINF:-1 group-title="央视卫视",海南卫视
+http://j.s.bkpcp.top/jj/hinws
+#EXTINF:-1 group-title="央视卫视",湖南卫视4K
+http://j.s.bkpcp.top/jj/hunws
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://j.s.bkpcp.top/jj/bjws
+#EXTINF:-1 group-title="央视卫视",黑龙江卫视
+http://j.s.bkpcp.top/jj/hljws
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://j.s.bkpcp.top/jj/jlws
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
+http://j.s.bkpcp.top/jj/lnws
+#EXTINF:-1 group-title="央视卫视",内蒙古卫视
+http://j.s.bkpcp.top/jj/nmgws
+#EXTINF:-1 group-title="央视卫视",甘肃卫视
+http://j.s.bkpcp.top/jj/gsws
+#EXTINF:-1 group-title="央视卫视",山西卫视
+http://j.s.bkpcp.top/jj/sxiws
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://j.s.bkpcp.top/jj/sdws
+#EXTINF:-1 group-title="央视卫视",安徽卫视
+http://j.s.bkpcp.top/jj/ahws
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://j.s.bkpcp.top/jj/szws
+#EXTINF:-1 group-title="央视卫视",广西卫视
+http://j.s.bkpcp.top/jj/gxws
+#EXTINF:-1 group-title="央视卫视",云南卫视
+http://j.s.bkpcp.top/jj/ynws
+#EXTINF:-1 group-title="央视卫视",贵州卫视
+http://j.s.bkpcp.top/jj/gzws
+#EXTINF:-1 group-title="央视卫视",四川卫视
+http://j.s.bkpcp.top/jj/scws
+#EXTINF:-1 group-title="央视卫视",体育频频
+#genre#
+#EXTINF:-1 group-title="央视卫视",五星体育֍
+http://156.238.248.80/live/2.index.m3u8
+#EXTINF:-1 group-title="央视卫视",五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",五星体育
+http://43.251.226.110:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
+#EXTINF:-1 group-title="央视卫视",广东体育
+http://113.64.147.133:8081/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-5
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 group-title="央视卫视",CCTV-5+
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+#EXTINF:-1 group-title="央视卫视",CCTV-16
+http://156.238.248.80/live/4.index.m3u8
+#EXTINF:-1 group-title="央视卫视",Baku TV AZ
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=16047%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",AzTV
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=966%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",Idman TV HD AZ
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=16044%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",ARB 24 HD AZ
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=2188%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",TRT Spor Yildiz HD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=2145%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",CNN Turk FHD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=6926%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",NBA TV USA HD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=31209%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",beIN Sports 1 FHD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=6817%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",beIN Sports 2 FHD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=6819%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",beIN Sports 3 FHD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=6821%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",beIN Sports 4 FHD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=6823%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",beIN Sports Max 1 HD TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=6824%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",A Spor TR
+https://hesen568azproiptv.com/iptv_proxy/stream.php?stream=6832%2Findex.m3u8
+#EXTINF:-1 group-title="央视卫视",湾湾频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",中天新闻台
+http://119.91.7.169:2026/TW.php?id=%e4%b8%ad%e5%a4%a9%e6%96%b0%e9%97%bb%e5%8f%b0
+#EXTINF:-1 group-title="央视卫视",寰宇新闻台
+http://119.91.7.169:2026/TW.php?id=%e5%af%b0%e5%ae%87%e6%96%b0%e9%97%bb%e5%8f%b0
+#EXTINF:-1 group-title="央视卫视",TVBS
+http://119.91.7.169:2026/TW.php?id=TVBS
+#EXTINF:-1 group-title="央视卫视",民視第一台
+http://156.238.248.80:5566/4gtv-live403/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視第一台
+http://156.238.248.80:5566/4gtv-4gtv003/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視台灣台
+http://156.238.248.80:5566/4gtv-live401/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視台灣台
+http://156.238.248.80:5566/4gtv-4gtv001/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視
+http://156.238.248.80:5566/4gtv-live215/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視
+http://156.238.248.80:5566/4gtv-4gtv002/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",ARIRANG阿里郎頻道
+http://156.238.248.80:5566/4gtv-4gtv079/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",原住民族電視台
+http://156.238.248.80:5566/4gtv-live014/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",公視戲劇
+http://156.238.248.80:5566/4gtv-4gtv042/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視影劇
+http://156.238.248.80:5566/litv-ftv09/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",經典電影台
+http://156.238.248.80:5566/4gtv-live021/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視綜藝
+http://156.238.248.80:5566/4gtv-4gtv004/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",豬哥亮歌廳秀
+http://156.238.248.80:5566/4gtv-4gtv006/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視旅遊
+http://156.238.248.80:5566/litv-ftv07/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",滾動力 Rollor
+http://156.238.248.80:5566/4gtv-live012/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",經典卡通台
+http://156.238.248.80:5566/4gtv-live022/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",精選動漫台
+http://156.238.248.80:5566/4gtv-live024/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",ELTV生活英語台
+http://156.238.248.80:5566/of-litv-xinchuang20/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",NHK 新聞資訊台
+http://156.238.248.80:5566/4gtv-live168/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視新聞
+http://156.238.248.80:5566/4gtv-live413/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",民視新聞
+http://156.238.248.80:5566/litv-ftv13/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",半島國際新聞台
+http://156.238.248.80:5566/4gtv-live157/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",CNBC Asia 財經台
+http://156.238.248.80:5566/4gtv-live130/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",DW德國之聲
+http://156.238.248.80:5566/4gtv-live071/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="央视卫视",闽南4Gtv
+#genre#
+#EXTINF:-1 group-title="央视卫视",民视新闻
+http://rihou.cc:555/tv/[mn]%e6%b0%91%e8%a7%86%e6%96%b0%e9%97%bb
+#EXTINF:-1 group-title="央视卫视",中视新闻
+http://rihou.cc:555/tv/[mn]%e4%b8%ad%e8%a7%86%e6%96%b0%e9%97%bb
+#EXTINF:-1 group-title="央视卫视",华视新闻
+http://rihou.cc:555/tv/[mn]%e5%8d%8e%e8%a7%86%e6%96%b0%e9%97%bb
+#EXTINF:-1 group-title="央视卫视",台视新闻
+http://rihou.cc:555/tv/[mn]%e5%8f%b0%e8%a7%86%e6%96%b0%e9%97%bb
+#EXTINF:-1 group-title="央视卫视",公视闽南
+http://rihou.cc:555/tv/[mn]%e5%85%ac%e8%a7%86%e9%97%bd%e5%8d%97
+#EXTINF:-1 group-title="央视卫视",民视闽南
+http://rihou.cc:555/tv/[mn]%e6%b0%91%e8%a7%86%e9%97%bd%e5%8d%97
+#EXTINF:-1 group-title="央视卫视",中视闽南
+http://rihou.cc:555/tv/[mn]%e4%b8%ad%e8%a7%86%e9%97%bd%e5%8d%97
+#EXTINF:-1 group-title="央视卫视",华视闽南
+http://rihou.cc:555/tv/[mn]%e5%8d%8e%e8%a7%86%e9%97%bd%e5%8d%97
+#EXTINF:-1 group-title="央视卫视",台视闽南
+http://rihou.cc:555/tv/[mn]%e5%8f%b0%e8%a7%86%e9%97%bd%e5%8d%97
+#EXTINF:-1 group-title="央视卫视",公视闽语
+http://rihou.cc:555/tv/[mn]%e5%85%ac%e8%a7%86%e9%97%bd%e8%af%ad
+#EXTINF:-1 group-title="央视卫视",公视综合
+http://rihou.cc:555/tv/[mn]%e5%85%ac%e8%a7%86%e7%bb%bc%e5%90%88
+#EXTINF:-1 group-title="央视卫视",民视南闽
+http://rihou.cc:555/tv/[mn]%e6%b0%91%e8%a7%86%e5%8d%97%e9%97%bd
+#EXTINF:-1 group-title="央视卫视",民视第一
+http://rihou.cc:555/tv/[mn]%e6%b0%91%e8%a7%86%e7%ac%ac%e4%b8%80
+#EXTINF:-1 group-title="央视卫视",中视经典
+http://rihou.cc:555/tv/[mn]%e4%b8%ad%e8%a7%86%e7%bb%8f%e5%85%b8
+#EXTINF:-1 group-title="央视卫视",中视菁采
+http://rihou.cc:555/tv/[mn]%e4%b8%ad%e8%a7%86%e8%8f%81%e9%87%87
+#EXTINF:-1 group-title="央视卫视",华视教育
+http://rihou.cc:555/tv/[mn]%e5%8d%8e%e8%a7%86%e6%95%99%e8%82%b2
+#EXTINF:-1 group-title="央视卫视",台视综合
+http://rihou.cc:555/tv/[mn]%e5%8f%b0%e8%a7%86%e7%bb%bc%e5%90%88
+#EXTINF:-1 group-title="央视卫视",台视财经
+http://rihou.cc:555/tv/[mn]%e5%8f%b0%e8%a7%86%e8%b4%a2%e7%bb%8f
+#EXTINF:-1 group-title="央视卫视",粤港频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="央视卫视",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="央视卫视",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="央视卫视",TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 group-title="央视卫视",无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="央视卫视",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 group-title="央视卫视",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 group-title="央视卫视",澳视澳门
+http://r.jdshipin.com/n2YZI
+#EXTINF:-1 group-title="央视卫视",广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 group-title="央视卫视",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 group-title="央视卫视",广州综合
+http://r.jdshipin.com/iR6Gq
+#EXTINF:-1 group-title="央视卫视",广州综合
+http://r.jdshipin.com/snhya
+#EXTINF:-1 group-title="央视卫视",香港港台
+#genre#
+#EXTINF:-1 group-title="央视卫视",翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="央视卫视",TVB PLUS
+http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="央视卫视",明珠台
+http://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="央视卫视",VIUTV
+https://cdn10.163189.xyz/stream/163189/viu/
+#EXTINF:-1 group-title="央视卫视",VIUTVSIX
+https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 group-title="央视卫视",TVB星河
+http://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="央视卫视",天映新加坡
+https://cdn10.163189.xyz/stream/163189/typd/
+#EXTINF:-1 group-title="央视卫视",千禧经典台
+http://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="央视卫视",天映频道
+http://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 group-title="央视卫视",天映经典频道
+http://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 group-title="央视卫视",ASTROAOD
+http://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="央视卫视",ASTROAEC
+http://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="央视卫视",ASTRO欢喜台
+http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 group-title="央视卫视",IQIYI
+http://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="央视卫视",PopC
+http://tl.061833.xyz/tl/popc
+#EXTINF:-1 group-title="央视卫视",天映经典
+http://tl.061833.xyz/tl/null-1
+#EXTINF:-1 group-title="央视卫视",粵語片台
+http://tl.061833.xyz/tl/null-10
+#EXTINF:-1 group-title="央视卫视",美亞電影台
+http://tl.061833.xyz/tl/null-5
+#EXTINF:-1 group-title="央视卫视",黄金翡翠台
+http://tl.061833.xyz/tl/null-2
+#EXTINF:-1 group-title="央视卫视",黄金华剧台
+http://tl.061833.xyz/tl/null-9
+#EXTINF:-1 group-title="央视卫视",TVBPlus
+http://tl.061833.xyz/tl/pluse
+#EXTINF:-1 group-title="央视卫视",AXN
+http://tl.061833.xyz/tl/axn
+#EXTINF:-1 group-title="央视卫视",KIX
+http://tl.061833.xyz/tl/kix
+#EXTINF:-1 group-title="央视卫视",myTVSUPER18台
+http://tl.061833.xyz/tl/mytvsuper18
+#EXTINF:-1 group-title="央视卫视",myTVSUPERFREE
+http://tl.061833.xyz/tl/mytvsuperfree
+#EXTINF:-1 group-title="央视卫视",ROCKAction
+http://tl.061833.xyz/tl/rockaction
+#EXTINF:-1 group-title="央视卫视",ROCK綜藝娛樂
+http://tl.061833.xyz/tl/rock
+#EXTINF:-1 group-title="央视卫视",mytv频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="央视卫视",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="央视卫视",凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 group-title="央视卫视",凤凰香港
+http://r.jdshipin.com/NfC0f
+#EXTINF:-1 group-title="央视卫视",ViuTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 group-title="央视卫视",ViuTV
+http://r.jdshipin.com/TcKr2
+#EXTINF:-1 group-title="央视卫视",HOY77
+http://r.jdshipin.com/sFw4S
+#EXTINF:-1 group-title="央视卫视",无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="央视卫视",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="央视卫视",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 group-title="央视卫视",TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 group-title="央视卫视",澳视澳门
+http://r.jdshipin.com/n2YZI
+#EXTINF:-1 group-title="央视卫视",明珠台
+http://67.220.71.199:2347/livehttpplay?channel_id=30026
+#EXTINF:-1 group-title="央视卫视",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 group-title="央视卫视",广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 group-title="央视卫视",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 group-title="央视卫视",新年快乐
+#genre#
+#EXTINF:-1 group-title="央视卫视",NOW新闻台
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="央视卫视",VIUTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 group-title="央视卫视",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="央视卫视",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="央视卫视",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="央视卫视",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 group-title="央视卫视",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="央视卫视",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="央视卫视",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="央视卫视",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="央视卫视",华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="央视卫视",民视台湾台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 group-title="央视卫视",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 group-title="央视卫视",中视菁采台
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 group-title="央视卫视",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 group-title="央视卫视",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 group-title="央视卫视",华视教育体育
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 group-title="央视卫视",龙华电影
+https://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 group-title="央视卫视",龙华戏剧
+https://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 group-title="央视卫视",龙华日韩
+https://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 group-title="央视卫视",龙华偶像
+https://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 group-title="央视卫视",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 group-title="央视卫视",邵氏电影
+http://feilong123.vip/409990236/tv.php?id=ssdy
+#EXTINF:-1 group-title="央视卫视",邵氏武侠
+http://feilong123.vip/409990236/tv.php?id=sswx
+#EXTINF:-1 group-title="央视卫视",邵氏动作
+http://feilong123.vip/409990236/tv.php?id=ssdz
+#EXTINF:-1 group-title="央视卫视",邵氏喜剧
+http://feilong123.vip/409990236/tv.php?id=ssxj
+#EXTINF:-1 group-title="央视卫视",精彩-YY
+#genre#
+#EXTINF:-1 group-title="央视卫视",武林外传
+https://live.ottiptv.cc/yy/1355652820
+#EXTINF:-1 group-title="央视卫视",港片 喜剧 动作
+https://live.ottiptv.cc/yy/1355480591
+#EXTINF:-1 group-title="央视卫视",林正英-经典电影
+https://live.ottiptv.cc/yy/34229877
+#EXTINF:-1 group-title="央视卫视",【新三国】萌儿陪看
+https://live.ottiptv.cc/yy/29216766
+#EXTINF:-1 group-title="央视卫视",国外经典—小鬼当家
+https://live.ottiptv.cc/yy/1354658064
+#EXTINF:-1 group-title="央视卫视",狂飙
+https://live.ottiptv.cc/yy/1382626335
+#EXTINF:-1 group-title="央视卫视",靓剑
+https://live.ottiptv.cc/yy/1356043643
+#EXTINF:-1 group-title="央视卫视",弹幕天团 下饭神剧
+https://live.ottiptv.cc/yy/23512910
+#EXTINF:-1 group-title="央视卫视",狄仁杰
+https://live.ottiptv.cc/yy/1351755386
+#EXTINF:-1 group-title="央视卫视",赵本山《蓝光版》
+https://live.ottiptv.cc/yy/32160832
+#EXTINF:-1 group-title="央视卫视",少年包青天
+https://live.ottiptv.cc/yy/1356043677
+#EXTINF:-1 group-title="央视卫视",康熙微服私访记
+https://live.ottiptv.cc/yy/1352811698
+#EXTINF:-1 group-title="央视卫视",超精彩武打场景
+https://live.ottiptv.cc/yy/1354936131
+#EXTINF:-1 group-title="央视卫视",正阳门下
+https://live.ottiptv.cc/yy/1382851588
+#EXTINF:-1 group-title="央视卫视",鹿鼎记-周星驰版
+https://live.ottiptv.cc/yy/1354658049
+#EXTINF:-1 group-title="央视卫视",地下交通站
+https://live.ottiptv.cc/yy/1382736795
+#EXTINF:-1 group-title="央视卫视",亲爱的热爱的
+https://live.ottiptv.cc/yy/1354932433
+#EXTINF:-1 group-title="央视卫视",经典鬼片3000部
+https://live.ottiptv.cc/yy/29460894
+#EXTINF:-1 group-title="央视卫视",【狂飙】
+https://live.ottiptv.cc/yy/1354806550
+#EXTINF:-1 group-title="央视卫视",林正英经典
+https://live.ottiptv.cc/yy/1351505899
+#EXTINF:-1 group-title="央视卫视",豪哥带我们发财
+https://live.ottiptv.cc/yy/23402146
+#EXTINF:-1 group-title="央视卫视",经典港片动作搞笑
+https://live.ottiptv.cc/yy/1459869766
+#EXTINF:-1 group-title="央视卫视",纪晓岚
+https://live.ottiptv.cc/yy/1354143978
+#EXTINF:-1 group-title="央视卫视",晾剑 电视剧
+https://live.ottiptv.cc/yy/1451866697
+#EXTINF:-1 group-title="央视卫视",小蓉儿 正在直播
+https://live.ottiptv.cc/yy/1351762426
+#EXTINF:-1 group-title="央视卫视",神医喜来乐
+https://live.ottiptv.cc/yy/1382714119
+#EXTINF:-1 group-title="央视卫视",梦涵 正在直播
+https://live.ottiptv.cc/yy/1352475619
+#EXTINF:-1 group-title="央视卫视",昕儿 正在直播
+https://live.ottiptv.cc/yy/1353852605
+#EXTINF:-1 group-title="央视卫视",济公
+https://live.ottiptv.cc/yy/1355265814
+#EXTINF:-1 group-title="央视卫视",倚天屠龙记
+https://live.ottiptv.cc/yy/33300793
+#EXTINF:-1 group-title="央视卫视",请回答1988
+https://live.ottiptv.cc/yy/1354932362
+#EXTINF:-1 group-title="央视卫视",天龙八部
+https://live.ottiptv.cc/yy/1351814644
+#EXTINF:-1 group-title="央视卫视",真实案件系列
+https://live.ottiptv.cc/yy/1382671124
+#EXTINF:-1 group-title="央视卫视",大染坊
+https://live.ottiptv.cc/yy/1353215589
+#EXTINF:-1 group-title="央视卫视",赌神 港片 喜剧
+https://live.ottiptv.cc/yy/1355112116
+#EXTINF:-1 group-title="央视卫视",封神榜
+https://live.ottiptv.cc/yy/1353426319
+#EXTINF:-1 group-title="央视卫视",古惑仔
+https://live.ottiptv.cc/yy/1458015189
+#EXTINF:-1 group-title="央视卫视",雍正王朝
+https://live.ottiptv.cc/yy/1356043620
+#EXTINF:-1 group-title="央视卫视",李连杰功夫 经典武侠
+https://live.ottiptv.cc/yy/74613175
+#EXTINF:-1 group-title="央视卫视",赵本山《超清版》
+https://live.ottiptv.cc/yy/1382683959
+#EXTINF:-1 group-title="央视卫视",鬼经典老片
+https://live.ottiptv.cc/yy/1463783198
+#EXTINF:-1 group-title="央视卫视",小美美 正在直播
+https://live.ottiptv.cc/yy/1354143966
+#EXTINF:-1 group-title="央视卫视",《仙侠》开局无敌了
+https://live.ottiptv.cc/yy/29600150
+#EXTINF:-1 group-title="央视卫视",燕双鹰
+https://live.ottiptv.cc/yy/1352227153
+#EXTINF:-1 group-title="央视卫视",【鹿鼎记】金庸经典
+https://live.ottiptv.cc/yy/28265277
+#EXTINF:-1 group-title="央视卫视",恐怖电影
+https://live.ottiptv.cc/yy/24066336
+#EXTINF:-1 group-title="央视卫视",闯关东
+https://live.ottiptv.cc/yy/1383546866
+#EXTINF:-1 group-title="央视卫视",经典雪豹24h
+https://live.ottiptv.cc/yy/1459010966
+#EXTINF:-1 group-title="央视卫视",大家车言论
+https://live.ottiptv.cc/yy/1382570702
+#EXTINF:-1 group-title="央视卫视",靓剑
+https://live.ottiptv.cc/yy/1382788679
+#EXTINF:-1 group-title="央视卫视",纪晓岚
+https://live.ottiptv.cc/yy/1352227227
+#EXTINF:-1 group-title="央视卫视",经典电影 港片枪战
+https://live.ottiptv.cc/yy/1355076627
+#EXTINF:-1 group-title="央视卫视",动漫
+https://live.ottiptv.cc/yy/26664495
+#EXTINF:-1 group-title="央视卫视",动漫
+https://live.ottiptv.cc/yy/1382747970
+#EXTINF:-1 group-title="央视卫视",内在美-伊人有约
+https://live.ottiptv.cc/yy/1382737892
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736808
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736810
+#EXTINF:-1 group-title="央视卫视",正阳门下
+https://live.ottiptv.cc/yy/1354931580
+#EXTINF:-1 group-title="央视卫视",精武英雄-李连杰主演经典动作片
+https://live.ottiptv.cc/yy/1382736873
+#EXTINF:-1 group-title="央视卫视",�逋鞠盗�-国产喜剧
+https://live.ottiptv.cc/yy/1382736856
+#EXTINF:-1 group-title="央视卫视",神探狄仁杰2
+https://live.ottiptv.cc/yy/1382828767
+#EXTINF:-1 group-title="央视卫视",士兵突击
+https://live.ottiptv.cc/yy/1382851600
+#EXTINF:-1 group-title="央视卫视",大话西游至尊宝
+https://live.ottiptv.cc/yy/1382851590
+#EXTINF:-1 group-title="央视卫视",进来 陪你看动漫
+https://live.ottiptv.cc/yy/1352866135
+#EXTINF:-1 group-title="央视卫视",大秧歌~24h经典好剧
+https://live.ottiptv.cc/yy/1354744544
+#EXTINF:-1 group-title="央视卫视",伪装者
+https://live.ottiptv.cc/yy/1382851593
+#EXTINF:-1 group-title="央视卫视",情满四合院-小人物的悲欢离合
+https://live.ottiptv.cc/yy/1382851601
+#EXTINF:-1 group-title="央视卫视",赌神-发哥
+https://live.ottiptv.cc/yy/1354889044
+#EXTINF:-1 group-title="央视卫视",欢乐集结号-每天笑不停
+https://live.ottiptv.cc/yy/1382741642
+#EXTINF:-1 group-title="央视卫视",西游记后传 蓝光
+https://live.ottiptv.cc/yy/1353392400
+#EXTINF:-1 group-title="央视卫视",朵宝陪你看狄仁杰
+https://live.ottiptv.cc/yy/1353753252
+#EXTINF:-1 group-title="央视卫视",少年歌行1.2~
+https://live.ottiptv.cc/yy/29067083
+#EXTINF:-1 group-title="央视卫视",老九门24h
+https://live.ottiptv.cc/yy/1355171357
+#EXTINF:-1 group-title="央视卫视",鹿鼎记-高清全集
+https://live.ottiptv.cc/yy/1382704650
+#EXTINF:-1 group-title="央视卫视",笑傲江湖 4K超清
+https://live.ottiptv.cc/yy/1354282410
+#EXTINF:-1 group-title="央视卫视",宰相刘罗锅
+https://live.ottiptv.cc/yy/1353892468
+#EXTINF:-1 group-title="央视卫视",24h 我爱我家 喜剧
+https://live.ottiptv.cc/yy/1356212303
+#EXTINF:-1 group-title="央视卫视",铁齿铜牙纪晓岚
+https://live.ottiptv.cc/yy/1382781415
+#EXTINF:-1 group-title="央视卫视",鬼片喜剧动作港剧
+https://live.ottiptv.cc/yy/1355269576
+#EXTINF:-1 group-title="央视卫视",老妖私影院
+https://live.ottiptv.cc/yy/1354952229
+#EXTINF:-1 group-title="央视卫视",超清鬼片 港片
+https://live.ottiptv.cc/yy/1335509613
+#EXTINF:-1 group-title="央视卫视",天龙 神雕金庸
+https://live.ottiptv.cc/yy/1356043609
+#EXTINF:-1 group-title="央视卫视",神探狄胖胖
+https://live.ottiptv.cc/yy/1507704566
+#EXTINF:-1 group-title="央视卫视",少年歌行
+https://live.ottiptv.cc/yy/1450556636
+#EXTINF:-1 group-title="央视卫视",83射雕英雄传
+https://live.ottiptv.cc/yy/1354210357
+#EXTINF:-1 group-title="央视卫视",金牌配角达叔系列
+https://live.ottiptv.cc/yy/1354888728
+#EXTINF:-1 group-title="央视卫视",热度榜1.包青天
+https://live.ottiptv.cc/yy/22701868
+#EXTINF:-1 group-title="央视卫视",24h唐朝诡实录1234
+https://live.ottiptv.cc/yy/1353913646
+#EXTINF:-1 group-title="央视卫视",【经典港片】佟瑶
+https://live.ottiptv.cc/yy/23531261
+#EXTINF:-1 group-title="央视卫视",好先生
+https://live.ottiptv.cc/yy/79382500
+#EXTINF:-1 group-title="央视卫视",超喜剧地下交通站男神贾贵
+https://live.ottiptv.cc/yy/1353428972
+#EXTINF:-1 group-title="央视卫视",苹果工会招募主播
+https://live.ottiptv.cc/yy/1354889234
+#EXTINF:-1 group-title="央视卫视",爆笑小品大合集
+https://live.ottiptv.cc/yy/1382736821
+#EXTINF:-1 group-title="央视卫视",五号特工组和平ff
+https://live.ottiptv.cc/yy/1414967772
+#EXTINF:-1 group-title="央视卫视",新白娘子传奇
+https://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1 group-title="央视卫视",燕双鹰
+https://live.ottiptv.cc/yy/1354143942
+#EXTINF:-1 group-title="央视卫视",绝版僵尸鬼片
+https://live.ottiptv.cc/yy/1460889796
+#EXTINF:-1 group-title="央视卫视",精彩动漫
+https://live.ottiptv.cc/yy/1420843376
+#EXTINF:-1 group-title="央视卫视",天龙神雕经典回忆
+https://live.ottiptv.cc/yy/68260522
+#EXTINF:-1 group-title="央视卫视",1930年代经典电影
+https://live.ottiptv.cc/yy/1356363815
+#EXTINF:-1 group-title="央视卫视",YY果国际电影频道
+https://live.ottiptv.cc/yy/1382627144
+#EXTINF:-1 group-title="央视卫视",薛仁贵传奇
+https://live.ottiptv.cc/yy/1355260662
+#EXTINF:-1 group-title="央视卫视",动漫
+https://live.ottiptv.cc/yy/1354143938
+#EXTINF:-1 group-title="央视卫视",鬼片恐怖私家影院
+https://live.ottiptv.cc/yy/1354209316
+#EXTINF:-1 group-title="央视卫视",《武林外传》武侠
+https://live.ottiptv.cc/yy/1394000563
+#EXTINF:-1 group-title="央视卫视",【新三国】吕布
+https://live.ottiptv.cc/yy/1382851459
+#EXTINF:-1 group-title="央视卫视",破案港剧
+https://live.ottiptv.cc/yy/1350670730
+#EXTINF:-1 group-title="央视卫视",经典港片电影
+https://live.ottiptv.cc/yy/1461889059
+#EXTINF:-1 group-title="央视卫视",【武林客栈】
+https://live.ottiptv.cc/yy/1382773728
+#EXTINF:-1 group-title="央视卫视",战狼10086
+https://live.ottiptv.cc/yy/1382773686
+#EXTINF:-1 group-title="央视卫视",【战狼3吴京】首播
+https://live.ottiptv.cc/yy/1456668939
+#EXTINF:-1 group-title="央视卫视",【靓剑】乐乐陪看
+https://live.ottiptv.cc/yy/1352946111
+#EXTINF:-1 group-title="央视卫视",情满四合院-高分电视剧
+https://live.ottiptv.cc/yy/1382735541
+#EXTINF:-1 group-title="央视卫视",双月之城-国漫
+https://live.ottiptv.cc/yy/1382736907
+#EXTINF:-1 group-title="央视卫视",电影电影电影电影电影电影
+https://live.ottiptv.cc/yy/1351496216
+#EXTINF:-1 group-title="央视卫视",知否知否应是绿肥红瘦
+https://live.ottiptv.cc/yy/21881901
+#EXTINF:-1 group-title="央视卫视",三国演义【1994】
+https://live.ottiptv.cc/yy/1354930932
+#EXTINF:-1 group-title="央视卫视",咸鱼动漫
+https://live.ottiptv.cc/yy/1354076248
+#EXTINF:-1 group-title="央视卫视",张国荣与周润发的兄弟情
+https://live.ottiptv.cc/yy/1354930961
+#EXTINF:-1 group-title="央视卫视",神探狄仁杰1
+https://live.ottiptv.cc/yy/1382851575
+#EXTINF:-1 group-title="央视卫视",武林外传
+https://live.ottiptv.cc/yy/1355344777
+#EXTINF:-1 group-title="央视卫视",神探狄仁杰1
+https://live.ottiptv.cc/yy/1354930934
+#EXTINF:-1 group-title="央视卫视",恋歌
+https://live.ottiptv.cc/yy/1382746276
+#EXTINF:-1 group-title="央视卫视",震撼！国内功夫大片
+https://live.ottiptv.cc/yy/1382736902
+#EXTINF:-1 group-title="央视卫视",宰相刘罗锅
+https://live.ottiptv.cc/yy/1382745191
+#EXTINF:-1 group-title="央视卫视",夏洛特烦恼-国内电影-喜剧
+https://live.ottiptv.cc/yy/1354936201
+#EXTINF:-1 group-title="央视卫视",国内玄幻电影-林正英
+https://live.ottiptv.cc/yy/1354932444
+#EXTINF:-1 group-title="央视卫视",变形金刚
+https://live.ottiptv.cc/yy/1382736803
+#EXTINF:-1 group-title="央视卫视",少年包青天第三部
+https://live.ottiptv.cc/yy/1382736814
+#EXTINF:-1 group-title="央视卫视",炊事班的故事III
+https://live.ottiptv.cc/yy/1382736716
+#EXTINF:-1 group-title="央视卫视",速度与激情全集
+https://live.ottiptv.cc/yy/1382749892
+#EXTINF:-1 group-title="央视卫视",读心神探
+https://live.ottiptv.cc/yy/1382736875
+#EXTINF:-1 group-title="央视卫视",三国演义94年经典版
+https://live.ottiptv.cc/yy/1354936241
+#EXTINF:-1 group-title="央视卫视",炊事班的故事II
+https://live.ottiptv.cc/yy/1382851579
+#EXTINF:-1 group-title="央视卫视",神探狄仁杰2
+https://live.ottiptv.cc/yy/1382851146
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382735572
+#EXTINF:-1 group-title="央视卫视",二号交通站
+https://live.ottiptv.cc/yy/1382735582
+#EXTINF:-1 group-title="央视卫视",读心神探
+https://live.ottiptv.cc/yy/1382851589
+#EXTINF:-1 group-title="央视卫视",寻秦记-穿越剧经典
+https://live.ottiptv.cc/yy/1382749900
+#EXTINF:-1 group-title="央视卫视",动漫
+https://live.ottiptv.cc/yy/25055036
+#EXTINF:-1 group-title="央视卫视",欢乐颂
+https://live.ottiptv.cc/yy/1382735624
+#EXTINF:-1 group-title="央视卫视",终结者2：审判日
+https://live.ottiptv.cc/yy/1382851148
+#EXTINF:-1 group-title="央视卫视",情满四合院
+https://live.ottiptv.cc/yy/1382851524
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736888
+#EXTINF:-1 group-title="央视卫视",巩汉林春晚小品合集
+https://live.ottiptv.cc/yy/1354889035
+#EXTINF:-1 group-title="央视卫视",国内动作大片
+https://live.ottiptv.cc/yy/1382745176
+#EXTINF:-1 group-title="央视卫视",啊咧
+https://live.ottiptv.cc/yy/1459243913
+#EXTINF:-1 group-title="央视卫视",我爱我家
+https://live.ottiptv.cc/yy/1382851580
+#EXTINF:-1 group-title="央视卫视",快来呀好剧在等你
+https://live.ottiptv.cc/yy/1331686180
+#EXTINF:-1 group-title="央视卫视",华子系列
+https://live.ottiptv.cc/yy/1354888726
+#EXTINF:-1 group-title="央视卫视",安安电视剧
+https://live.ottiptv.cc/yy/1414817779
+#EXTINF:-1 group-title="央视卫视",父母爱情
+https://live.ottiptv.cc/yy/1354926650
+#EXTINF:-1 group-title="央视卫视",二号交通站
+https://live.ottiptv.cc/yy/1382851582
+#EXTINF:-1 group-title="央视卫视",武工队传奇
+https://live.ottiptv.cc/yy/22089862
+#EXTINF:-1 group-title="央视卫视",国漫动漫
+https://live.ottiptv.cc/yy/1354768828
+#EXTINF:-1 group-title="央视卫视",动漫
+https://live.ottiptv.cc/yy/1354768831
+#EXTINF:-1 group-title="央视卫视",二号交通站
+https://live.ottiptv.cc/yy/1354930965
+#EXTINF:-1 group-title="央视卫视",【破案 悬疑 港剧】
+https://live.ottiptv.cc/yy/1382800083
+#EXTINF:-1 group-title="央视卫视",洪金宝福星系列
+https://live.ottiptv.cc/yy/1354924839
+#EXTINF:-1 group-title="央视卫视",【周星驰】搞笑电影
+https://live.ottiptv.cc/yy/38670875
+#EXTINF:-1 group-title="央视卫视",经典抗战剧
+https://live.ottiptv.cc/yy/1354555195
+#EXTINF:-1 group-title="央视卫视",进来 陪你看电视
+https://live.ottiptv.cc/yy/1353518742
+#EXTINF:-1 group-title="央视卫视",国内喜剧
+https://live.ottiptv.cc/yy/1382736862
+#EXTINF:-1 group-title="央视卫视",成龙系列
+https://live.ottiptv.cc/yy/1354888751
+#EXTINF:-1 group-title="央视卫视",古装剧
+https://live.ottiptv.cc/yy/1356158015
+#EXTINF:-1 group-title="央视卫视",少年包青天
+https://live.ottiptv.cc/yy/1414846486
+#EXTINF:-1 group-title="央视卫视",军旅剧（回忆经典）
+https://live.ottiptv.cc/yy/1356306672
+#EXTINF:-1 group-title="央视卫视",《石敢当》六耳猕猴
+https://live.ottiptv.cc/yy/1394156613
+#EXTINF:-1 group-title="央视卫视",【新三国】日版
+https://live.ottiptv.cc/yy/1382851457
+#EXTINF:-1 group-title="央视卫视",经典港片电影
+https://live.ottiptv.cc/yy/1459801818
+#EXTINF:-1 group-title="央视卫视",雪中悍刀行
+https://live.ottiptv.cc/yy/1462996362
+#EXTINF:-1 group-title="央视卫视",动漫《火影疾风传》
+https://live.ottiptv.cc/yy/1459675153
+#EXTINF:-1 group-title="央视卫视",惊恐盗暮鬼怪
+https://live.ottiptv.cc/yy/1382749525
+#EXTINF:-1 group-title="央视卫视",动漫
+https://live.ottiptv.cc/yy/23993334
+#EXTINF:-1 group-title="央视卫视",疯狂动漫 正在直播
+https://live.ottiptv.cc/yy/1353937086
+#EXTINF:-1 group-title="央视卫视",24小时循环播电视剧
+https://live.ottiptv.cc/yy/53320802
+#EXTINF:-1 group-title="央视卫视",动漫
+https://live.ottiptv.cc/yy/22777075
+#EXTINF:-1 group-title="央视卫视",速度与激情系列！-精彩大片
+https://live.ottiptv.cc/yy/1382736911
+#EXTINF:-1 group-title="央视卫视",欢乐一起看
+https://live.ottiptv.cc/yy/1354930926
+#EXTINF:-1 group-title="央视卫视",天道-9.2高分好剧
+https://live.ottiptv.cc/yy/1382735574
+#EXTINF:-1 group-title="央视卫视",大进军全集：红色系列电影
+https://live.ottiptv.cc/yy/1382745083
+#EXTINF:-1 group-title="央视卫视",妖神记
+https://live.ottiptv.cc/yy/1382745171
+#EXTINF:-1 group-title="央视卫视",新白娘子传奇-女神赵雅芝
+https://live.ottiptv.cc/yy/1354930969
+#EXTINF:-1 group-title="央视卫视",郝蕾演绎-情满四合院
+https://live.ottiptv.cc/yy/1382745089
+#EXTINF:-1 group-title="央视卫视",我的体育老师
+https://live.ottiptv.cc/yy/1382745169
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736818
+#EXTINF:-1 group-title="央视卫视",伪装者
+https://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1 group-title="央视卫视",法证先锋
+https://live.ottiptv.cc/yy/1354930939
+#EXTINF:-1 group-title="央视卫视",抹茶少女
+https://live.ottiptv.cc/yy/1382737888
+#EXTINF:-1 group-title="央视卫视",魔幻手机
+https://live.ottiptv.cc/yy/1382735544
+#EXTINF:-1 group-title="央视卫视",漫威十年老粉福利来了
+https://live.ottiptv.cc/yy/1354930233
+#EXTINF:-1 group-title="央视卫视",智取威虎山
+https://live.ottiptv.cc/yy/1382736843
+#EXTINF:-1 group-title="央视卫视",大家都在看的电视剧
+https://live.ottiptv.cc/yy/1354930964
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736890
+#EXTINF:-1 group-title="央视卫视",院线动作大片
+https://live.ottiptv.cc/yy/1382736900
+#EXTINF:-1 group-title="央视卫视",灌篮高手
+https://live.ottiptv.cc/yy/1382735626
+#EXTINF:-1 group-title="央视卫视",经典大片合集
+https://live.ottiptv.cc/yy/1382749895
+#EXTINF:-1 group-title="央视卫视",流行古装剧—知否知否应是绿肥红瘦
+https://live.ottiptv.cc/yy/1354936134
+#EXTINF:-1 group-title="央视卫视",寻秦记
+https://live.ottiptv.cc/yy/1354658048
+#EXTINF:-1 group-title="央视卫视",����������
+https://live.ottiptv.cc/yy/1382851578
+#EXTINF:-1 group-title="央视卫视",寻秦记-穿越剧经典
+https://live.ottiptv.cc/yy/1382851591
+#EXTINF:-1 group-title="央视卫视",妖神记-全集
+https://live.ottiptv.cc/yy/1382735551
+#EXTINF:-1 group-title="央视卫视",情满四合院
+https://live.ottiptv.cc/yy/1382736848
+#EXTINF:-1 group-title="央视卫视",这部剧你居然没看过？
+https://live.ottiptv.cc/yy/1354932355
+#EXTINF:-1 group-title="央视卫视",少年包青天第三部
+https://live.ottiptv.cc/yy/1382851540
+#EXTINF:-1 group-title="央视卫视",周星星系列
+https://live.ottiptv.cc/yy/1354888671
+#EXTINF:-1 group-title="央视卫视",笑傲帮
+https://live.ottiptv.cc/yy/1382735555
+#EXTINF:-1 group-title="央视卫视",老广的味道 第3季-美食纪录片
+https://live.ottiptv.cc/yy/1382735565
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736842
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736910
+#EXTINF:-1 group-title="央视卫视",炊事班的故事
+https://live.ottiptv.cc/yy/1382749901
+#EXTINF:-1 group-title="央视卫视",西游记后传
+https://live.ottiptv.cc/yy/1382736846
+#EXTINF:-1 group-title="央视卫视",北京爱情故事，心动不打烊
+https://live.ottiptv.cc/yy/1382744423
+#EXTINF:-1 group-title="央视卫视",宫锁珠帘
+https://live.ottiptv.cc/yy/1354926666
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736838
+#EXTINF:-1 group-title="央视卫视",我的前半生
+https://live.ottiptv.cc/yy/1382735564
+#EXTINF:-1 group-title="央视卫视",你最爱的宋小宝
+https://live.ottiptv.cc/yy/1354936198
+#EXTINF:-1 group-title="央视卫视",易中天品三国
+https://live.ottiptv.cc/yy/1354931498
+#EXTINF:-1 group-title="央视卫视",真心想让你幸福
+https://live.ottiptv.cc/yy/1382736876
+#EXTINF:-1 group-title="央视卫视",风筝
+https://live.ottiptv.cc/yy/1382828770
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736886
+#EXTINF:-1 group-title="央视卫视",以家人之名
+https://live.ottiptv.cc/yy/1382736908
+#EXTINF:-1 group-title="央视卫视",仙剑奇侠传-神仙姐姐驾到
+https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736885
+#EXTINF:-1 group-title="央视卫视",小鬼当家-童年回忆
+https://live.ottiptv.cc/yy/1382745104
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382745085
+#EXTINF:-1 group-title="央视卫视",复仇者联盟全季
+https://live.ottiptv.cc/yy/1354936167
+#EXTINF:-1 group-title="央视卫视",史诗级科幻电影-阿凡达
+https://live.ottiptv.cc/yy/1382735577
+#EXTINF:-1 group-title="央视卫视",无敌县令
+https://live.ottiptv.cc/yy/1354932390
+#EXTINF:-1 group-title="央视卫视",穿越时空的爱恋
+https://live.ottiptv.cc/yy/1382735567
+#EXTINF:-1 group-title="央视卫视",娆�涔�棰�
+https://live.ottiptv.cc/yy/1382851577
+#EXTINF:-1 group-title="央视卫视",俺娘田小草
+https://live.ottiptv.cc/yy/1382741638
+#EXTINF:-1 group-title="央视卫视",超精彩！系列动作电影
+https://live.ottiptv.cc/yy/1382745096
+#EXTINF:-1 group-title="央视卫视",野山鹰-影视剧
+https://live.ottiptv.cc/yy/1354932395
+#EXTINF:-1 group-title="央视卫视",甜甜的恋爱 这狗粮我吃了
+https://live.ottiptv.cc/yy/1354932438
+#EXTINF:-1 group-title="央视卫视",大汉贤后卫子夫
+https://live.ottiptv.cc/yy/1382735569
+#EXTINF:-1 group-title="央视卫视",欢乐集结号3
+https://live.ottiptv.cc/yy/1382736822
+#EXTINF:-1 group-title="央视卫视",密子君
+https://live.ottiptv.cc/yy/1382736717
+#EXTINF:-1 group-title="央视卫视",非常保镖-经典港剧
+https://live.ottiptv.cc/yy/1382736903
+#EXTINF:-1 group-title="央视卫视",哈利波特全集
+https://live.ottiptv.cc/yy/1382745105
+#EXTINF:-1 group-title="央视卫视",笑声传奇
+https://live.ottiptv.cc/yy/1382736880
+#EXTINF:-1 group-title="央视卫视",你的回忆有我吗
+https://live.ottiptv.cc/yy/1354889024
+#EXTINF:-1 group-title="央视卫视",电影百团大战
+https://live.ottiptv.cc/yy/1382736871
+#EXTINF:-1 group-title="央视卫视",最美的青春
+https://live.ottiptv.cc/yy/1382745116
+#EXTINF:-1 group-title="央视卫视",动作大片-热血开打
+https://live.ottiptv.cc/yy/1354936168
+#EXTINF:-1 group-title="央视卫视",强悍“杀猪婆”的励志人生
+https://live.ottiptv.cc/yy/1354658062
+#EXTINF:-1 group-title="央视卫视",康熙王朝
+https://live.ottiptv.cc/yy/1382851583
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736975
+#EXTINF:-1 group-title="央视卫视",父母爱情
+解析出错: HTTPConnectionPool(host='127.0.0.1', port=10809): Read timed out. (read timeout=10)
+#EXTINF:-1 group-title="央视卫视",海洋幻梦-泰剧
+https://live.ottiptv.cc/yy/1382749889
+#EXTINF:-1 group-title="央视卫视",刑事侦缉档案I
+https://live.ottiptv.cc/yy/1382851585
+#EXTINF:-1 group-title="央视卫视",陈情令
+https://live.ottiptv.cc/yy/1382745121
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382745084
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736805
+#EXTINF:-1 group-title="央视卫视",金玉满堂：精彩港剧
+https://live.ottiptv.cc/yy/1382736881
+#EXTINF:-1 group-title="央视卫视",超英集结
+https://live.ottiptv.cc/yy/1382745091
+#EXTINF:-1 group-title="央视卫视",国外院线动作大片
+https://live.ottiptv.cc/yy/1382735570
+#EXTINF:-1 group-title="央视卫视",香港院线大片-最新
+https://live.ottiptv.cc/yy/1354936242
+#EXTINF:-1 group-title="央视卫视",粟裕大将-影视
+https://live.ottiptv.cc/yy/1354926542
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382735578
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382735553
+#EXTINF:-1 group-title="央视卫视",老广的味道-美食之旅
+https://live.ottiptv.cc/yy/1354932375
+#EXTINF:-1 group-title="央视卫视",辉煌或疯狂-韩剧
+https://live.ottiptv.cc/yy/1382749902
+#EXTINF:-1 group-title="央视卫视",重生之超级赛亚人
+https://live.ottiptv.cc/yy/1354936124
+#EXTINF:-1 group-title="央视卫视",编辑部的故事
+https://live.ottiptv.cc/yy/1354936120
+#EXTINF:-1 group-title="央视卫视",国内喜剧
+https://live.ottiptv.cc/yy/1382851598
+#EXTINF:-1 group-title="央视卫视",笑傲江湖 第2季
+https://live.ottiptv.cc/yy/1382736914
+#EXTINF:-1 group-title="央视卫视",魔幻手机
+https://live.ottiptv.cc/yy/1382851541
+#EXTINF:-1 group-title="央视卫视",叛逆者
+https://live.ottiptv.cc/yy/1382736868
+#EXTINF:-1 group-title="央视卫视",保护我家蓉儿
+https://live.ottiptv.cc/yy/1370293254
+#EXTINF:-1 group-title="央视卫视",欢乐集结号
+https://live.ottiptv.cc/yy/1382735550
+#EXTINF:-1 group-title="央视卫视",无厘头的出处
+https://live.ottiptv.cc/yy/1354930891
+#EXTINF:-1 group-title="央视卫视",人生必看的科幻片
+https://live.ottiptv.cc/yy/1382745114
+#EXTINF:-1 group-title="央视卫视",美国队长史蒂夫
+https://live.ottiptv.cc/yy/1382736813
+#EXTINF:-1 group-title="央视卫视",小朋友可爱到家了
+https://live.ottiptv.cc/yy/1354930887
+#EXTINF:-1 group-title="央视卫视",岳云鹏宋小宝也来演电影了？
+https://live.ottiptv.cc/yy/1354926612
+#EXTINF:-1 group-title="央视卫视",国产大片电影
+https://live.ottiptv.cc/yy/1354926655
+#EXTINF:-1 group-title="央视卫视",侏罗纪世界-国外科幻大片合集
+https://live.ottiptv.cc/yy/1382736851
+#EXTINF:-1 group-title="央视卫视",港剧-警犬巴打
+https://live.ottiptv.cc/yy/1354932397
+#EXTINF:-1 group-title="央视卫视",我爱我家
+https://live.ottiptv.cc/yy/1382735557
+#EXTINF:-1 group-title="央视卫视",高分科幻动作片
+https://live.ottiptv.cc/yy/1382749948
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736834
+#EXTINF:-1 group-title="央视卫视",回家的诱惑
+https://live.ottiptv.cc/yy/1354658043
+#EXTINF:-1 group-title="央视卫视",陪你一起看好剧
+https://live.ottiptv.cc/yy/1354932359
+#EXTINF:-1 group-title="央视卫视",法证先锋
+https://live.ottiptv.cc/yy/1382851599
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382745117
+#EXTINF:-1 group-title="央视卫视",国内高分悬疑剧-风筝
+https://live.ottiptv.cc/yy/1354931585
+#EXTINF:-1 group-title="央视卫视",精彩动作电影享不停
+https://live.ottiptv.cc/yy/1382736809
+#EXTINF:-1 group-title="央视卫视",高分动作大片-热血出击
+https://live.ottiptv.cc/yy/1382736909
+#EXTINF:-1 group-title="央视卫视",末日系列-外国电影合集
+https://live.ottiptv.cc/yy/1354889019
+#EXTINF:-1 group-title="央视卫视",超燃警匪片
+https://live.ottiptv.cc/yy/1382735576
+#EXTINF:-1 group-title="央视卫视",笑傲江湖 第1季
+https://live.ottiptv.cc/yy/1382749896
+#EXTINF:-1 group-title="央视卫视",河伯的新娘：奇幻爱情
+https://live.ottiptv.cc/yy/1354936249
+#EXTINF:-1 group-title="央视卫视",永远的经典系列
+https://live.ottiptv.cc/yy/1354930204
+#EXTINF:-1 group-title="央视卫视",科幻片：来看神奇的地球
+https://live.ottiptv.cc/yy/1354930897
+#EXTINF:-1 group-title="央视卫视",新世界
+https://live.ottiptv.cc/yy/1382736850
+#EXTINF:-1 group-title="央视卫视",大江大河2-高分影视推荐
+https://live.ottiptv.cc/yy/1382736797
+#EXTINF:-1 group-title="央视卫视",大唐双龙传
+https://live.ottiptv.cc/yy/1354930979
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382745093
+#EXTINF:-1 group-title="央视卫视",黑衣人1、2—动作喜剧大片
+https://live.ottiptv.cc/yy/1354930936
+#EXTINF:-1 group-title="央视卫视",爆笑电影！王牌大贱谍2-3
+https://live.ottiptv.cc/yy/1382735556
+#EXTINF:-1 group-title="央视卫视",国外科幻
+https://live.ottiptv.cc/yy/1382736800
+#EXTINF:-1 group-title="央视卫视",功夫小子进城
+https://live.ottiptv.cc/yy/1382749890
+#EXTINF:-1 group-title="央视卫视",电影黑豹
+https://live.ottiptv.cc/yy/1382736816
+#EXTINF:-1 group-title="央视卫视",飓风营救
+https://live.ottiptv.cc/yy/1382735547
+#EXTINF:-1 group-title="央视卫视",来自星星的你
+https://live.ottiptv.cc/yy/1354930976
+#EXTINF:-1 group-title="央视卫视",papi酱主演，北漂生活中的爱情与梦想
+https://live.ottiptv.cc/yy/1382745124
+#EXTINF:-1 group-title="央视卫视",国产喜剧
+https://live.ottiptv.cc/yy/1382735584
+#EXTINF:-1 group-title="央视卫视",本山快乐营
+https://live.ottiptv.cc/yy/1354933529
+#EXTINF:-1 group-title="央视卫视",猩球崛起-怪兽片合集
+https://live.ottiptv.cc/yy/1354930181
+#EXTINF:-1 group-title="央视卫视",飞虎之潜行极战
+https://live.ottiptv.cc/yy/1354932420
+#EXTINF:-1 group-title="央视卫视",大明王朝
+https://live.ottiptv.cc/yy/1382736879
+#EXTINF:-1 group-title="央视卫视",萌鸡小队S1-国漫
+https://live.ottiptv.cc/yy/1382736904
+#EXTINF:-1 group-title="央视卫视",国产电影-就是闹着玩的
+https://live.ottiptv.cc/yy/1354931503
+#EXTINF:-1 group-title="央视卫视",国内科幻片来袭
+https://live.ottiptv.cc/yy/1354930821
+#EXTINF:-1 group-title="央视卫视",加勒比海盗系列
+https://live.ottiptv.cc/yy/1382749914
+#EXTINF:-1 group-title="央视卫视",缺宅男女
+https://live.ottiptv.cc/yy/1354930937
+#EXTINF:-1 group-title="央视卫视",本山快乐营-爆笑小品
+https://live.ottiptv.cc/yy/1354930948
+#EXTINF:-1 group-title="央视卫视",中国味道 第4季-美食纪录片
+https://live.ottiptv.cc/yy/1382736845
+#EXTINF:-1 group-title="央视卫视",第8号当铺
+https://live.ottiptv.cc/yy/1382736905
+#EXTINF:-1 group-title="央视卫视",公主嫁到
+https://live.ottiptv.cc/yy/1382736915
+#EXTINF:-1 group-title="央视卫视",黄大妮-电视剧
+https://live.ottiptv.cc/yy/1354930904
+#EXTINF:-1 group-title="央视卫视",鸭子天空-翱翔于篮球的梦想
+https://live.ottiptv.cc/yy/1354930894
+#EXTINF:-1 group-title="央视卫视",苦乐村官
+https://live.ottiptv.cc/yy/1382736864
+#EXTINF:-1 group-title="央视卫视",单挑荒野第一季
+https://live.ottiptv.cc/yy/1354933535
+#EXTINF:-1 group-title="央视卫视",法国版《家有儿女》治愈所有不开心
+https://live.ottiptv.cc/yy/1382851137
+#EXTINF:-1 group-title="央视卫视",深海利剑
+https://live.ottiptv.cc/yy/1382736906
+#EXTINF:-1 group-title="央视卫视",嘻嘻熙熙
+https://live.ottiptv.cc/yy/1382735585
+#EXTINF:-1 group-title="央视卫视",外国科幻大片
+https://live.ottiptv.cc/yy/1382747628
+#EXTINF:-1 group-title="央视卫视",躺平还是奋斗？搞笑中见真谛
+https://live.ottiptv.cc/yy/1382851586
+#EXTINF:-1 group-title="央视卫视",燃爆动作片
+https://live.ottiptv.cc/yy/1382736801
+#EXTINF:-1 group-title="央视卫视",国外动作大片
+https://live.ottiptv.cc/yy/1382735540
+#EXTINF:-1 group-title="央视卫视",国外黑色喜剧：冷幽默小剧场
+https://live.ottiptv.cc/yy/1382745175
+#EXTINF:-1 group-title="央视卫视",田园生活
+https://live.ottiptv.cc/yy/1382736898
+#EXTINF:-1 group-title="央视卫视",明天和你-韩剧
+https://live.ottiptv.cc/yy/1382749905
+#EXTINF:-1 group-title="央视卫视",精彩动作电影
+https://live.ottiptv.cc/yy/1382736823
+#EXTINF:-1 group-title="央视卫视",国内喜剧
+https://live.ottiptv.cc/yy/1382735563
+#EXTINF:-1 group-title="央视卫视",毒液：致命守护者
+https://live.ottiptv.cc/yy/1382745095
+#EXTINF:-1 group-title="央视卫视",爆笑来袭-小品欢乐集结号
+https://live.ottiptv.cc/yy/1382735558
+#EXTINF:-1 group-title="央视卫视",无双花木兰
+https://live.ottiptv.cc/yy/1382749917
+#EXTINF:-1 group-title="央视卫视",神厨小福贵
+https://live.ottiptv.cc/yy/1382736860
+#EXTINF:-1 group-title="央视卫视",洪大哥系列
+https://live.ottiptv.cc/yy/1354888743
+#EXTINF:-1 group-title="央视卫视",欢乐集结号2
+https://live.ottiptv.cc/yy/1354930919
+#EXTINF:-1 group-title="央视卫视",大江大河-高分影视推荐
+https://live.ottiptv.cc/yy/1382736806
+#EXTINF:-1 group-title="央视卫视",战争与女性
+https://live.ottiptv.cc/yy/1382745179
+#EXTINF:-1 group-title="央视卫视",我的父亲我的兵
+https://live.ottiptv.cc/yy/1353413714
+#EXTINF:-1 group-title="央视卫视",缺宅男女-精彩港剧
+https://live.ottiptv.cc/yy/1382745088
+#EXTINF:-1 group-title="央视卫视",国外高分大片
+https://live.ottiptv.cc/yy/1382736867
+#EXTINF:-1 group-title="央视卫视",钟馗传说
+https://live.ottiptv.cc/yy/1382736839
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736807
+#EXTINF:-1 group-title="央视卫视",流金岁月-经典港剧
+https://live.ottiptv.cc/yy/1382736891
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382745113
+#EXTINF:-1 group-title="央视卫视",超炫科幻大片
+https://live.ottiptv.cc/yy/1382736840
+#EXTINF:-1 group-title="央视卫视",熊出没之探险日记-森林探险记
+https://live.ottiptv.cc/yy/1382745122
+#EXTINF:-1 group-title="央视卫视",百家讲坛――之明太祖朱元璋
+https://live.ottiptv.cc/yy/1354936149
+#EXTINF:-1 group-title="央视卫视",溏心风暴之家好月圆
+https://live.ottiptv.cc/yy/1354888747
+#EXTINF:-1 group-title="央视卫视",热门喜剧
+https://live.ottiptv.cc/yy/1354931495
+#EXTINF:-1 group-title="央视卫视",动作大片
+https://live.ottiptv.cc/yy/1354888739
+#EXTINF:-1 group-title="央视卫视",少年四大名捕
+https://live.ottiptv.cc/yy/1354936203
+#EXTINF:-1 group-title="央视卫视",欢乐集结号4
+https://live.ottiptv.cc/yy/1382736889
+#EXTINF:-1 group-title="央视卫视",国内经典动作电影
+https://live.ottiptv.cc/yy/1382851522
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382745103
+#EXTINF:-1 group-title="央视卫视",河山
+https://live.ottiptv.cc/yy/1382749952
+#EXTINF:-1 group-title="央视卫视",热播完美世界
+https://live.ottiptv.cc/yy/25444932
+#EXTINF:-1 group-title="央视卫视",我的家人听不见，但我的爱你会听见
+https://live.ottiptv.cc/yy/1354936178
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736887
+#EXTINF:-1 group-title="央视卫视",动物世界-领略原始野性
+https://live.ottiptv.cc/yy/1382743138
+#EXTINF:-1 group-title="央视卫视",农家小菜
+https://live.ottiptv.cc/yy/1382736894
+#EXTINF:-1 group-title="央视卫视",一起来笑吧
+https://live.ottiptv.cc/yy/1454859415
+#EXTINF:-1 group-title="央视卫视",太空荒野求生记-火星救援
+https://live.ottiptv.cc/yy/1354930957
+#EXTINF:-1 group-title="央视卫视",欢乐集结号58-70
+https://live.ottiptv.cc/yy/1382745119
+#EXTINF:-1 group-title="央视卫视",本山选谁上-喜剧人选拔
+https://live.ottiptv.cc/yy/1382749878
+#EXTINF:-1 group-title="央视卫视",憨豆先生-经典喜剧
+https://live.ottiptv.cc/yy/1354936239
+#EXTINF:-1 group-title="央视卫视",高分港剧合集
+https://live.ottiptv.cc/yy/1382735542
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382735579
+#EXTINF:-1 group-title="央视卫视",藏地密码：秘境探险，悬念拉满
+https://live.ottiptv.cc/yy/1382851576
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382736918
+#EXTINF:-1 group-title="央视卫视",百家讲坛-红楼梦篇
+https://live.ottiptv.cc/yy/1382741639
+#EXTINF:-1 group-title="央视卫视",舌尖上的中国第2季
+https://live.ottiptv.cc/yy/1354930943
+#EXTINF:-1 group-title="央视卫视",最美的青春
+https://live.ottiptv.cc/yy/1382851530
+#EXTINF:-1 group-title="央视卫视",贾玲春晚小品
+https://live.ottiptv.cc/yy/1382736720
+#EXTINF:-1 group-title="央视卫视",远去的飞鹰-影视剧
+https://live.ottiptv.cc/yy/1354930912
+#EXTINF:-1 group-title="央视卫视",生存大战，尽显人性
+https://live.ottiptv.cc/yy/1414864186
+#EXTINF:-1 group-title="央视卫视",致敬星爷致敬经典
+https://live.ottiptv.cc/yy/1354889048
+#EXTINF:-1 group-title="央视卫视",欢乐集结号
+https://live.ottiptv.cc/yy/1354931582
+#EXTINF:-1 group-title="央视卫视",你最爱的小龙女-神雕侠侣
+https://live.ottiptv.cc/yy/1354926637
+#EXTINF:-1 group-title="央视卫视",宫心计-港剧-古装
+https://live.ottiptv.cc/yy/1354933540
+#EXTINF:-1 group-title="央视卫视",大台风
+https://live.ottiptv.cc/yy/1382735583
+#EXTINF:-1 group-title="央视卫视",宝莲灯前传
+https://live.ottiptv.cc/yy/1354931631
+#EXTINF:-1 group-title="央视卫视",哑巴竟然会说话
+https://live.ottiptv.cc/yy/1354932427
+#EXTINF:-1 group-title="央视卫视",电视剧-流金岁月
+https://live.ottiptv.cc/yy/1382749906
+#EXTINF:-1 group-title="央视卫视",什么会让你快乐
+https://live.ottiptv.cc/yy/54886912
+#EXTINF:-1 group-title="央视卫视",热血少年上线，《长歌行》开播
+https://live.ottiptv.cc/yy/1382736802
+#EXTINF:-1 group-title="央视卫视",能耐大了第1季
+https://live.ottiptv.cc/yy/1354930195
+#EXTINF:-1 group-title="央视卫视",本山快乐营1
+https://live.ottiptv.cc/yy/1354936209
+#EXTINF:-1 group-title="央视卫视",傲娇千金惹人醉
+https://live.ottiptv.cc/yy/1382851602
+#EXTINF:-1 group-title="央视卫视",紧急营救
+https://live.ottiptv.cc/yy/1354926676
+#EXTINF:-1 group-title="央视卫视",欢喜冤家的爱情-夏日乐悠悠
+https://live.ottiptv.cc/yy/1354936191
+#EXTINF:-1 group-title="央视卫视",蔡明春晚小品
+https://live.ottiptv.cc/yy/1354936177
+#EXTINF:-1 group-title="央视卫视",发哥系列
+https://live.ottiptv.cc/yy/1354888733
+#EXTINF:-1 group-title="央视卫视",珍珠港-电影
+https://live.ottiptv.cc/yy/1354936234
+#EXTINF:-1 group-title="央视卫视",科幻惊悚片-异形
+https://live.ottiptv.cc/yy/1382735543
+#EXTINF:-1 group-title="央视卫视",银河护卫队-国外科幻巨作
+https://live.ottiptv.cc/yy/1382736815
+#EXTINF:-1 group-title="央视卫视",科幻电影
+https://live.ottiptv.cc/yy/1354930209
+#EXTINF:-1 group-title="央视卫视",高分动作片——创可贴
+https://live.ottiptv.cc/yy/1382735568
+#EXTINF:-1 group-title="央视卫视",经典动漫
+https://live.ottiptv.cc/yy/67857780
+#EXTINF:-1 group-title="央视卫视",宇宙护卫队--国漫
+https://live.ottiptv.cc/yy/1382736837
+#EXTINF:-1 group-title="央视卫视",机械战警1-3
+https://live.ottiptv.cc/yy/1382736854
+#EXTINF:-1 group-title="央视卫视",忠诚无畏，战犬出击
+https://live.ottiptv.cc/yy/1354930225
+#EXTINF:-1 group-title="央视卫视",国产家庭电视剧-如果岁月可回头
+https://live.ottiptv.cc/yy/1382736883
+#EXTINF:-1 group-title="央视卫视",欢迎光临
+https://live.ottiptv.cc/yy/1355532933
+#EXTINF:-1 group-title="央视卫视",降魔传-神魔大战
+https://live.ottiptv.cc/yy/1354932371
+#EXTINF:-1 group-title="央视卫视",名媛望族-精彩港剧
+https://live.ottiptv.cc/yy/1354932431
+#EXTINF:-1 group-title="央视卫视",妖神记之黑狱篇
+https://live.ottiptv.cc/yy/1382745173
+#EXTINF:-1 group-title="央视卫视",天蓬元帅现代重生，爆笑修仙之旅开启
+https://live.ottiptv.cc/yy/1354930189
+#EXTINF:-1 group-title="央视卫视",一分钟学道菜
+https://live.ottiptv.cc/yy/1382736901
+#EXTINF:-1 group-title="央视卫视",福贵
+https://live.ottiptv.cc/yy/1354926537
+#EXTINF:-1 group-title="央视卫视",从溺水到冠军，热血泳坛励志传奇
+https://live.ottiptv.cc/yy/1382736723
+#EXTINF:-1 group-title="央视卫视",辣警狂花2
+https://live.ottiptv.cc/yy/1382745110
+#EXTINF:-1 group-title="央视卫视",辣警狂花
+https://live.ottiptv.cc/yy/1382736892
+#EXTINF:-1 group-title="央视卫视",高能博弈—大事件
+https://live.ottiptv.cc/yy/1382749898
+#EXTINF:-1 group-title="央视卫视",白领被迫当楼奴？
+https://live.ottiptv.cc/yy/1382736832
+#EXTINF:-1 group-title="央视卫视",拳拳到肉，搏击燃情
+https://live.ottiptv.cc/yy/1382736870
+#EXTINF:-1 group-title="央视卫视",学生兵
+https://live.ottiptv.cc/yy/1354658003
+#EXTINF:-1 group-title="央视卫视",超燃科幻大片：明日边缘
+https://live.ottiptv.cc/yy/1382736835
+#EXTINF:-1 group-title="央视卫视",另类猪妖爆笑逆袭
+https://live.ottiptv.cc/yy/1354936155
+#EXTINF:-1 group-title="央视卫视",抗日神片，燃爆抗战热血魂
+https://live.ottiptv.cc/yy/1354926600
+#EXTINF:-1 group-title="央视卫视",名不虚传-韩剧
+https://live.ottiptv.cc/yy/1382749904
+#EXTINF:-1 group-title="央视卫视",神探狄仁杰1—5部全集
+https://live.ottiptv.cc/yy/1382705592
+#EXTINF:-1 group-title="央视卫视",狄仁杰智破红瞳谜案
+https://live.ottiptv.cc/yy/1354936116
+#EXTINF:-1 group-title="央视卫视",民间怪谈盗暮
+https://live.ottiptv.cc/yy/1355171231
+#EXTINF:-1 group-title="央视卫视",施公奇案2-欧阳震华
+https://live.ottiptv.cc/yy/1382736824
+#EXTINF:-1 group-title="央视卫视",霹雳火：速度与激情
+https://live.ottiptv.cc/yy/1382736895
+#EXTINF:-1 group-title="央视卫视",一局定生死，谁才是真正的赌王？
+https://live.ottiptv.cc/yy/1382735552
+#EXTINF:-1 group-title="央视卫视",喜剧闹翻天
+https://live.ottiptv.cc/yy/1382735548
+#EXTINF:-1 group-title="央视卫视",在殡仪馆发生的奇葩囧事
+https://live.ottiptv.cc/yy/1354936214
+#EXTINF:-1 group-title="央视卫视",战狼7吴京退役
+https://live.ottiptv.cc/yy/1382773714
+#EXTINF:-1 group-title="央视卫视",国产动作电影
+https://live.ottiptv.cc/yy/1382736858
+#EXTINF:-1 group-title="央视卫视",致命武器3
+https://live.ottiptv.cc/yy/1382749918
+#EXTINF:-1 group-title="央视卫视",绝境博弈，无路可逃
+https://live.ottiptv.cc/yy/1382851597
+#EXTINF:-1 group-title="央视卫视",时代剧，黄土高天
+https://live.ottiptv.cc/yy/1414864180
+#EXTINF:-1 group-title="央视卫视",欧美配音电影！！！
+https://live.ottiptv.cc/yy/1354693629
+#EXTINF:-1 group-title="央视卫视",清官难当？看芝麻官如何破局
+https://live.ottiptv.cc/yy/1382749909
+#EXTINF:-1 group-title="央视卫视",高分经典动作片
+https://live.ottiptv.cc/yy/1382749944
+#EXTINF:-1 group-title="央视卫视",本山快乐营2
+https://live.ottiptv.cc/yy/1382736718
+#EXTINF:-1 group-title="央视卫视",每天都要快乐哦！
+https://live.ottiptv.cc/yy/1354930909
+#EXTINF:-1 group-title="央视卫视",影视小艺
+https://live.ottiptv.cc/yy/1382737886
+#EXTINF:-1 group-title="央视卫视",舌尖上的中国第一季
+https://live.ottiptv.cc/yy/1354930952
+#EXTINF:-1 group-title="央视卫视",电影
+https://live.ottiptv.cc/yy/37454459
+#EXTINF:-1 group-title="央视卫视",【新三国】
+https://live.ottiptv.cc/yy/1382851415
+#EXTINF:-1 group-title="央视卫视",悬疑反转，直击真相
+https://live.ottiptv.cc/yy/1354930954
+#EXTINF:-1 group-title="央视卫视",Simon Amstell：躺平哲学
+https://live.ottiptv.cc/yy/1382749951
+#EXTINF:-1 group-title="央视卫视",热血战争巨作
+https://live.ottiptv.cc/yy/1382745087
+#EXTINF:-1 group-title="央视卫视",24H地下交通站全
+https://live.ottiptv.cc/yy/37880083
+#EXTINF:-1 group-title="央视卫视",封神：祸商
+https://live.ottiptv.cc/yy/1354932407
+#EXTINF:-1 group-title="央视卫视",笔墨传情，致敬经典——妙墨中国心
+https://live.ottiptv.cc/yy/1382745178
+#EXTINF:-1 group-title="央视卫视",PK地球神
+https://live.ottiptv.cc/yy/1382736872
+#EXTINF:-1 group-title="央视卫视",探案！探案！
+https://live.ottiptv.cc/yy/1382829413
+#EXTINF:-1 group-title="央视卫视",雪中悍刀行
+https://live.ottiptv.cc/yy/1382881708
+#EXTINF:-1 group-title="央视卫视",乔·科伊热辣开麦
+https://live.ottiptv.cc/yy/1382735625
+#EXTINF:-1 group-title="央视卫视",最佳下饭小甜剧，暖心暖胃
+https://live.ottiptv.cc/yy/1382741637
+#EXTINF:-1 group-title="央视卫视",热血抗日电影
+https://live.ottiptv.cc/yy/1382749907
+#EXTINF:-1 group-title="央视卫视",一剑开天门
+https://live.ottiptv.cc/yy/34313906
+#EXTINF:-1 group-title="央视卫视",铁血拍档：并肩破局的燃魂对决
+https://live.ottiptv.cc/yy/1382736884
+#EXTINF:-1 group-title="央视卫视",渴望
+https://live.ottiptv.cc/yy/1354930963
+#EXTINF:-1 group-title="央视卫视",返乡青年撞破村中隐秘——村里有情况
+https://live.ottiptv.cc/yy/1382749940
+#EXTINF:-1 group-title="央视卫视",小甜甜    闯关东
+https://live.ottiptv.cc/yy/1354689861
+#EXTINF:-1 group-title="央视卫视",搬山道人之落天荒
+https://live.ottiptv.cc/yy/1382736916
+#EXTINF:-1 group-title="央视卫视",少年包青天美黑之旅
+https://live.ottiptv.cc/yy/1354936141
+#EXTINF:-1 group-title="央视卫视",来看修牛蹄
+https://live.ottiptv.cc/yy/1382749887
+#EXTINF:-1 group-title="央视卫视",娘亲舅大
+https://live.ottiptv.cc/yy/1354932360
+#EXTINF:-1 group-title="央视卫视",漂泊多年归来，故乡与旧爱能否依旧？
+https://live.ottiptv.cc/yy/1382736849
+#EXTINF:-1 group-title="央视卫视",小人国——介子鬼城
+https://live.ottiptv.cc/yy/1382749950
+#EXTINF:-1 group-title="央视卫视",深海巨兽惊现，渔民与神秘生物的生存博弈
+https://live.ottiptv.cc/yy/1382745111
+#EXTINF:-1 group-title="央视卫视",笑傲江湖-电视剧
+https://live.ottiptv.cc/yy/1354936128
+#EXTINF:-1 group-title="央视卫视",四位闺蜜继续在爱情与事业中寻找平衡
+https://live.ottiptv.cc/yy/1354931488
+#EXTINF:-1 group-title="央视卫视",牧野诡事之赤丹珠
+https://live.ottiptv.cc/yy/1382736863
+#EXTINF:-1 group-title="央视卫视",毒力觉醒的异能逆袭狂潮
+https://live.ottiptv.cc/yy/1354926735
+#EXTINF:-1 group-title="央视卫视",先锋之那时青春-热血年代
+https://live.ottiptv.cc/yy/1382736833
+#EXTINF:-1 group-title="央视卫视",还原英雄最后的壮烈！
+https://live.ottiptv.cc/yy/1354930984
+#EXTINF:-1 group-title="央视卫视",老夫少妻搞笑忘年恋
+https://live.ottiptv.cc/yy/1354932391
+#EXTINF:-1 group-title="央视卫视",感人又搞笑，父爱创造奇迹
+https://live.ottiptv.cc/yy/1354932365
+#EXTINF:-1 group-title="央视卫视",铁道游击队~经典抗战剧
+https://live.ottiptv.cc/yy/1356051105
+#EXTINF:-1 group-title="央视卫视",新木乃伊：古埃及公主复活的灾难对决
+https://live.ottiptv.cc/yy/1354936169
+#EXTINF:-1 group-title="央视卫视",海王-院线大片
+https://live.ottiptv.cc/yy/1354936142
+#EXTINF:-1 group-title="央视卫视",丹尼尔·斯洛斯烧脑谜题
+https://live.ottiptv.cc/yy/1354936199
+#EXTINF:-1 group-title="央视卫视",艾迪格里芬：经典就是我
+https://live.ottiptv.cc/yy/1354932409
+#EXTINF:-1 group-title="央视卫视",巾帼枭雄之义海豪情
+https://live.ottiptv.cc/yy/1382736859
+#EXTINF:-1 group-title="央视卫视",呆萌飞行员
+https://live.ottiptv.cc/yy/1354930968
+#EXTINF:-1 group-title="央视卫视",亚洲笑星征服美国
+https://live.ottiptv.cc/yy/1382736920
+#EXTINF:-1 group-title="央视卫视",狼叔终章，为守护变种人殊死一搏
+https://live.ottiptv.cc/yy/1382736913
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382745182
+#EXTINF:-1 group-title="央视卫视",紫霞仙子被揍了
+https://live.ottiptv.cc/yy/1382656234
+#EXTINF:-1 group-title="央视卫视",雍正王朝
+https://live.ottiptv.cc/yy/1459714870
+#EXTINF:-1 group-title="央视卫视",的直播间
+https://live.ottiptv.cc/yy/1354129442
+#EXTINF:-1 group-title="央视卫视",悬疑武侠电影—九门
+https://live.ottiptv.cc/yy/1382828768
+#EXTINF:-1 group-title="央视卫视",萌妹特攻队爆笑出击
+https://live.ottiptv.cc/yy/1354930971
+#EXTINF:-1 group-title="央视卫视",金牌喜剧班
+https://live.ottiptv.cc/yy/1354889009
+#EXTINF:-1 group-title="央视卫视",小爽东北菇凉，求守护
+https://live.ottiptv.cc/yy/1382609850
+#EXTINF:-1 group-title="央视卫视",不可能的任务-碟中谍4
+https://live.ottiptv.cc/yy/1354930967
+#EXTINF:-1 group-title="央视卫视",时间的答卷第二季
+https://live.ottiptv.cc/yy/1382745106
+#EXTINF:-1 group-title="央视卫视",当旺爸爸-港剧
+https://live.ottiptv.cc/yy/1354936208
+#EXTINF:-1 group-title="央视卫视",闲暇观看综艺
+https://live.ottiptv.cc/yy/1354932379
+#EXTINF:-1 group-title="央视卫视",Bill Burr暴躁经典重现
+https://live.ottiptv.cc/yy/1382736917
+#EXTINF:-1 group-title="央视卫视",异地演出，炸场奇遇
+https://live.ottiptv.cc/yy/1382735561
+#EXTINF:-1 group-title="央视卫视",笑果伴酒，快乐中秋
+https://live.ottiptv.cc/yy/1382745092
+#EXTINF:-1 group-title="央视卫视",YY用户
+https://live.ottiptv.cc/yy/1382735545
+#EXTINF:-1 group-title="央视卫视",心动信号甜蜜发酵
+https://live.ottiptv.cc/yy/1382736819
+#EXTINF:-1 group-title="央视卫视",新时代农村青年的热血奋斗记
+https://live.ottiptv.cc/yy/1382736715
+#EXTINF:-1 group-title="央视卫视",Storm憋了一年大招
+https://live.ottiptv.cc/yy/1382735559
+#EXTINF:-1 group-title="央视卫视",跨越人鬼契约，宿命伙伴并肩作战
+https://live.ottiptv.cc/yy/1382749888
+#EXTINF:-1 group-title="央视卫视",TVB力作：团圆
+https://live.ottiptv.cc/yy/1382745094
+#EXTINF:-1 group-title="央视卫视",异类入侵高能反转
+https://live.ottiptv.cc/yy/1354936217
+#EXTINF:-1 group-title="央视卫视",旺达·塞克丝：怼遍全场
+https://live.ottiptv.cc/yy/1354936221
+#EXTINF:-1 group-title="央视卫视",警匪智力对决，谁才是最后的赢家？
+https://live.ottiptv.cc/yy/1354889042
+#EXTINF:-1 group-title="央视卫视",当夫妻搭档为同事，鸡飞狗跳的故事开始了
+https://live.ottiptv.cc/yy/1354932402
+#EXTINF:-1 group-title="央视卫视",天龙八部
+https://live.ottiptv.cc/yy/1355067965
+#EXTINF:-1 group-title="央视卫视",开放麦现场惊现认亲
+https://live.ottiptv.cc/yy/1354936181
+#EXTINF:-1 group-title="央视卫视",武状元落魄，神谕指引丐帮逆袭
+https://live.ottiptv.cc/yy/1382736882
+#EXTINF:-1 group-title="央视卫视",快递小哥变身英雄
+https://live.ottiptv.cc/yy/1354932405
+#EXTINF:-1 group-title="央视卫视",揭秘！经典传奇背后的未解之谜
+https://live.ottiptv.cc/yy/1382736912
+#EXTINF:-1 group-title="央视卫视",英伦特工智斗谍影
+https://live.ottiptv.cc/yy/1382736841
+#EXTINF:-1 group-title="央视卫视",颠覆秩序的声浪狂潮
+https://live.ottiptv.cc/yy/1354932426
+#EXTINF:-1 group-title="央视卫视",我的男友超能力失控！甜蜜与危机的恋爱日常
+https://live.ottiptv.cc/yy/1354930915
+#EXTINF:-1 group-title="央视卫视",重启
+https://live.ottiptv.cc/yy/1354888736
+#EXTINF:-1 group-title="央视卫视",嗜血巨狼突袭人类
+https://live.ottiptv.cc/yy/1382735560
+#EXTINF:-1 group-title="央视卫视",杰斯尼克暗黑我思我祷
+https://live.ottiptv.cc/yy/1354658051
+#EXTINF:-1 group-title="央视卫视",最佳时机：命运转角的最佳抉择与奔赴
+https://live.ottiptv.cc/yy/1354936207
+#EXTINF:-1 group-title="央视卫视",热烈的玫瑰
+https://live.ottiptv.cc/yy/1382736798
+#EXTINF:-1 group-title="央视卫视",孤胆英雄以一敌百，热血爆燃格斗盛宴
+https://live.ottiptv.cc/yy/1354936136
+#EXTINF:-1 group-title="央视卫视",龙师傅来接招
+https://live.ottiptv.cc/yy/1354889015
+#EXTINF:-1 group-title="央视卫视",忠犬救主，一段感动人心的陪伴之旅
+https://live.ottiptv.cc/yy/1382736719
+#EXTINF:-1 group-title="央视卫视",天龙八部（国语版）
+https://live.ottiptv.cc/yy/1382736855
+#EXTINF:-1 group-title="央视卫视",打破第四面墙
+https://live.ottiptv.cc/yy/1382745090
+#EXTINF:-1 group-title="央视卫视",小姐姐能打十个？神勇女侠颠覆你的认知！
+https://live.ottiptv.cc/yy/1354933556
+#EXTINF:-1 group-title="央视卫视",手机APP掌控人生
+https://live.ottiptv.cc/yy/1382736874
+#EXTINF:-1 group-title="央视卫视",梅超风往事
+https://live.ottiptv.cc/yy/1382745190
+#EXTINF:-1 group-title="央视卫视",民国恋情：乱世中一朵兰花的爱与挣扎
+https://live.ottiptv.cc/yy/1354926622
+#EXTINF:-1 group-title="央视卫视",追踪神秘狐影
+https://live.ottiptv.cc/yy/1382749953
+#EXTINF:-1 group-title="央视卫视",战火中的兄弟情义
+https://live.ottiptv.cc/yy/1382736844
+#EXTINF:-1 group-title="央视卫视",萌娃七宝乌龙不断，笑料百出的家庭大战
+https://live.ottiptv.cc/yy/1354930903
+#EXTINF:-1 group-title="央视卫视",一段关于救赎与坚守的西部传奇
+https://live.ottiptv.cc/yy/1382741640
+#EXTINF:-1 group-title="央视卫视",乔·科伊席卷西雅图
+https://live.ottiptv.cc/yy/1382749911
+#EXTINF:-1 group-title="央视卫视",憨夫憨妇闯情关
+https://live.ottiptv.cc/yy/1382735581
+#EXTINF:-1 group-title="央视卫视",全村一起搞艺术
+https://live.ottiptv.cc/yy/1354936210
+#EXTINF:-1 group-title="央视卫视",体验另一种生活！
+https://live.ottiptv.cc/yy/1354936229
+#EXTINF:-1 group-title="央视卫视",女婿翻身大战岳母，家庭地位争夺爆笑开演
+https://live.ottiptv.cc/yy/1354930945
+#EXTINF:-1 group-title="央视卫视",跨国生死救援！毒枭围困中的绝地反击
+https://live.ottiptv.cc/yy/1354926643
+#EXTINF:-1 group-title="央视卫视",大闹三界奇幻冒险
+https://live.ottiptv.cc/yy/1382736804
+#EXTINF:-1 group-title="央视卫视",音乐才女与霸道总裁的治愈之恋
+https://live.ottiptv.cc/yy/1382735573
+#EXTINF:-1 group-title="央视卫视",赵牡丹，辛辣开麦
+https://live.ottiptv.cc/yy/1382736893
+#EXTINF:-1 group-title="央视卫视",戴夫吐槽晕头转向的时代
+https://live.ottiptv.cc/yy/1382736869
+#EXTINF:-1 group-title="央视卫视",跨越时空的誓言，此生只为你守候
+https://live.ottiptv.cc/yy/1382749912
+#EXTINF:-1 group-title="央视卫视",感人至深！孝子之举撼动天地
+https://live.ottiptv.cc/yy/1382736857
+#EXTINF:-1 group-title="央视卫视",未来中国
+https://live.ottiptv.cc/yy/1354932429
+#EXTINF:-1 group-title="央视卫视",小小心事，笑着流泪
+https://live.ottiptv.cc/yy/1382736852
+#EXTINF:-1 group-title="央视卫视",当老师患有妥瑞氏症，她如何拯救 “垫底班”？
+https://live.ottiptv.cc/yy/1382745181
+#EXTINF:-1 group-title="央视卫视",暗恋成真青春纯爱
+https://live.ottiptv.cc/yy/1382736817
+#EXTINF:-1 group-title="央视卫视",王牌保镖在此
+https://live.ottiptv.cc/yy/1382749913
+#EXTINF:-1 group-title="央视卫视",许光汉主演喜剧大片
+https://live.ottiptv.cc/yy/1382736825
+#EXTINF:-1 group-title="央视卫视",经典传奇2018
+https://live.ottiptv.cc/yy/1382745189
+#EXTINF:-1 group-title="央视卫视",硬汉搭档扫黑，致命武器2
+https://live.ottiptv.cc/yy/1382736865
+#EXTINF:-1 group-title="央视卫视",为妈妈点赞
+https://live.ottiptv.cc/yy/1382745098
+#EXTINF:-1 group-title="央视卫视",新弦已张，静候谁的指尖与故事？
+https://live.ottiptv.cc/yy/1354936170
+#EXTINF:-1 group-title="央视卫视",留学澳大利亚的蓝翔梗王
+https://live.ottiptv.cc/yy/1354932441
+#EXTINF:-1 group-title="央视卫视",爱情拯救计划
+https://live.ottiptv.cc/yy/1354936238
+#EXTINF:-1 group-title="央视卫视",守护千年雄关
+https://live.ottiptv.cc/yy/1354936228
+#EXTINF:-1 group-title="央视卫视",踮脚拥抱爱情
+https://live.ottiptv.cc/yy/1354930927
+#EXTINF:-1 group-title="央视卫视",女医明妃传
+https://live.ottiptv.cc/yy/1382736861
+#EXTINF:-1 group-title="央视卫视",破解终极密码
+https://live.ottiptv.cc/yy/1382735571
+#EXTINF:-1 group-title="央视卫视",狼爸硬核带娃
+https://live.ottiptv.cc/yy/1382735627
+#EXTINF:-1 group-title="央视卫视",赛道争锋！
+https://live.ottiptv.cc/yy/1382736853
+#EXTINF:-1 group-title="央视卫视",非典型恋爱
+https://live.ottiptv.cc/yy/1354936157
+#EXTINF:-1 group-title="央视卫视",带你领略四季的变化
+https://live.ottiptv.cc/yy/1354930816
+#EXTINF:-1 group-title="央视卫视",爱在璀璨时
+https://live.ottiptv.cc/yy/1354926671
+#EXTINF:-1 group-title="央视卫视",悬疑剧-河神
+https://live.ottiptv.cc/yy/1353413683
+#EXTINF:-1 group-title="央视卫视",燃燃影视
+https://live.ottiptv.cc/yy/50298248
+#EXTINF:-1 group-title="央视卫视",神秘来客闯入
+https://live.ottiptv.cc/yy/1382736820
+#EXTINF:-1 group-title="央视卫视",美女保镖出击！
+https://live.ottiptv.cc/yy/1354936231
+#EXTINF:-1 group-title="央视卫视",坑你没商量
+https://live.ottiptv.cc/yy/1354936160
+#EXTINF:-1 group-title="央视卫视",契约夫妻上线
+https://live.ottiptv.cc/yy/1354936154
+#EXTINF:-1 group-title="央视卫视",杀机四伏
+https://live.ottiptv.cc/yy/1354936195
+#EXTINF:-1 group-title="央视卫视",暗战幽灵毒枭
+https://live.ottiptv.cc/yy/1382745099
+#EXTINF:-1 group-title="央视卫视",拳战闸北！
+https://live.ottiptv.cc/yy/1382749910
+#EXTINF:-1 group-title="央视卫视",斗鱼影视
+#genre#
+#EXTINF:-1 group-title="央视卫视",古装武侠
+http://www.goodiptv.club/douyu/2793084
+#EXTINF:-1 group-title="央视卫视",邵氏影院
+http://www.goodiptv.club/douyu/4246519
+#EXTINF:-1 group-title="央视卫视",冰冰影剧
+http://www.goodiptv.club/douyu/74374
+#EXTINF:-1 group-title="央视卫视",刀刀影院
+http://www.goodiptv.club/douyu/747764
+#EXTINF:-1 group-title="央视卫视",华语影视
+http://www.goodiptv.club/douyu/3928
+#EXTINF:-1 group-title="央视卫视",斗鱼港剧
+http://www.goodiptv.club/douyu/5061550
+#EXTINF:-1 group-title="央视卫视",橙记港剧
+http://www.goodiptv.club/douyu/4549169
+#EXTINF:-1 group-title="央视卫视",经典剧集
+http://www.goodiptv.club/douyu/6863367
+#EXTINF:-1 group-title="央视卫视",热门港剧
+http://www.goodiptv.club/douyu/5522351
+#EXTINF:-1 group-title="央视卫视",贝爷求生
+http://www.goodiptv.club/douyu/9661369
+#EXTINF:-1 group-title="央视卫视",电影轮播
+#genre#
+#EXTINF:-1 group-title="央视卫视",短剧陈翔六点半
+https://isus.cc/php/huya.php?id=11274154
+#EXTINF:-1 group-title="央视卫视",短剧人生回答机本机
+http://222.186.39.21:35466/douyu/9409722
+#EXTINF:-1 group-title="央视卫视",短剧郑云工作室
+http://222.186.39.21:35466/douyu/2995636
+#EXTINF:-1 group-title="央视卫视",短剧王Li差点红
+http://222.186.39.21:35466/douyu/9348469
+#EXTINF:-1 group-title="央视卫视",短剧不思异剧场
+http://222.186.39.21:35466/douyu/9297412
+#EXTINF:-1 group-title="央视卫视",埋堆堆楚汉骄雄
+https://isus.cc/php/huya.php?id=29465854
+#EXTINF:-1 group-title="央视卫视",埋堆堆封神榜
+https://isus.cc/php/huya.php?id=29465849
+#EXTINF:-1 group-title="央视卫视",埋堆堆天地争霸美猴王
+https://isus.cc/php/huya.php?id=29465859
+#EXTINF:-1 group-title="央视卫视",埋堆堆大唐双龙传
+https://isus.cc/php/huya.php?id=29465850
+#EXTINF:-1 group-title="央视卫视",埋堆堆陀枪师姐
+https://isus.cc/php/huya.php?id=29465857
+#EXTINF:-1 group-title="央视卫视",埋堆堆扫黄先锋
+https://isus.cc/php/huya.php?id=29465855
+#EXTINF:-1 group-title="央视卫视",埋堆堆妙手仁心
+https://isus.cc/php/huya.php?id=29465853
+#EXTINF:-1 group-title="央视卫视",埋堆堆野蛮亲家
+https://isus.cc/php/huya.php?id=23863796
+#EXTINF:-1 group-title="央视卫视",埋堆堆笑看风云
+https://isus.cc/php/huya.php?id=29465858
+#EXTINF:-1 group-title="央视卫视",埋堆堆韦小宝
+https://isus.cc/php/huya.php?id=23650774
+#EXTINF:-1 group-title="央视卫视",埋堆堆雪山飞狐
+https://isus.cc/php/huya.php?id=23734176
+#EXTINF:-1 group-title="央视卫视",周星驰专场
+https://isus.cc/php/huya.php?id=11336587
+#EXTINF:-1 group-title="央视卫视",李连杰专场
+https://isus.cc/php/huya.php?id=11342390
+#EXTINF:-1 group-title="央视卫视",刘德华专场
+https://isus.cc/php/huya.php?id=11342424
+#EXTINF:-1 group-title="央视卫视",林正英专场
+https://isus.cc/php/huya.php?id=11342421
+#EXTINF:-1 group-title="央视卫视",甄子丹专场
+https://isus.cc/php/huya.php?id=11352935
+#EXTINF:-1 group-title="央视卫视",沈腾专场
+https://isus.cc/php/huya.php?id=11601968
+#EXTINF:-1 group-title="央视卫视",黄渤专场
+https://isus.cc/php/huya.php?id=11352876
+#EXTINF:-1 group-title="央视卫视",周润发专场
+https://isus.cc/php/huya.php?id=11342387
+#EXTINF:-1 group-title="央视卫视",成龙专场
+https://isus.cc/php/huya.php?id=11342386
+#EXTINF:-1 group-title="央视卫视",古天乐专场
+https://isus.cc/php/huya.php?id=29982675
+#EXTINF:-1 group-title="央视卫视",王晶专场
+https://isus.cc/php/huya.php?id=11602058
+#EXTINF:-1 group-title="央视卫视",吴京专场
+https://isus.cc/php/huya.php?id=11602077
+#EXTINF:-1 group-title="央视卫视",洪金宝专场
+https://isus.cc/php/huya.php?id=11279251
+#EXTINF:-1 group-title="央视卫视",徐克专场
+https://isus.cc/php/huya.php?id=11352909
+#EXTINF:-1 group-title="央视卫视",徐峥专场
+https://isus.cc/php/huya.php?id=11602043
+#EXTINF:-1 group-title="央视卫视",邓超专场
+https://isus.cc/php/huya.php?id=11336592
+#EXTINF:-1 group-title="央视卫视",梁家辉专场
+https://isus.cc/php/huya.php?id=11342429
+#EXTINF:-1 group-title="央视卫视",张卫健专场
+https://isus.cc/php/huya.php?id=11342423
+#EXTINF:-1 group-title="央视卫视",王宝强专场
+https://isus.cc/php/huya.php?id=30080251
+#EXTINF:-1 group-title="央视卫视",陈小春专场
+https://isus.cc/php/huya.php?id=11336719
+#EXTINF:-1 group-title="央视卫视",郭富城专场
+https://isus.cc/php/huya.php?id=20985865
+#EXTINF:-1 group-title="央视卫视",吴镇宇专场
+https://isus.cc/php/huya.php?id=23865096
+#EXTINF:-1 group-title="央视卫视",陆小凤专场
+https://isus.cc/php/huya.php?id=11342427
+#EXTINF:-1 group-title="央视卫视",强森专场
+https://isus.cc/php/huya.php?id=21059581
+#EXTINF:-1 group-title="央视卫视",斯坦森专场
+https://isus.cc/php/huya.php?id=21059588
+#EXTINF:-1 group-title="央视卫视",马东锡专场
+https://isus.cc/php/huya.php?id=21059556
+#EXTINF:-1 group-title="央视卫视",灾难片系列
+https://isus.cc/php/huya.php?id=23728647
+#EXTINF:-1 group-title="央视卫视",贺岁片系列
+https://isus.cc/php/huya.php?id=11601986
+#EXTINF:-1 group-title="央视卫视",科幻片系列
+https://isus.cc/php/huya.php?id=11352965
+#EXTINF:-1 group-title="央视卫视",丧尸片系列
+https://isus.cc/php/huya.php?id=24314160
+#EXTINF:-1 group-title="央视卫视",怪兽片系列
+https://isus.cc/php/huya.php?id=29982674
+#EXTINF:-1 group-title="央视卫视",战争片系列
+https://isus.cc/php/huya.php?id=21059618
+#EXTINF:-1 group-title="央视卫视",硬汉片系列
+https://isus.cc/php/huya.php?id=23864973
+#EXTINF:-1 group-title="央视卫视",竞速片系列
+https://isus.cc/php/huya.php?id=29982635
+#EXTINF:-1 group-title="央视卫视",动作片系列
+https://isus.cc/php/huya.php?id=10871113
+#EXTINF:-1 group-title="央视卫视",爱情片系列
+https://isus.cc/php/huya.php?id=29982639
+#EXTINF:-1 group-title="央视卫视",犯罪片系列
+https://isus.cc/php/huya.php?id=30080165
+#EXTINF:-1 group-title="央视卫视",奇幻片系列
+https://isus.cc/php/huya.php?id=26355847
+#EXTINF:-1 group-title="央视卫视",冒险片系列
+https://isus.cc/php/huya.php?id=21059566
+#EXTINF:-1 group-title="央视卫视",盗墓片系列
+https://isus.cc/php/huya.php?id=11601981
+#EXTINF:-1 group-title="央视卫视",穿越片系列
+https://isus.cc/php/huya.php?id=29465892
+#EXTINF:-1 group-title="央视卫视",悬疑片系列
+https://isus.cc/php/huya.php?id=21059530
+#EXTINF:-1 group-title="央视卫视",喜剧片系列
+https://isus.cc/php/huya.php?id=11602044
+#EXTINF:-1 group-title="央视卫视",英雄片系列
+https://isus.cc/php/huya.php?id=11601980
+#EXTINF:-1 group-title="央视卫视",枪战片系列
+https://isus.cc/php/huya.php?id=21059579
+#EXTINF:-1 group-title="央视卫视",武侠片系列
+https://isus.cc/php/huya.php?id=29982611
+#EXTINF:-1 group-title="央视卫视",复仇片系列
+https://isus.cc/php/huya.php?id=29982645
+#EXTINF:-1 group-title="央视卫视",星球片系列
+https://isus.cc/php/huya.php?id=30080234
+#EXTINF:-1 group-title="央视卫视",校园片系列
+https://isus.cc/php/huya.php?id=11352934
+#EXTINF:-1 group-title="央视卫视",警匪片系列
+https://isus.cc/php/huya.php?id=30041512
+#EXTINF:-1 group-title="央视卫视",谍战片系列
+https://isus.cc/php/huya.php?id=26355810
+#EXTINF:-1 group-title="央视卫视",动画片系列
+https://isus.cc/php/huya.php?id=11352878
+#EXTINF:-1 group-title="央视卫视",恐怖片系列
+https://isus.cc/php/huya.php?id=24884334
+#EXTINF:-1 group-title="央视卫视",惊悚片系列
+https://isus.cc/php/huya.php?id=26355802
+#EXTINF:-1 group-title="央视卫视",僵尸片系列
+https://isus.cc/php/huya.php?id=11352917
+#EXTINF:-1 group-title="央视卫视",音乐片系列
+https://isus.cc/php/huya.php?id=23860057
+#EXTINF:-1 group-title="央视卫视",杀手片系列
+https://isus.cc/php/huya.php?id=23728689
+#EXTINF:-1 group-title="央视卫视",体育片系列
+https://isus.cc/php/huya.php?id=23864480
+#EXTINF:-1 group-title="央视卫视",西部片系列
+https://isus.cc/php/huya.php?id=30080177
+#EXTINF:-1 group-title="央视卫视",香港片系列
+https://isus.cc/php/huya.php?id=29982660
+#EXTINF:-1 group-title="央视卫视",印度片系列
+https://isus.cc/php/huya.php?id=26355799
+#EXTINF:-1 group-title="央视卫视",热门片系列
+https://isus.cc/php/huya.php?id=880261
+#EXTINF:-1 group-title="央视卫视",高分片系列
+https://isus.cc/php/huya.php?id=23902225
+#EXTINF:-1 group-title="央视卫视",短片系列
+https://isus.cc/php/huya.php?id=17098448
+#EXTINF:-1 group-title="央视卫视",探案剧专区
+https://isus.cc/php/huya.php?id=20969144
+#EXTINF:-1 group-title="央视卫视",都市剧专区
+https://isus.cc/php/huya.php?id=29982666
+#EXTINF:-1 group-title="央视卫视",刑侦剧专区
+https://isus.cc/php/huya.php?id=20969130
+#EXTINF:-1 group-title="央视卫视",家庭剧专区
+https://isus.cc/php/huya.php?id=11352872
+#EXTINF:-1 group-title="央视卫视",经典剧专区
+https://isus.cc/php/huya.php?id=11602081
+#EXTINF:-1 group-title="央视卫视",怀旧剧专区
+https://isus.cc/php/huya.php?id=30080241
+#EXTINF:-1 group-title="央视卫视",僵尸剧专区
+https://isus.cc/php/huya.php?id=23865148
+#EXTINF:-1 group-title="央视卫视",抗战剧专区
+https://isus.cc/php/huya.php?id=30080238
+#EXTINF:-1 group-title="央视卫视",台湾剧专区
+https://isus.cc/php/huya.php?id=11342436
+#EXTINF:-1 group-title="央视卫视",韩国剧专区
+https://isus.cc/php/huya.php?id=23863787
+#EXTINF:-1 group-title="央视卫视",美国剧专区
+https://isus.cc/php/huya.php?id=30080138
+#EXTINF:-1 group-title="央视卫视",英国剧专区
+https://isus.cc/php/huya.php?id=29982659
+#EXTINF:-1 group-title="央视卫视",校园剧专区
+https://isus.cc/php/huya.php?id=30080228
+#EXTINF:-1 group-title="央视卫视",谍战剧专区
+https://isus.cc/php/huya.php?id=30080225
+#EXTINF:-1 group-title="央视卫视",古装剧专区
+https://isus.cc/php/huya.php?id=24314158
+#EXTINF:-1 group-title="央视卫视",乡村剧专区
+https://isus.cc/php/huya.php?id=30080255
+#EXTINF:-1 group-title="央视卫视",偶像剧专区
+https://isus.cc/php/huya.php?id=11601964
+#EXTINF:-1 group-title="央视卫视",爱情剧专区
+https://isus.cc/php/huya.php?id=29982671
+#EXTINF:-1 group-title="央视卫视",搞笑剧专区
+https://isus.cc/php/huya.php?id=21059634
+#EXTINF:-1 group-title="央视卫视",武侠剧专区
+https://isus.cc/php/huya.php?id=20985816
+#EXTINF:-1 group-title="央视卫视",穿越剧专区
+https://isus.cc/php/huya.php?id=26355857
+#EXTINF:-1 group-title="央视卫视",年代剧专区
+https://isus.cc/php/huya.php?id=20969095
+#EXTINF:-1 group-title="央视卫视",儿童动漫
+#genre#
+#EXTINF:-1 group-title="央视卫视",名侦探柯南
+https://isus.cc/php/huya.php?id=30080236
+#EXTINF:-1 group-title="央视卫视",火影忍者
+https://isus.cc/php/huya.php?id=29465866
+#EXTINF:-1 group-title="央视卫视",海贼王
+https://isus.cc/php/huya.php?id=29982634
+#EXTINF:-1 group-title="央视卫视",精灵宝可梦
+https://isus.cc/php/huya.php?id=23749096
+#EXTINF:-1 group-title="央视卫视",神奇宝贝
+https://isus.cc/php/huya.php?id=21241784
+#EXTINF:-1 group-title="央视卫视",数码宝贝
+https://isus.cc/php/huya.php?id=29941782
+#EXTINF:-1 group-title="央视卫视",宫崎骏
+https://isus.cc/php/huya.php?id=21059614
+#EXTINF:-1 group-title="央视卫视",钢之炼金术师
+https://isus.cc/php/huya.php?id=20985859
+#EXTINF:-1 group-title="央视卫视",黑子的篮球
+https://isus.cc/php/huya.php?id=30080253
+#EXTINF:-1 group-title="央视卫视",瑞克与莫蒂
+https://isus.cc/php/huya.php?id=29982655
+#EXTINF:-1 group-title="央视卫视",星辰变
+https://isus.cc/php/huya.php?id=24514506
+#EXTINF:-1 group-title="央视卫视",成龙历险记
+https://isus.cc/php/huya.php?id=11352946
+#EXTINF:-1 group-title="央视卫视",飞天小女警
+https://isus.cc/php/huya.php?id=11601958
+#EXTINF:-1 group-title="央视卫视",蜡笔小新
+https://isus.cc/php/huya.php?id=11352970
+#EXTINF:-1 group-title="央视卫视",樱桃小丸子
+https://isus.cc/php/huya.php?id=11342394
+#EXTINF:-1 group-title="央视卫视",猫和老鼠
+https://isus.cc/php/huya.php?id=11352879
+#EXTINF:-1 group-title="央视卫视",七龙珠
+https://isus.cc/php/huya.php?id=11601966
+#EXTINF:-1 group-title="央视卫视",全职高手
+https://isus.cc/php/huya.php?id=21059628
+#EXTINF:-1 group-title="央视卫视",哆啦A梦
+https://isus.cc/php/huya.php?id=11601963
+#EXTINF:-1 group-title="央视卫视",海绵宝宝
+https://isus.cc/php/huya.php?id=11352919
+#EXTINF:-1 group-title="央视卫视",魔法少女
+https://isus.cc/php/huya.php?id=21059587
+#EXTINF:-1 group-title="央视卫视",全职猎人
+https://isus.cc/php/huya.php?id=30080254
+#EXTINF:-1 group-title="央视卫视",四驱兄弟
+https://isus.cc/php/huya.php?id=11352922
+#EXTINF:-1 group-title="央视卫视",一人之上
+https://isus.cc/php/huya.php?id=11602065
+#EXTINF:-1 group-title="央视卫视",头文字D
+https://isus.cc/php/huya.php?id=11352889
+#EXTINF:-1 group-title="央视卫视",网球王子
+https://isus.cc/php/huya.php?id=11352882
+#EXTINF:-1 group-title="央视卫视",玩具总动员
+https://isus.cc/php/huya.php?id=30080256
+#EXTINF:-1 group-title="央视卫视",通灵王
+https://isus.cc/php/huya.php?id=20969112
+#EXTINF:-1 group-title="央视卫视",游戏王
+https://isus.cc/php/huya.php?id=20985856
+#EXTINF:-1 group-title="央视卫视",男子高中生的日常
+https://isus.cc/php/huya.php?id=20985858
+#EXTINF:-1 group-title="央视卫视",元气少女缘结神
+https://isus.cc/php/huya.php?id=11352967
+#EXTINF:-1 group-title="央视卫视",全职法师
+https://isus.cc/php/huya.php?id=26355772
+#EXTINF:-1 group-title="央视卫视",尸兄
+https://isus.cc/php/huya.php?id=26355846
+#EXTINF:-1 group-title="央视卫视",大头儿子小头爸爸
+https://isus.cc/php/huya.php?id=20969114
+#EXTINF:-1 group-title="央视卫视",哪吒传奇
+https://isus.cc/php/huya.php?id=26355782
+#EXTINF:-1 group-title="央视卫视",龙族
+https://isus.cc/php/huya.php?id=23865086
+#EXTINF:-1 group-title="央视卫视",间谍过家家
+https://isus.cc/php/huya.php?id=30080149
+#EXTINF:-1 group-title="央视卫视",罗小黑战记
+https://isus.cc/php/huya.php?id=24314159
+#EXTINF:-1 group-title="央视卫视",圣斗士星矢
+https://isus.cc/php/huya.php?id=10396612
+#EXTINF:-1 group-title="央视卫视",葫芦兄弟
+https://isus.cc/php/huya.php?id=20985834
+#EXTINF:-1 group-title="央视卫视",咒术回战
+https://isus.cc/php/huya.php?id=21059561
+#EXTINF:-1 group-title="央视卫视",反叛的鲁路修
+解析出错: HTTPConnectionPool(host='127.0.0.1', port=10809): Read timed out. (read timeout=10)
+#EXTINF:-1 group-title="央视卫视",超自然武装当哒当
+https://isus.cc/php/huya.php?id=20985850
+#EXTINF:-1 group-title="央视卫视",新世纪福音战士
+https://isus.cc/php/huya.php?id=20985862
+#EXTINF:-1 group-title="央视卫视",足球小将
+https://isus.cc/php/huya.php?id=25725150
+#EXTINF:-1 group-title="央视卫视",轻羽飞扬
+https://isus.cc/php/huya.php?id=30805998
+#EXTINF:-1 group-title="央视卫视",虫师
+https://isus.cc/php/huya.php?id=21241791
+#EXTINF:-1 group-title="央视卫视",魔神英雄传
+https://isus.cc/php/huya.php?id=21241839
+#EXTINF:-1 group-title="央视卫视",埋堆堆直播1
+https://isus.cc/php/huya.php?id=23734246
+#EXTINF:-1 group-title="央视卫视",埋堆堆直播2
+https://isus.cc/php/huya.php?id=23734256
+#EXTINF:-1 group-title="央视卫视",国产动漫系列
+https://isus.cc/php/huya.php?id=11352869
+#EXTINF:-1 group-title="央视卫视",高清频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",北京卫视4K
+http://106.53.99.30/tv/bj.php?id=bjws4k
+#EXTINF:-1 group-title="央视卫视",东方卫视4K
+http://106.53.99.30/tv/api.php?id=dfws4k
+#EXTINF:-1 group-title="央视卫视",深圳卫视4K
+http://nn.7x9d.cn/%e6%b7%b1%e5%9c%b3%e6%9c%80%e6%96%b0.php?id=szws4k
+#EXTINF:-1 group-title="央视卫视",湖南卫视4K
+http://t.061899.xyz/tl/tl.php?id=hunws
+#EXTINF:-1 group-title="央视卫视",湖南卫视4K
+http://j.s.bkpcp.top/jj/hunws
+#EXTINF:-1 group-title="央视卫视",浙江卫视4K
+http://j.s.bkpcp.top/jj/zjws
+#EXTINF:-1 group-title="央视卫视",江苏卫视4K
+http://t.061899.xyz/tl/tl.php?id=jsws
+#EXTINF:-1 group-title="央视卫视",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="央视卫视",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 group-title="央视卫视",河南频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",河南卫视
+https://tv1288.xyz/hntv.php?id=hnws
+#EXTINF:-1 group-title="央视卫视",河南都市
+https://tv1288.xyz/hntv.php?id=hnds
+#EXTINF:-1 group-title="央视卫视",河南民生
+https://tv1288.xyz/hntv.php?id=hnms
+#EXTINF:-1 group-title="央视卫视",河南法治
+https://tv1288.xyz/hntv.php?id=hmfz
+#EXTINF:-1 group-title="央视卫视",河南电视剧
+https://tv1288.xyz/hntv.php?id=hndsj
+#EXTINF:-1 group-title="央视卫视",河南新闻
+https://tv1288.xyz/hntv.php?id=hnxw
+#EXTINF:-1 group-title="央视卫视",河南公共
+https://tv1288.xyz/hntv.php?id=hngg
+#EXTINF:-1 group-title="央视卫视",河南乡村
+https://tv1288.xyz/hntv.php?id=hnxc
+#EXTINF:-1 group-title="央视卫视",河南梨园
+https://tv1288.xyz/hntv.php?id=hnly
+#EXTINF:-1 group-title="央视卫视",文物宝库
+https://tv1288.xyz/hntv.php?id=wwbk
+#EXTINF:-1 group-title="央视卫视",武术世界
+https://tv1288.xyz/hntv.php?id=wspd
+#EXTINF:-1 group-title="央视卫视",睛彩中原
+https://tv1288.xyz/hntv.php?id=jczy
+#EXTINF:-1 group-title="央视卫视",移动戏曲
+https://tv1288.xyz/hntv.php?id=ydxj
+#EXTINF:-1 group-title="央视卫视",象视界
+https://tv1288.xyz/hntv.php?id=xsj
+#EXTINF:-1 group-title="央视卫视",郑州新闻综合
+https://tv1288.xyz/hntv.php?id=zz1
+#EXTINF:-1 group-title="央视卫视",开封新闻综合
+https://tv1288.xyz/hntv.php?id=kf1
+#EXTINF:-1 group-title="央视卫视",洛阳新闻综合
+https://tv1288.xyz/hntv.php?id=ly1
+#EXTINF:-1 group-title="央视卫视",安阳新闻综合
+https://tv1288.xyz/hntv.php?id=ay1
+#EXTINF:-1 group-title="央视卫视",鹤壁新闻综合
+https://tv1288.xyz/hntv.php?id=hb1
+#EXTINF:-1 group-title="央视卫视",新乡新闻综合
+https://tv1288.xyz/hntv.php?id=xx1
+#EXTINF:-1 group-title="央视卫视",焦作新闻综合
+https://tv1288.xyz/hntv.php?id=jz1
+#EXTINF:-1 group-title="央视卫视",濮阳新闻综合
+https://tv1288.xyz/hntv.php?id=py1
+#EXTINF:-1 group-title="央视卫视",许昌新闻综合
+https://tv1288.xyz/hntv.php?id=xc1
+#EXTINF:-1 group-title="央视卫视",漯河新闻综合
+https://tv1288.xyz/hntv.php?id=lh1
+#EXTINF:-1 group-title="央视卫视",三门峡新闻综合
+https://tv1288.xyz/hntv.php?id=smx1
+#EXTINF:-1 group-title="央视卫视",南阳新闻综合
+https://tv1288.xyz/hntv.php?id=ny1
+#EXTINF:-1 group-title="央视卫视",商丘新闻综合
+https://tv1288.xyz/hntv.php?id=sq1
+#EXTINF:-1 group-title="央视卫视",信阳新闻综合
+https://tv1288.xyz/hntv.php?id=xy1
+#EXTINF:-1 group-title="央视卫视",周口新闻综合
+https://tv1288.xyz/hntv.php?id=zk1
+#EXTINF:-1 group-title="央视卫视",驻马店新闻综合
+https://tv1288.xyz/hntv.php?id=zmd1
+#EXTINF:-1 group-title="央视卫视",济源新闻综合
+https://tv1288.xyz/hntv.php?id=jy1
+#EXTINF:-1 group-title="央视卫视",浙江频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",浙江新闻
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江国际
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江教科
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",之江纪录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江民生
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江经济
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江钱江
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江文成新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江新昌新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江松阳新闻综合
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江庆元新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江松阳综合
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",苏州综合
+http://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="央视卫视",苏州经济
+http://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 group-title="央视卫视",苏州生活
+http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="央视卫视",苏州娱乐
+http://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 group-title="央视卫视",苏州资讯
+http://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 group-title="央视卫视",苏州4K台
+http://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 group-title="央视卫视",镇江综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="央视卫视",镇江民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 group-title="央视卫视",武进综合
+http://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 group-title="央视卫视",武进生活
+http://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 group-title="央视卫视",无锡综合
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",无锡都市
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宜兴综合
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+#EXTINF:-1 group-title="央视卫视",泗阳综合
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+#EXTINF:-1 group-title="央视卫视",泗阳资讯
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1 group-title="央视卫视",句容综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",句容生活
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",句容党建
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河北频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",河北卫视
+https://tv1288.xyz/hbws.php?id=hbws
+#EXTINF:-1 group-title="央视卫视",河北卫视
+https://tv1288.xyz/hbws.php?id=10524916%e2%80%8b
+#EXTINF:-1 group-title="央视卫视",经济生活
+https://tv1288.xyz/hbws.php?id=hbjjsh
+#EXTINF:-1 group-title="央视卫视",经济生活
+https://tv1288.xyz/hbws.php?id=10516507%e2%80%8b
+#EXTINF:-1 group-title="央视卫视",三农频道
+https://tv1288.xyz/hbws.php?id=hbsn
+#EXTINF:-1 group-title="央视卫视",三农频道
+https://tv1288.xyz/hbws.php?id=10516508%e2%80%8b
+#EXTINF:-1 group-title="央视卫视",河北都市
+https://tv1288.xyz/hbws.php?id=hbds
+#EXTINF:-1 group-title="央视卫视",河北都市
+https://tv1288.xyz/hbws.php?id=10516509%e2%80%8b
+#EXTINF:-1 group-title="央视卫视",河北影视剧
+https://tv1288.xyz/hbws.php?id=hbysj
+#EXTINF:-1 group-title="央视卫视",河北影视剧
+https://tv1288.xyz/hbws.php?id=10516510%e2%80%8b
+#EXTINF:-1 group-title="央视卫视",少儿科教
+https://tv1288.xyz/hbws.php?id=hbse
+#EXTINF:-1 group-title="央视卫视",少儿科教
+https://tv1288.xyz/hbws.php?id=10516511%e2%80%8b
+#EXTINF:-1 group-title="央视卫视",文旅·公共
+https://tv1288.xyz/hbws.php?id=hbwl
+#EXTINF:-1 group-title="央视卫视",文旅·公共
+https://tv1288.xyz/hbws.php?id=10516512%e2%80%8b
+#EXTINF:-1 group-title="央视卫视",广东频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+#EXTINF:-1 group-title="央视卫视",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 group-title="央视卫视",广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="央视卫视",广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 group-title="央视卫视",广州南国
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+#EXTINF:-1 group-title="央视卫视",番禺电视台
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="央视卫视",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="央视卫视",番禺电视
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="央视卫视",东莞新闻综合
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+#EXTINF:-1 group-title="央视卫视",内蒙频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",呼和浩特新闻综合
+http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
+#EXTINF:-1 group-title="央视卫视",包头新闻综合
+http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
+#EXTINF:-1 group-title="央视卫视",赤峰新闻综合
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 group-title="央视卫视",鄂尔多斯新闻综合
+http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+#EXTINF:-1 group-title="央视卫视",鄂尔多斯蒙语综合
+http://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+#EXTINF:-1 group-title="央视卫视",鄂尔多斯经济服务
+http://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
+#EXTINF:-1 group-title="央视卫视",乌兰察布新闻综合
+http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+#EXTINF:-1 group-title="央视卫视",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
+#EXTINF:-1 group-title="央视卫视",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
+#EXTINF:-1 group-title="央视卫视",阿拉善新闻综合
+http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
+#EXTINF:-1 group-title="央视卫视",通辽新闻综合
+http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
+#EXTINF:-1 group-title="央视卫视",乌海新闻综合
+http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
+#EXTINF:-1 group-title="央视卫视",兴安盟新闻综合
+http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
+#EXTINF:-1 group-title="央视卫视",锡林郭勒综合
+http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+#EXTINF:-1 group-title="央视卫视",海南频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",三沙卫视
+https://tv1288.xyz/hainantv.php?proxy=1&id=ssws
+#EXTINF:-1 group-title="央视卫视",海南新闻
+https://tv1288.xyz/hainantv.php?proxy=1&id=xwpd
+#EXTINF:-1 group-title="央视卫视",海南文旅
+https://tv1288.xyz/hainantv.php?proxy=1&id=wlpd
+#EXTINF:-1 group-title="央视卫视",海南自贸
+https://tv1288.xyz/hainantv.php?proxy=1&id=jjpd
+#EXTINF:-1 group-title="央视卫视",海南公共
+https://tv1288.xyz/hainantv.php?proxy=1&id=ggpd
+#EXTINF:-1 group-title="央视卫视",海南少儿
+https://tv1288.xyz/hainantv.php?proxy=1&id=sepd
+#EXTINF:-1 group-title="央视卫视",广州电信
+#genre#
+#EXTINF:-1 group-title="央视卫视",广州综合
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMzA0NC5tM3U4
+#EXTINF:-1 group-title="央视卫视",广州新闻
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
+#EXTINF:-1 group-title="央视卫视",广东珠江
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjg5Ny5tM3U4
+#EXTINF:-1 group-title="央视卫视",广东新闻
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
+#EXTINF:-1 group-title="央视卫视",广东民生
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9kZndzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",广东体育
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjkxNS5tM3U4
+#EXTINF:-1 group-title="央视卫视",广东影视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTc2Mi5tM3U4
+#EXTINF:-1 group-title="央视卫视",大湾区卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL25laW1lbmdndS5tM3U4
+#EXTINF:-1 group-title="央视卫视",广东经济科教
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMzAwMS5tM3U4
+#EXTINF:-1 group-title="央视卫视",现代教育
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMzA4Ny5tM3U4
+#EXTINF:-1 group-title="央视卫视",广东少儿
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTU3MC5tM3U4
+#EXTINF:-1 group-title="央视卫视",嘉佳卡通
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTMyOC5tM3U4
+#EXTINF:-1 group-title="央视卫视",优漫卡通
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9jdXN0b20xMS5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV1
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV2
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYyLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV3
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV4
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY0Lm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV5
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY1Lm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV6
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY2Lm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV7
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY3Lm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV8
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY4Lm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV9
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY5Lm0zdTg=
+#EXTINF:-1 group-title="央视卫视",CCTV10
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMC5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV11
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMS5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV12
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMi5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV13
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV14
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNC5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV15
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNS5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV16
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY1cC5tM3U4
+#EXTINF:-1 group-title="央视卫视",CCTV17
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNy5tM3U4
+#EXTINF:-1 group-title="央视卫视",北京卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9iandzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",浙江卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy96andzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",江苏卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2pzd3MubTN1OA==
+#EXTINF:-1 group-title="央视卫视",湖南卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2h1bmFud3MubTN1OA==
+#EXTINF:-1 group-title="央视卫视",广东卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2dkd3MubTN1OA==
+#EXTINF:-1 group-title="央视卫视",深圳卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zendzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",安徽卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9haHdzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",山东卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zZHdzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",山西卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zeHdzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",河南卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9obndzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",江西卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9qeHdzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",四川卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zY3dzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",广西卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9neHdzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",云南卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL3lud3MubTN1OA==
+#EXTINF:-1 group-title="央视卫视",东南卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2Rud3MubTN1OA==
+#EXTINF:-1 group-title="央视卫视",厦门卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy90andzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",宁夏卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saW54d3MubTN1OA==
+#EXTINF:-1 group-title="央视卫视",青海卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTA5Ni5tM3U4
+#EXTINF:-1 group-title="央视卫视",吉林卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9qbHdzLm0zdTg=
+#EXTINF:-1 group-title="央视卫视",咪咕频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",赛事咪咕01
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005308
+#EXTINF:-1 group-title="央视卫视",赛事咪咕02
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005969
+#EXTINF:-1 group-title="央视卫视",赛事咪咕03
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000007218
+#EXTINF:-1 group-title="央视卫视",赛事咪咕04
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008001
+#EXTINF:-1 group-title="央视卫视",赛事咪咕05
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008176
+#EXTINF:-1 group-title="央视卫视",赛事咪咕06
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008379
+#EXTINF:-1 group-title="央视卫视",赛事咪咕07
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010129
+#EXTINF:-1 group-title="央视卫视",赛事咪咕08
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010948
+#EXTINF:-1 group-title="央视卫视",赛事咪咕09
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000028638
+#EXTINF:-1 group-title="央视卫视",赛事咪咕10
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000031494
+#EXTINF:-1 group-title="央视卫视",赛事咪咕11
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000000097
+#EXTINF:-1 group-title="央视卫视",赛事咪咕12
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002019
+#EXTINF:-1 group-title="央视卫视",赛事咪咕13
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002809
+#EXTINF:-1 group-title="央视卫视",赛事咪咕14
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000003915
+#EXTINF:-1 group-title="央视卫视",赛事咪咕15
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005837
+#EXTINF:-1 group-title="央视卫视",赛事咪咕16
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006077
+#EXTINF:-1 group-title="央视卫视",赛事咪咕17
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000009788
+#EXTINF:-1 group-title="央视卫视",赛事咪咕18
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000010833
+#EXTINF:-1 group-title="央视卫视",赛事咪咕19
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012558
+#EXTINF:-1 group-title="央视卫视",赛事咪咕20
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012616
+#EXTINF:-1 group-title="央视卫视",赛事咪咕21
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015470
+#EXTINF:-1 group-title="央视卫视",赛事咪咕22
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015560
+#EXTINF:-1 group-title="央视卫视",赛事咪咕23
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000017678
+#EXTINF:-1 group-title="央视卫视",赛事咪咕24
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000019839
+#EXTINF:-1 group-title="央视卫视",赛事咪咕25
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000023434
+#EXTINF:-1 group-title="央视卫视",赛事咪咕26
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000025380
+#EXTINF:-1 group-title="央视卫视",赛事咪咕27
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000027691
+#EXTINF:-1 group-title="央视卫视",赛事咪咕28
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000031669
+#EXTINF:-1 group-title="央视卫视",赛事咪咕29
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011518
+#EXTINF:-1 group-title="央视卫视",赛事咪咕30
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011519
+#EXTINF:-1 group-title="央视卫视",赛事咪咕31
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011520
+#EXTINF:-1 group-title="央视卫视",赛事咪咕32
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011521
+#EXTINF:-1 group-title="央视卫视",赛事咪咕4k
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180
+#EXTINF:-1 group-title="央视卫视",收音电台
+#genre#
+#EXTINF:-1 group-title="央视卫视",广东
+https://lhttp.qingting.fm/live/1257/64k.mp3
+#EXTINF:-1 group-title="央视卫视",广东音乐
+https://lhttp.qingting.fm/live/1260/64k.mp3
+#EXTINF:-1 group-title="央视卫视",广东2
+https://lhttp.qingting.fm/live/1259/64k.mp3
+#EXTINF:-1 group-title="央视卫视",广东汽车
+https://lhttp.qingting.fm/live/1262/64k.mp3
+#EXTINF:-1 group-title="央视卫视",香港第三台
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 group-title="央视卫视",亚洲经典
+https://lhttp.qingting.fm/live/5021912/64k.mp3
+#EXTINF:-1 group-title="央视卫视",亚洲热歌
+https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
+#EXTINF:-1 group-title="央视卫视",亚洲粤语
+https://lhttp.qingting.fm/live/15318569/64k.mp3
+#EXTINF:-1 group-title="央视卫视",亚洲天空
+https://lhttp.qingting.fm/live/20071/64k.mp3
+#EXTINF:-1 group-title="央视卫视",亚洲音乐
+https://lhttp.qingting.fm/live/5022405/64k.mp3
+#EXTINF:-1 group-title="央视卫视",澳门绿坉
+https://fm995.ddns.net/hls1/fm995.m3u8
+#EXTINF:-1 group-title="央视卫视",重庆音乐
+https://lhttp.qingting.fm/live/647/64k.mp3
+#EXTINF:-1 group-title="央视卫视",江苏音乐
+https://lhttp.qingting.fm/live/4936/64k.mp3
+#EXTINF:-1 group-title="央视卫视",广西音乐
+https://lhttp.qingting.fm/live/4875/64k.mp3
+#EXTINF:-1 group-title="央视卫视",陕西音乐
+https://lhttp.qingting.fm/live/4873/64k.mp3
+#EXTINF:-1 group-title="央视卫视",香港古典音乐
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="央视卫视",四川音乐
+https://lhttp.qingting.fm/live/1110/64k.mp3
+#EXTINF:-1 group-title="央视卫视",贵州音乐
+https://lhttp.qingting.fm/live/20067/64k.mp3
+#EXTINF:-1 group-title="央视卫视",湖北音乐
+https://lhttp.qingting.fm/live/1289/64k.mp3
+#EXTINF:-1 group-title="央视卫视",吉林音乐
+https://lhttp.qingting.fm/live/1831/64k.mp3
+#EXTINF:-1 group-title="央视卫视",江西音乐
+http://lhttp.qingting.fm/live/1802/64k.mp3
+#EXTINF:-1 group-title="央视卫视",山西音乐
+https://lhttp.qingting.fm/live/4932/64k.mp3
+#EXTINF:-1 group-title="央视卫视",福建音乐
+https://lhttp.qingting.fm/live/4585/64k.mp3
+#EXTINF:-1 group-title="央视卫视",河北音乐
+https://lhttp.qingting.fm/live/1649/64k.mp3
+#EXTINF:-1 group-title="央视卫视",浙江音乐
+https://lhttp.qingting.fm/live/4866/64k.mp3
+#EXTINF:-1 group-title="央视卫视",CRI环球资讯广播
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI华语环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI英语环球广播 China Plus Radio
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI粤语国际
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 group-title="央视卫视",CNR中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="央视卫视",上海长三角之声
+http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",上海第一财经广播
+http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏新闻综合广播
+http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏文艺广播
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏财经广播
+http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽之声
+http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽生活广播·城市之声
+http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽经济广播
+http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽交通广播
+http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽旅游广播·高速之声
+http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽戏曲广播·动听995
+http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽故事广播
+http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北之声
+http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",楚天交通广播
+http://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",福建都市广播·私家车987
+http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",福建东南广播
+http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江西都市广播
+http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东交通广播
+http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东体育休闲广播
+http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东经济广播
+http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东乡村广播
+http://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西交通广播
+http://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西经济广播·896汽车调频
+http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西都市广播·陕广新闻
+http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西农村广播
+http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西戏曲广播
+http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西新闻广播
+http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江之声
+http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江经济广播
+http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江交通之声
+http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江民生资讯广播
+http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江城市之声
+http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江旅游之声
+http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁波新闻综合广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+#EXTINF:-1 group-title="央视卫视",宁波交通广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
+#EXTINF:-1 group-title="央视卫视",宁波经济广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
+#EXTINF:-1 group-title="央视卫视",四川经济广播
+http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川文艺广播
+http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川旅游生活广播
+http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川交通广播
+http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川综合广播四川之声
+http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川私家车广播
+http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州经济广播
+http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州旅游广播
+http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州故事广播
+http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州综合广播
+http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",延边文艺生活广播
+http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁之声
+http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁乡村广播
+http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁经济广播
+http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁交通广播
+http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江都市女性广播
+http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江高校广播
+http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江老年少儿广播·爱家调频
+http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江朝鲜语广播
+http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古农村牧区广播绿野之声
+http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古新闻广播
+http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古经济生活广播
+http://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古评书曲艺广播
+http://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古蒙语对外广播草原之声
+http://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古蒙语新闻综合广播
+http://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",锡林郭勒汉语广播
+http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",锡林郭勒蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",阿拉善汉语广播
+http://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",阿拉善蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",呼伦贝尔汉语广播
+http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",呼伦贝尔蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",新疆私家车广播
+http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃经济广播
+http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西教育广播
+http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西综合广播
+http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西北部湾之声
+http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西交通广播
+http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南新闻广播
+http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南经济广播·私家车电台
+http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南交通之声
+http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南旅游广播·香格里拉之声
+http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南民族广播
+http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南国际广播
+http://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南教育广播·知道分子
+http://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁夏经济广播
+http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁夏新闻广播
+http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁夏旅游广播
+http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青海新闻综合广播
+http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青海经济广播
+http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",开州之声
+http://183.64.174.171:10124/tlgb.m3u8
+#EXTINF:-1 group-title="央视卫视",NPR·KJZZ
+http://kjzz.streamguys1.com/kjzz_aac_high
+#EXTINF:-1 group-title="央视卫视",NPR·WBEZ
+http://stream.wbez.org/wbezlinear
+#EXTINF:-1 group-title="央视卫视",NPR·MPR News
+http://nis.stream.publicradio.org/nis.mp3
+#EXTINF:-1 group-title="央视卫视",NPR·WOSU
+http://wosu.streamguys1.com/NPR_256
+#EXTINF:-1 group-title="央视卫视",NPR·KQED
+http://hls.kqed.org/kqed/256/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI HIT FM
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI HIT FM
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西音乐广播
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西青少广播·好听1055
+http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东音乐广播
+http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东经典音乐广播
+http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽音乐广播
+http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁波音乐广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南文艺广播·摩登音乐台
+http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古音乐之声
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北经典音乐广播
+http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃青春调频
+http://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",甘肃都市调频
+http://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西音乐广播
+http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西经济广播·女主播电台
+http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南音乐广播
+http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川城市之音
+http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川岷江音乐
+http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",楚天音乐广播
+http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏音乐广播
+http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏经典流行音乐广播
+http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江音乐调频·动听968
+http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河北音乐广播
+http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广东音乐之声
+http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",深圳飞扬971
+http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",深圳生活942
+http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",海南音乐广播
+http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州音乐广播
+http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州都市广播
+http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁夏音乐广播
+http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",重庆音乐广播
+http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江西音乐广播
+http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江音乐广播
+http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",福建汽车音乐广播
+http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青岛摩登音乐调频
+http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁经典音乐广播
+http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青海交通音乐广播
+http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",CGTN Radio
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",长三角之声
+http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",第一财经广播
+http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",AsiaFM 亚洲经典
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1 group-title="央视卫视",AsiaFM 亚洲天空
+http://funradio.cn:8000/funradio
+#EXTINF:-1 group-title="央视卫视",北京新闻广播
+http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北农村广播
+http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",万州综合广播
+http://123.146.162.24:8013/tslslive/L4cvRM0/hls/live_sd.m3u8
+#EXTINF:-1 group-title="央视卫视",万州交通广播
+http://123.146.162.24:8013/tslslive/gBEcw39/hls/live_sd.m3u8
+#EXTINF:-1 group-title="央视卫视",四川新闻广播
+http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河南农村广播大象资讯台
+http://satellitepull.cnr.cn/live/wxhnncgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",北京经典969
+http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",深圳飞扬971
+http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",深圳生活942
+http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青岛音乐体育广播
+http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",烟台音乐广播
+http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
+#EXTINF:-1 group-title="央视卫视",北京新闻
+http://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="央视卫视",北京文艺
+http://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="央视卫视",北京科教
+http://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="央视卫视",北京影视
+http://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="央视卫视",北京财经
+http://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="央视卫视",北京生活
+http://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="央视卫视",第一财经
+http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南潇湘之声
+http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南经济广播
+http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南旅游广播·PoPoPod播客电台
+http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南交通广播
+http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南金鹰之声
+http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南综合广播
+http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏故事广播
+http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏新闻综合广播
+http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏新闻广播
+http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏文艺广播
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏金陵之声
+http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏交通广播
+http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏健康广播
+http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽之声
+http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽生活广播·城市之声
+http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽经济广播
+http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽交通广播
+http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽旅游广播·高速之声
+http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽戏曲广播·动听995
+http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽故事广播
+http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北之声
+http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",楚天交通广播
+http://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北亲子广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",湖北生活广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",湖北城市之声
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",湖北资讯广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",河北文艺广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",河北综合广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",河北交通广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",河北经济广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",河北生活广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",福建新闻广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",福建都市广播·私家车987
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",福建交通广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",福建经济广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",福建东南广播
+解析出错: HTTPConnectionPool(host='127.0.0.1', port=10809): Read timed out. (read timeout=10)
+#EXTINF:-1 group-title="央视卫视",江西综合新闻广播
+https://tv1288.xyz/10000.mp4
+#EXTINF:-1 group-title="央视卫视",江西都市广播
+http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江西信息交通广播
+http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江西民生广播
+http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江西农村广播·绿色985
+http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东交通广播
+http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东体育休闲广播
+http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东经济广播
+http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东乡村广播
+http://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西交通广播
+http://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西经济广播·896汽车调频
+http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西都市广播·陕广新闻
+http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西农村广播
+http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西戏曲广播
+http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西新闻广播
+http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江之声
+http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江经济广播
+http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江交通之声
+http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江民生资讯广播
+http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江城市之声
+http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江旅游之声
+http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",重庆都市广播·私家车938
+http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广东新闻广播
+http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广东股市广播
+http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广东文体广播
+http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广东城市之声
+http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广东南粤之声
+http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",珠江经济台
+http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",南方生活广播
+http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",羊城交通广播
+http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",深圳交通广播
+http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",海南新闻广播
+http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",海南交通广播
+http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川经济广播
+http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川文艺广播
+http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川交通广播
+http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川综合广播四川之声
+http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川私家车广播
+http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州经济广播
+http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州旅游广播
+http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州故事广播
+http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州综合广播
+http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河南新闻广播
+http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河南经济广播
+http://satellitepull.cnr.cn/live/wxhnjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河南戏曲广播
+http://satellitepull.cnr.cn/live/wxhnxqgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河南教育广播
+http://satellitepull.cnr.cn/live/wxhnlygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河南信息广播
+http://satellitepull.cnr.cn/live/wxhnxxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",吉林新闻综合广播
+http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",吉林交通广播
+http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",吉林乡村广播
+http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",延边新闻广播
+http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁之声
+http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁乡村广播
+http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁经济广播
+http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",辽宁交通广播
+http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江新闻广播
+http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江交通广播
+http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江都市女性广播
+http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江高校广播
+http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江老年少儿广播·爱家调频
+http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江乡村广播
+http://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江朝鲜语广播
+http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古农村牧区广播绿野之声
+http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古新闻广播
+http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古经济生活广播
+http://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古评书曲艺广播
+http://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古蒙语对外广播草原之声
+http://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古蒙语新闻综合广播
+http://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",锡林郭勒汉语广播
+http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",锡林郭勒蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",阿拉善汉语广播
+http://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",阿拉善蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",呼伦贝尔汉语广播
+http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",呼伦贝尔蒙语广播
+http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",新疆新闻广播
+http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",新疆交通广播
+http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",新疆私家车广播
+http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",新疆绿色广播
+http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",西藏都市生活广播
+http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",西藏对外交通广播
+http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",西藏汉语广播
+http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",西藏藏语广播
+http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西教育广播
+http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西综合广播
+http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西北部湾之声
+http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西交通广播
+http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南新闻广播
+http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南经济广播·私家车电台
+http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南交通之声
+http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南旅游广播·香格里拉之声
+http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南民族广播
+http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南国际广播
+http://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南教育广播·知道分子
+http://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁夏经济广播
+http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",宁夏旅游广播
+http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青海新闻综合广播
+http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青海经济广播
+http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",安徽音乐广播
+http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",陕西青少广播·好听1055
+http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",山东经典音乐广播
+http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖南文艺广播·摩登音乐台
+http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI HIT FM
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",CRI HIT FM
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江西音乐广播
+http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",内蒙古音乐之声
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",湖北经典音乐广播
+http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西音乐广播
+http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",广西经济广播·女主播电台
+http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",云南音乐广播
+http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川城市之音
+http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",四川岷江音乐
+http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",楚天音乐广播
+http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏音乐广播
+http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",江苏经典流行音乐广播
+http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",浙江音乐调频·动听968
+http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",河北音乐广播
+http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",海南音乐广播
+http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",贵州音乐广播
+http://156.238.248.80:8880/play/404 page not found
+#EXTINF:-1 group-title="央视卫视",宁夏音乐广播
+http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",黑龙江音乐广播
+http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",福建汽车音乐广播
+http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",青海交通音乐广播
+http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+#EXTINF:-1 group-title="央视卫视",移动专用
+#genre#
+#EXTINF:-1 group-title="央视卫视",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播3
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播4
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播5
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播6
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播7
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播8
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播9
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播10
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播11
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播12
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播13
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播14
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播15
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播16
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播17
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播18
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播19
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播20
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播21
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播22
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播23
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播24
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播25
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播26
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播27
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播28
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播29
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",咪咕直播30
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 group-title="央视卫视",体育频道
+#genre#
+#EXTINF:-1 group-title="央视卫视",五星体育
+http://43.251.226.110:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
+#EXTINF:-1 group-title="央视卫视",睛彩竞技
+http://43.251.226.110:5124/TVOD/3000000020000011528.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",睛彩篮球
+http://43.251.226.110:5124/TVOD/3000000020000011529.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",睛彩青少
+http://43.251.226.110:5124/TVOD/3000000020000011525.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-1
+http://43.251.226.110:5124/TVOD/3000000001000005308.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-2
+http://43.251.226.110:5124/TVOD/3000000001000005969.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-3
+http://43.251.226.110:5124/TVOD/3000000001000007218.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-4
+http://43.251.226.110:5124/TVOD/3000000001000008001.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-5
+http://43.251.226.110:5124/TVOD/3000000001000008176.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-6
+http://43.251.226.110:5124/TVOD/3000000001000008379.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-7
+http://43.251.226.110:5124/TVOD/3000000001000010129.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-8
+http://43.251.226.110:5124/TVOD/3000000001000010948.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-9
+http://43.251.226.110:5124/TVOD/3000000001000028638.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-10
+http://43.251.226.110:5124/TVOD/3000000001000031494.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-11
+http://43.251.226.110:5124/TVOD/3000000010000005837.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-12
+http://43.251.226.110:5124/TVOD/3000000020000011518.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-13
+http://43.251.226.110:5124/TVOD/3000000020000011519.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-14
+http://43.251.226.110:5124/TVOD/3000000020000011520.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-15
+http://43.251.226.110:5124/TVOD/3000000020000011521.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-16
+http://43.251.226.110:5124/TVOD/3000000020000011522.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-24
+http://43.251.226.110:5124/TVOD/3000000010000000097.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-25
+http://43.251.226.110:5124/TVOD/3000000010000002019.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-26
+http://43.251.226.110:5124/TVOD/3000000010000002809.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-27
+http://43.251.226.110:5124/TVOD/3000000010000003915.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-28
+http://43.251.226.110:5124/TVOD/3000000010000004193.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-29
+http://43.251.226.110:5124/TVOD/3000000010000006077.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-30
+http://43.251.226.110:5124/TVOD/3000000010000006658.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-31
+http://43.251.226.110:5124/TVOD/3000000010000009788.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-32
+http://43.251.226.110:5124/TVOD/3000000010000010833.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-33
+http://43.251.226.110:5124/TVOD/3000000010000011297.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-34
+http://43.251.226.110:5124/TVOD/3000000010000011518.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-35
+http://43.251.226.110:5124/TVOD/3000000010000012558.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-36
+解析出错: HTTPConnectionPool(host='127.0.0.1', port=10809): Read timed out. (read timeout=10)
+#EXTINF:-1 group-title="央视卫视",咪咕视频-37
+http://43.251.226.110:5124/TVOD/3000000010000015470.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-38
+http://43.251.226.110:5124/TVOD/3000000010000015560.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-39
+http://43.251.226.110:5124/TVOD/3000000010000017678.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-40
+http://43.251.226.110:5124/TVOD/3000000010000019839.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-41
+http://43.251.226.110:5124/TVOD/3000000010000021904.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-42
+http://43.251.226.110:5124/TVOD/3000000010000023434.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-43
+http://43.251.226.110:5124/TVOD/3000000010000025380.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-44
+http://43.251.226.110:5124/TVOD/3000000010000027691.m3u8?token=8520
+#EXTINF:-1 group-title="央视卫视",咪咕视频-45
+http://43.251.226.110:5124/TVOD/3000000010000031669.m3u8?token=8520
