@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视卫视",CCTV-1
-http://142.54.168.234:82/live/cctv1.m3u8?jsbt=1774159432&jsbk=866b7abc368a3b8e93203a12b20ba21d&from=zbdq6
-#EXTINF:-1 group-title="央视卫视",CCTV-1
-http://209.141.53.52:82/live/cctv1.m3u8?jsbt=1774159433&jsbk=63f627b626051a6b55ed81fd1d8adb3a
+http://209.141.45.89:82/live/cctv1.m3u8?jsbt=1773717075&jsbk=a6d9ff53b98212e2ede573cee6710f09
 #EXTINF:-1 group-title="央视卫视",CCTV-2
 http://107.150.39.250:82/live/cctv2.m3u8?jsbt=1774159433&jsbk=c39a90b9c5634903285d1df59c2bc3cf&from=zbdq6
 #EXTINF:-1 group-title="央视卫视",CCTV-2
