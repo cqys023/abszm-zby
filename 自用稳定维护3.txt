@@ -1,6 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="咪咕央卫",mgCCTV1
+http://1.14.161.13:3000/608807420
+#EXTINF:-1 group-title="央视卫视",ysCCTV-1
+http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 group-title="央视卫视",CCTV-1
 http://209.141.45.89:82/live/cctv1.m3u8?jsbt=1773717075&jsbk=a6d9ff53b98212e2ede573cee6710f09
+#EXTINF:-1 group-title="央视卫视",CCTV-1
+http://107.150.60.122/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="央视卫视",CCTV-2
 http://209.141.45.89:82/live/cctv2.m3u8?jsbt=1774159433&jsbk=ef757e3bd1b14bc8b071db3e31965320
 #EXTINF:-1 group-title="央视卫视",CCTV-3
@@ -25,8 +32,12 @@ http://209.141.51.24:82/live/cctv9.m3u8?jsbt=1774159438&jsbk=4c14a55fc0c720c9dc2
 http://209.141.51.24:82/live/cctv10.m3u8?jsbt=1774159439&jsbk=0cd6d4f6e29eb807c56d40769f53ddf7
 #EXTINF:-1 group-title="央视卫视",CCTV-11
 http://209.141.34.205:82/live/cctv11.m3u8?jsbt=1773717093&jsbk=7c20df7f94c3da1ec75ebd7c5109e264
+#EXTINF:-1 group-title="央视卫视",CCTV-12
+http://107.150.60.122/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视卫视",CCTV-13
 http://209.141.37.3:82/live/cctv13.m3u8?jsbt=1774159440&jsbk=d76a5198bb631fcff1ee5cc163716fbf
+#EXTINF:-1 group-title="央视卫视",CCTV-13
+http://107.150.60.122/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="央视卫视",CCTV-14
 http://107.150.52.50:82/live/cctv14.m3u8?jsbt=1774159440&jsbk=2d6e5aa6d1505b3e3ca2ffae3d2fda45&from=zbdq6
 #EXTINF:-1 group-title="央视卫视",CCTV-14
