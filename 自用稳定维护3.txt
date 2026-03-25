@@ -128,9 +128,9 @@ https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 group-title="央视卫视",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="央视卫视",CHC动作电影
-http://69.30.245.194:82/live/chcdz.m3u8?jsbt=1774159462&jsbk=63fc627338c9700869c46dac228a2500
+http://173.208.187.18:82/live/chcdz.m3u8?jsbt=1774431210
 #EXTINF:-1 group-title="央视卫视",CHC家庭影院
-http://69.30.245.194:82/live/chcjt.m3u8?jsbt=1774159462&jsbk=e6a055b1c848201393af82124d4fa43f
+http://173.208.187.18:82/live/chcjt.m3u8?jsbt=1774431211
 #EXTINF:-1 group-title="央视卫视",CCTV-1
 http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 group-title="央视卫视",CCTV-2
