@@ -64,6 +64,8 @@ http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视卫视",第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视卫视",第一剧场
+http://69.30.238.178:82/live/dyjc.m3u8?jsbt=1774494060&jsbk=8037c7b01f45a6c041060a0e4e3a7fc4
 #EXTINF:-1 group-title="央视卫视",中央新影-老故事
 http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视卫视",高尔夫网球
