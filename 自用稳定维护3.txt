@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="咪咕央卫",测试CCTV1
+http://209.141.37.15:82/live/cctv1.m3u8?jsbt=1774780192
 #EXTINF:-1 group-title="咪咕央卫",mg1CCTV1
 http://1.14.161.13:3000/608807420
 #EXTINF:-1 group-title="咪咕央卫",mg2CCTV6
