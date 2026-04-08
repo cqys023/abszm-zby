@@ -1196,6 +1196,8 @@ http://tl.061833.xyz/tl/rock
 #genre#
 #EXTINF:-1 group-title="央视卫视",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="央视卫视",生命电视
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 group-title="央视卫视",民事新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="央视卫视",民事新闻台
