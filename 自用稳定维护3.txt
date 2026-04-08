@@ -27,11 +27,15 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视卫视",CCTV-5+
 http://205.185.116.10:82/live/cctv5p.m3u8?jsbt=1774159436&jsbk=5332e5ddb7c010d16400e077c247abe8
 #EXTINF:-1 group-title="央视卫视",CCTV-6
+http://209.141.37.15:82/live/cctv6.m3u8?jsbt=1775099455
+#EXTINF:-1 group-title="央视卫视",CCTV-6
 http://209.141.59.47:82/live/cctv6.m3u8?jsbt=1774159436&jsbk=0fe0f11565ca0a7443a7c6fa8ce52fe1
 #EXTINF:-1 group-title="央视卫视",CCTV-7
 http://209.141.51.24:82/live/cctv7.m3u8?jsbt=1774159437&jsbk=bba21be0abe723990af57377f1aa3ac2
 #EXTINF:-1 group-title="央视卫视",CCTV-8
 http://209.141.59.47:82/live/cctv8.m3u8?jsbt=1774159438&jsbk=99c1a26fbe6339570e91edce258ac890
+#EXTINF:-1 group-title="央视卫视",CCTV-8
+http://209.141.37.15:82/live/cctv8.m3u8?jsbt=1775099455
 #EXTINF:-1 group-title="央视卫视",CCTV-8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视卫视",CCTV-9
