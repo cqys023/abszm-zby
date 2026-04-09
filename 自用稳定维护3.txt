@@ -4,6 +4,8 @@
 http://209.141.37.15:82/live/cctv1.m3u8?jsbt=1774780192
 #EXTINF:-1 group-title="咪咕央卫",测试2CCTV1
 http://111.56.90.5/000000000000/5000000004000002226/1.m3u8
+#EXTINF:-1 group-title="咪咕央卫",测试3CCTV1
+http://107.150.60.122/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="咪咕央卫",mg1CCTV1
 http://1.14.161.13:3000/608807420
 #EXTINF:-1 group-title="咪咕央卫",mg2CCTV6
