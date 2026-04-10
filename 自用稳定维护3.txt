@@ -14,6 +14,8 @@ http://106.14.225.22:9999/624878396
 http://49.235.155.249:3566/608807420
 #EXTINF:-1 group-title="咪咕央卫",mg4CCTV1
 http://39.107.69.13/608807420
+#EXTINF:-1 group-title="咪咕央卫",mg5CCTV1
+http://47.105.93.105:7002/608807420
 #EXTINF:-1 group-title="央视卫视",ysCCTV-1
 http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 group-title="央视卫视",CCTV-1
