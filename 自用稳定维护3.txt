@@ -7,6 +7,8 @@ http://209.141.37.15:82/live/cctv1.m3u8?jsbt=1774780192
 http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
 http://107.150.60.122/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="咪咕央卫",mgCCTV1
+http://116.230.239.15:2222/608807420
+#EXTINF:-1 group-title="咪咕央卫",mg2CCTV1
 http://180.127.29.66:9595/608807420
 #EXTINF:-1 group-title="央视卫视",ysCCTV-1
 http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
