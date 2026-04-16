@@ -7,7 +7,7 @@ http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="咪咕央卫",测试酒3CCTV1
 http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
 #EXTINF:-1 group-title="咪咕央卫",测试酒4CCTV1
-http://121.57.88.206:898/hls/1/index.m3u8
+
 #EXTINF:-1 group-title="咪咕央卫",测试3CCTV1
 http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
 http://107.150.60.122/live/cctv1hd.m3u8
