@@ -610,6 +610,41 @@ https://gxgp.537224.xyz/PLTV/77777777/224/3221225771/index.m3u8?servicetype=1&IA
 #EXTINF:-1 group-title="广西1",广播
 https://gxgp.537224.xyz/PLTV/77777777/224/3221226278/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 
+#EXTINF:-1 group-title="华视网关",CCTV-1
+http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-2
+http://116.1.148.123:9901/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-3
+http://116.1.148.123:9901/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-4
+http://116.1.148.123:9901/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-5
+http://116.1.148.123:9901/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-5+
+http://116.1.148.123:9901/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-6
+http://116.1.148.123:9901/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-7
+http://116.1.148.123:9901/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-8
+http://116.1.148.123:9901/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-9
+http://116.1.148.123:9901/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-10
+http://116.1.148.123:9901/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-11
+http://116.1.148.123:9901/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-12
+http://116.1.148.123:9901/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-14
+http://116.1.148.123:9901/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-15
+http://116.1.148.123:9901/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="华视网关",CCTV-17
+http://116.1.148.123:9901/newlive/live/hls/16/live.m3u8
+
+
+
 #EXTINF:-1 group-title="音乐欣赏",随机点歌1
 https://2025.xn--jfx065ba424q.top/1.m3u8
 
