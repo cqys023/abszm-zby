@@ -1002,7 +1002,40 @@ https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 https://0472.org/hls/cgtnd.m3u8
 
 
-
+#EXTINF:-1 group-title="山西",山西卫视
+http://www.feifanlib.com/sxtv.php?id=sxws
+#EXTINF:-1 group-title="山西",山西经济
+http://www.feifanlib.com/sxtv.php?id=sxjj
+#EXTINF:-1 group-title="山西",山西影视
+http://www.feifanlib.com/sxtv.php?id=sxys
+#EXTINF:-1 group-title="山西",山西社会与法治
+http://www.feifanlib.com/sxtv.php?id=sxshfz
+#EXTINF:-1 group-title="山西",山西文体生活
+http://www.feifanlib.com/sxtv.php?id=sxwtsh
+#EXTINF:-1 group-title="山西",山西黄河
+http://www.feifanlib.com/sxtv.php?id=sxhh
+#EXTINF:-1 group-title="山西",太原新闻综合
+http://www.feifanlib.com/sxtv.php?id=ty1
+#EXTINF:-1 group-title="山西",大同新闻综合
+http://www.feifanlib.com/sxtv.php?id=dt1
+#EXTINF:-1 group-title="山西",阳泉新闻综合
+http://www.feifanlib.com/sxtv.php?id=yq1
+#EXTINF:-1 group-title="山西",长治新闻综合
+http://www.feifanlib.com/sxtv.php?id=cz1
+#EXTINF:-1 group-title="山西",晋城新闻综合
+http://www.feifanlib.com/sxtv.php?id=jc1
+#EXTINF:-1 group-title="山西",朔州新闻综合
+http://www.feifanlib.com/sxtv.php?id=sz1
+#EXTINF:-1 group-title="山西",晋中综合
+http://www.feifanlib.com/sxtv.php?id=jz1
+#EXTINF:-1 group-title="山西",运城新闻综合
+http://www.feifanlib.com/sxtv.php?id=yc1
+#EXTINF:-1 group-title="山西",忻州综合
+http://www.feifanlib.com/sxtv.php?id=xz1
+#EXTINF:-1 group-title="山西",临汾新闻综合
+http://www.feifanlib.com/sxtv.php?id=lf1
+#EXTINF:-1 group-title="山西",吕梁新闻综合
+http://www.feifanlib.com/sxtv.php?id=ll1
 
 
 
