@@ -5,7 +5,7 @@ hysteria2://22c2cb89-cf4d-4fb1-be34-2e6ddfdbc4a0@66.181.36.85:43835/?sni=www.bin
 vless://1ef7b51f-db73-4e31-b036-917596e51be6@cloudflare.182682.xyz:443?encryption=none&security=tls&type=ws&host=precise-food-sum-couple.trycloudflare.com&path=1ef7b51f#PASSP-1
 vless://1ef7b51f-db73-4e31-b036-917596e51be6@cloudflare.182682.xyz:80?encryption=none&security=none&type=ws&host=precise-food-sum-couple.trycloudflare.com&path=1ef7b51f#PASSP-2
 
-hysteria2://3c2ccf7c-b127-4b77-a5d8-585e727abbcb@193.108.58.32:24079/?sni=www.bing.com&alpn=h3&insecure=1#hy2-独角
+hysteria2://6d826aca-ea5d-448e-b6cc-49de26280c28@45.202.255.50:53783?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-独角
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:17b::8]:22000/?sni=apple.com&insecure=1#FR
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?sni=apple.com&insecure=1#FR2
