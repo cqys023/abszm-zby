@@ -1037,7 +1037,7 @@ http://www.feifanlib.com/sxtv.php?id=lf1
 http://www.feifanlib.com/sxtv.php?id=ll1
 
 #EXTINF:-1 group-title="重庆",重庆新闻
-http://feifanlib.com/sdtv.php
+http://feifanlib.com/cqxw.php
 
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="http://fnnas.742690.xyz:8099/logo/浙江钱江都市.png" group-title="浙江频道",浙江钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
