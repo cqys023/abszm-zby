@@ -1036,8 +1036,8 @@ http://www.feifanlib.com/sxtv.php?id=lf1
 #EXTINF:-1 group-title="山西",吕梁新闻综合
 http://www.feifanlib.com/sxtv.php?id=ll1
 
-
-
+#EXTINF:-1 group-title="重庆",重庆新闻
+http://feifanlib.com/sdtv.php
 
 
 
