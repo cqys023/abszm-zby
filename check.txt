@@ -1,9 +1,3 @@
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 group-title="JD央视",CCTV1
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
