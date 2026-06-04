@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="JD央视",CCTV1
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 group-title="JD央视",CCTV2
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
-#EXTINF:-1 group-title="JD央视",CCTV3
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
-#EXTINF:-1 group-title="JD央视",CCTV4
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
-#EXTINF:-1 group-title="JD央视",CCTV5
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
-#EXTINF:-1 group-title="JD央视",CCTV5+
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
-#EXTINF:-1 group-title="JD央视",CCTV6
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
-#EXTINF:-1 group-title="JD央视",CCTV7
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
-#EXTINF:-1 group-title="JD央视",CCTV8
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 group-title="JD央视",CCTV9
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
-#EXTINF:-1 group-title="JD央视",CCTV10
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
-#EXTINF:-1 group-title="JD央视",CCTV11
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
-#EXTINF:-1 group-title="JD央视",CCTV12
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
-#EXTINF:-1 group-title="JD央视",CCTV13
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 group-title="JD央视",CCTV14
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
-#EXTINF:-1 group-title="JD央视",CCTV15
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
-#EXTINF:-1 group-title="JD央视",CCTV16
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
-#EXTINF:-1 group-title="JD央视",CCTV17,
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
-#EXTINF:-1 group-title="JD央视",重温经典
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1 group-title="数字央视",第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="数字央视",风云剧场
