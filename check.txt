@@ -1,3 +1,15 @@
+#EXTINF:-1 group-title="测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
+http://222.223.41.27:8888/hls/1/index.m3u8
+#EXTINF:-1 group-title="测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
+http://111.61.208.131:9019/hls/1/index.m3u8
+#EXTINF:-1 group-title="测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
+http://183.129.255.66:8480/hls/1/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="A央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 group-title="A央卫视直播" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV2
