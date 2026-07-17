@@ -258,6 +258,43 @@ http://111.61.208.131:9019/hls/1/index.m3u8
 #EXTINF:-1 group-title="测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
 http://183.129.255.66:8480/hls/1/index.m3u8
 
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv1
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV2
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv2
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV3
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv3
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV4
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv4
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV5
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv5
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV6
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv6
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV7
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv7
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV8
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv8
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV9
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv9
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV10
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv10
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV11
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv11
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV12
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv12
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV13
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv13
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV14
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv14
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV15
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv15
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV16
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv16
+#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV17
+https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv17
+
+
+
 
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.404003.xyz/LOGO/CCTV-1.png" group-title="测试2",CCTV-1
 http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
