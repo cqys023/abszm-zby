@@ -1,6 +1,5 @@
 hysteria2://22c2cb89-cf4d-4fb1-be34-2e6ddfdbc4a0@66.181.36.85:43835/?sni=www.bing.com&alpn=h3&insecure=1#hy2-PASSP
-hysteria2://c8231273-d1e8-4390-bd8a-6bcb39eca62b@192.255.175.194:60467/?sni=www.bing.com&alpn=h3&insecure=1#hy2-%E7%8B%AC%E8%A7%924
-hysteria2://c8231273-d1e8-4390-bd8a-6bcb39eca62b@[2607:9d00:2000:39::283]:60467/?sni=www.bing.com&alpn=h3&insecure=1#hy2-独角6
+hysteria2://75fa7f14-6c79-4346-a297-1c69900dda16@158.247.201.209:17571/?sni=www.bing.com&alpn=h3&insecure=1#hy2-独角6
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@220.128.110.108:43?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#TW
 vless://e883ddd8-4011-4fac-9971-1ac3671475b8@220.128.110.108:43?encryption=none&security=tls&sni=shdows.feifanlib.fun&fp=firefox&allowInsecure=1&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560#TW-2
 trojan://47cf6025-e1ed-46f0-950a-e72b7036cf5b@162.159.58.20:443?security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-Trojan-WS-TLS
