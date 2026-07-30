@@ -160,6 +160,8 @@ http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 #EXTINF:-1 group-title="mytv",CCTV5+
 https://docker.digital8.top/html/iptv/YDTV.php?access_token=2026V4_M3U&id=cctv5p
+#EXTINF:-1 group-title="mytv",CCTV1
+https://cdn6.cc.cd/163189/cctv1
 
 
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.404003.xyz/LOGO/CCTV-1.png" group-title="zbdq5",CCTV-1
