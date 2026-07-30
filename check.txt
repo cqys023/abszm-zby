@@ -4,8 +4,30 @@ https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
 https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 #EXTINF:-1 group-title="mytv",CTS华视新闻
 http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="mytv",CTS华视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="mytv",CTS华视
 http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="mytv",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="mytv",中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="mytv",中天新闻
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+#EXTINF:-1 group-title="mytv",三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 group-title="mytv",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1 group-title="mytv",TVBS新闻
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="mytv",LIVE三立
+https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+#EXTINF:-1 group-title="mytv",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="mytv",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 group-title="mytv",中视菁采台
+http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 group-title="mytv",台视
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 group-title="mytv",公视台语台
@@ -16,20 +38,120 @@ http://74.91.26.218:82/live/pts.m3u8
 http://74.91.26.218:82/live/ftvdy.m3u8
 #EXTINF:-1 group-title="mytv",民视新闻台
 http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="mytv",民视新闻台
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="mytv",民视台湾台
 http://74.91.26.218:82/live/ftvtw.m3u8
 #EXTINF:-1 group-title="mytv",民视
 http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 group-title="mytv",中视菁采台
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 group-title="mytv",中视经典
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 group-title="mytv",中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 group-title="mytv",中视
-http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 group-title="mytv",喜剧影院
 http://74.91.26.218:82/live/vlxjyy.m3u8
+#EXTINF:-1 group-title="mytv",HOY TV
+https://cdn.qd.je/163189/hoy
+#EXTINF:-1 group-title="mytv",HOY TV
+https://cdn.qd.je/163189/hoy2
+#EXTINF:-1 group-title="mytv",HOY资讯台
+https://cdn.qd.je/163189/hoy78
+#EXTINF:-1 group-title="mytv",HOY国际财经台
+https://cdn.qd.je/163189/hoy76
+#EXTINF:-1 group-title="mytv",ViuTV
+https://cdn.qd.je/163189/viu
+#EXTINF:-1 group-title="mytv",ViuTVsix
+https://cdn.qd.je/163189/viu6
+#EXTINF:-1 group-title="mytv",NOW新闻台
+https://cdn.qd.je/163189/now
+#EXTINF:-1 group-title="mytv",RTHK31
+https://cdn.qd.je/163189/rthk31
+#EXTINF:-1 group-title="mytv",RTHK32
+https://cdn.qd.je/163189/rthk32
+#EXTINF:-1 group-title="mytv",澳视澳门
+https://cdn.qd.je/163189/asam
+#EXTINF:-1 group-title="mytv",澳视卫星
+https://cdn.qd.je/163189/as
+#EXTINF:-1 group-title="mytv",澳门体育
+https://cdn.qd.je/163189/amty
+#EXTINF:-1 group-title="mytv",澳门综艺
+https://cdn.qd.je/163189/amzy
+#EXTINF:-1 group-title="mytv",澳门莲花
+https://cdn.qd.je/163189/amlh
+#EXTINF:-1 group-title="mytv",重温经典
+https://cdn.qd.je/163189/cwjd
+#EXTINF:-1 group-title="mytv",凤凰中文
+https://cdn.qd.je/163189/fhzw
+#EXTINF:-1 group-title="mytv",凤凰资讯
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 group-title="mytv",凤凰香港
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 group-title="mytv",TVB1
+https://cdn.qd.je/163189/tvb1
+#EXTINF:-1 group-title="mytv",TVBj1
+https://cdn.qd.je/163189/j1
+#EXTINF:-1 group-title="mytv",翡翠剧集台
+https://cdn.qd.je/163189/tvbd
+#EXTINF:-1 group-title="mytv",翡翠台
+https://cdn.qd.je/163189/fct
+#EXTINF:-1 group-title="mytv",华丽翡翠台(硬字幕)
+https://cdn.qd.je/163189/jade
+#EXTINF:-1 group-title="mytv",无线新闻台
+https://cdn.qd.je/163189/wxxw
+#EXTINF:-1 group-title="mytv",八度空间
+https://cdn.qd.je/163189/8tv
+#EXTINF:-1 group-title="mytv",CH5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 group-title="mytv",CH8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 group-title="mytv",CHU
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 group-title="mytv",龙华电影
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 group-title="mytv",龙华经典
+https://cdn.qd.je/163189/lhjd
+#EXTINF:-1 group-title="mytv",龙华偶像
+https://cdn.qd.je/163189/lhox
+#EXTINF:-1 group-title="mytv",龙华日韩
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 group-title="mytv",龙华戏剧
+https://cdn.qd.je/163189/lhxj
+#EXTINF:-1 group-title="mytv",龙华洋片
+https://cdn.qd.je/163189/lhyp
+#EXTINF:-1 group-title="mytv",龙华卡通
+https://cdn.qd.je/163189/lhkt
+#EXTINF:-1 group-title="mytv",金光布袋戏
+https://cdn.qd.je/163189/jgbdx
+#EXTINF:-1 group-title="mytv",亚洲武侠
+https://cdn.qd.je/163189/yzwx
+#EXTINF:-1 group-title="mytv",TVB星河
+https://cdn.qd.je/163189/xinghe
+#EXTINF:-1 group-title="mytv",天映频道(新加坡)
+https://cdn.qd.je/163189/typd
+#EXTINF:-1 group-title="mytv",天映经典
+https://cdn.qd.je/163189/ccm
+#EXTINF:-1 group-title="mytv",海峡卫视
+https://cdn.qd.je/163189/hxws
+#EXTINF:-1 group-title="mytv",海峡卫视
+https://cdn.qd.je/163189/hxws2
+#EXTINF:-1 group-title="mytv",广东珠江
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 group-title="mytv",广东体育
+https://cdn.qd.je/163189/gdty
+#EXTINF:-1 group-title="mytv",五星体育
+https://cdn.qd.je/163189/wxty
+#EXTINF:-1 group-title="mytv",CCTV5
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 group-title="mytv",CCTV5
+https://cdn.qd.je/163189/cctv5-2
+#EXTINF:-1 group-title="mytv",CCTV5+
+https://cdn.qd.je/163189/cctv5p
+#EXTINF:-1 group-title="mytv",CCTV5+
+https://cdn.qd.je/163189/cctv5p-2
+#EXTINF:-1 group-title="mytv",CCTV13
+https://cdn.qd.je/163189/cctv13
+#EXTINF:-1 group-title="mytv",CCTV13
+https://cdn.qd.je/163189/cctv13-2
+#EXTINF:-1 group-title="mytv",CCTV16
+https://cdn.qd.je/163189/cctv16
+#EXTINF:-1 group-title="mytv",CCTV16
+https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 group-title="mytv",第一剧场
 http://107.150.55.138:82/live/dyjc.m3u8?jsbt=1785072222&jsbk=7537f7ed9898f4edf8a87f09d18dd0a4&from=cdnhk08
 #EXTINF:-1 group-title="mytv",第一剧场dr
