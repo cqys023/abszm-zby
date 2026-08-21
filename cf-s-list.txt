@@ -4,7 +4,7 @@ hysteria2://0f50c793-48b3-48c0-ae08-b3ab6b665b55@nl1.1card.cc:60738/?sni=www.bin
 vless://2bebc74c-daac-4c40-9928-ab2f72dce384@cf.877774.xyz:443?encryption=none&security=tls&sni=vercel.feifanlib.shop&fp=chrome&type=ws&host=vercel.feifanlib.shop&path=%2F2bebc74c#Vercel-SG-Amazon.com
 vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.147:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-08
 vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.133:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-06
-vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@172.64.52.212:443?encryption=none&security=tls&sni=cfnew.feifanlib.shop&fp=randomized&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#cfnew电信
+vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@cf.877774.xyz:443?encryption=none&security=tls&sni=cfnew.feifanlib.shop&fp=randomized&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#cfnew电信
 vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@saas.sin.fan:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%94%B5%E4%BF%A1saas
 vless://0a7b1ff2-d75e-4bdb-95c9-cfbb3461b1da@172.64.52.212:443?encryption=none&security=tls&sni=el.feifan.de5.net&fp=random&type=ws&host=el.feifan.de5.net&path=%2F%3Fed%3D2560#W1
 vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@220.128.110.108:43?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#TW
