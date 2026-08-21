@@ -1,6 +1,4 @@
 hysteria2://22c2cb89-cf4d-4fb1-be34-2e6ddfdbc4a0@66.181.36.85:43835/?sni=www.bing.com&alpn=h3&insecure=1#hy2-PASSP
-hysteria2://75fa7f14-6c79-4346-a297-1c69900dda16@158.247.201.209:17571/?sni=www.bing.com&alpn=h3&insecure=1#hy2-独角
-hysteria2://75fa7f14-6c79-4346-a297-1c69900dda16@[2401:c080:1c02:49a:cafe::f]:17571/?sni=www.bing.com&alpn=h3&insecure=1#hy2-独角6
 hysteria2://0f50c793-48b3-48c0-ae08-b3ab6b665b55@144.21.33.59:60738/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN
 hysteria2://0f50c793-48b3-48c0-ae08-b3ab6b665b55@nl1.1card.cc:60738/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN2
 vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.147:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-08
