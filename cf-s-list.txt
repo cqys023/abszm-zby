@@ -1,6 +1,7 @@
 hysteria2://22c2cb89-cf4d-4fb1-be34-2e6ddfdbc4a0@66.181.36.85:43835/?sni=www.bing.com&alpn=h3&insecure=1#hy2-PASSP
 hysteria2://0f50c793-48b3-48c0-ae08-b3ab6b665b55@144.21.33.59:60738/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN
 hysteria2://0f50c793-48b3-48c0-ae08-b3ab6b665b55@nl1.1card.cc:60738/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN2
+hysteria2://0f50c793-48b3-48c0-ae08-b3ab6b665b55@nl1.deeprush.ai:60738/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN3
 vless://2bebc74c-daac-4c40-9928-ab2f72dce384@cf.877774.xyz:443?encryption=none&security=tls&sni=vercel.feifanlib.shop&fp=chrome&type=ws&host=vercel.feifanlib.shop&path=%2F2bebc74c#Vercel-SG-Amazon.com
 vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.147:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-08
 vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.133:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-06
