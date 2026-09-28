@@ -426,7 +426,7 @@ http://222.223.41.27:8888/hls/1/index.m3u8
 http://111.61.208.131:9019/hls/1/index.m3u8
 #EXTINF:-1 group-title="测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
 http://183.129.255.66:8480/hls/1/index.m3u8
-#EXTINF:-1 group-title="测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1测试
+#EXTINF:-1 group-title="测试" tvg-name="CCTV1测试" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1测试
 https://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 
