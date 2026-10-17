@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5+
+http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="港澳台2",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="港澳台2",中视
@@ -258,6 +261,255 @@ https://play3636.zdwafis.com/live/mosixmark.flv
 #EXTINF:-1 group-title="港澳台2",老澳门直播
 https://vdm6-ali.hrypl168.com/live/a6.flv
 
+#EXTM3U
+#EXTINF:-1 group-title="电视直播D",CCTV-1HD
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-2HD
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-3HD
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-4HD
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-5HD
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-6HD
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-7HD
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-8HD
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-9HD
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-10HD
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-11HD
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-12HD
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-13HD
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-14HD
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-15HD
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-16HD
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-17HD
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-5+HD
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-4K超高清
+http://198.204.228.26/live/cctv4k.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-8K超高清
+http://198.204.228.26/live/cctv8k.m3u8
+#EXTINF:-1 group-title="电视直播D",CHC动作电影
+http://198.204.228.26/live/chcdz.m3u8
+#EXTINF:-1 group-title="电视直播D",CHC影迷电影
+http://198.204.228.26/live/chchd.m3u8
+#EXTINF:-1 group-title="电视直播D",CHC家庭影院
+http://198.204.228.26/live/chcjt.m3u8
+#EXTINF:-1 group-title="电视直播D",重温经典
+http://198.204.228.26/live/cwjd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-电视指南
+http://198.204.228.26/live/dszn.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-第一剧场
+http://198.204.228.26/live/dyjc.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-风云剧场
+http://198.204.228.26/live/fyjc.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-风云音乐
+http://198.204.228.26/live/fyyy.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-风云足球
+http://198.204.228.26/live/fyzq.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-高尔夫网球
+http://198.204.228.26/live/gefwq.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-兵器科技
+http://198.204.228.26/live/gfjs.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-女性时尚
+http://198.204.228.26/live/nxss.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-世界地理
+http://198.204.228.26/live/sjdl.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-怀旧剧场
+http://198.204.228.26/live/hjjc.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-央视台球
+http://198.204.228.26/live/ystq.m3u8
+#EXTINF:-1 group-title="电视直播D",中央新影-老故事
+http://198.204.228.26/live/lgs.m3u8
+#EXTINF:-1 group-title="电视直播D",中央新影-发现之旅
+http://198.204.228.26/live/fxzl.m3u8
+#EXTINF:-1 group-title="电视直播D",国学频道
+http://198.204.228.26/live/gxpd.m3u8
+#EXTINF:-1 group-title="电视直播D",天元围棋
+http://198.204.228.26/live/gztywq.m3u8
+#EXTINF:-1 group-title="电视直播D",优漫卡通
+http://198.204.228.26/live/ymkt.m3u8
+#EXTINF:-1 group-title="电视直播D",北京纪实科教
+http://198.204.228.26/live/btv3.m3u8
+#EXTINF:-1 group-title="电视直播D",北京卡酷少儿
+http://198.204.228.26/live/btvkk.m3u8
+#EXTINF:-1 group-title="电视直播D",安徽卫视HD
+http://198.204.228.26/live/ahwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",北京卫视HD
+http://198.204.228.26/live/bjwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",兵团卫视
+http://198.204.228.26/live/btws.m3u8
+#EXTINF:-1 group-title="电视直播D",重庆卫视HD
+http://198.204.228.26/live/cqwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",大湾区卫视(国际版)
+http://198.204.228.26/live/gdgj.m3u8
+#EXTINF:-1 group-title="电视直播D",东方卫视HD
+http://198.204.228.26/live/dfwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",东南卫视HD
+http://198.204.228.26/live/dnwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",广东卫视HD
+http://198.204.228.26/live/gdwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",甘肃卫视HD
+http://198.204.228.26/live/gswshd.m3u8
+#EXTINF:-1 group-title="电视直播D",广西卫视HD
+http://198.204.228.26/live/gxwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",贵州卫视HD
+http://198.204.228.26/live/gzwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",河南卫视HD
+http://198.204.228.26/live/hawshd.m3u8
+#EXTINF:-1 group-title="电视直播D",湖北卫视HD
+http://198.204.228.26/live/hbwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",河北卫视HD
+http://198.204.228.26/live/hewshd.m3u8
+#EXTINF:-1 group-title="电视直播D",黑龙江卫视HD
+http://198.204.228.26/live/hljwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",湖南卫视HD
+http://198.204.228.26/live/hnwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",吉林卫视HD
+http://198.204.228.26/live/jlwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",江苏卫视HD
+http://198.204.228.26/live/jswshd.m3u8
+#EXTINF:-1 group-title="电视直播D",江西卫视HD
+http://198.204.228.26/live/jxwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",辽宁卫视HD
+http://198.204.228.26/live/lnwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",大湾区卫视
+http://198.204.228.26/live/nfws.m3u8
+#EXTINF:-1 group-title="电视直播D",内蒙古卫视
+http://198.204.228.26/live/nmgws.m3u8
+#EXTINF:-1 group-title="电视直播D",宁夏卫视
+http://198.204.228.26/live/nxws.m3u8
+#EXTINF:-1 group-title="电视直播D",青海卫视
+http://198.204.228.26/live/qhws.m3u8
+#EXTINF:-1 group-title="电视直播D",四川卫视HD
+http://198.204.228.26/live/scwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",山东卫视HD
+http://198.204.228.26/live/sdwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",陕西卫视HD
+http://198.204.228.26/live/snwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",三沙卫视
+http://198.204.228.26/live/ssws.m3u8
+#EXTINF:-1 group-title="电视直播D",山西卫视HD
+http://198.204.228.26/live/sxwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",深圳卫视HD
+http://198.204.228.26/live/szwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",天津卫视HD
+http://198.204.228.26/live/tjwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",新疆卫视
+http://198.204.228.26/live/xjws.m3u8
+#EXTINF:-1 group-title="电视直播D",厦门卫视
+http://198.204.228.26/live/xmws.m3u8
+#EXTINF:-1 group-title="电视直播D",云南卫视HD
+http://198.204.228.26/live/ynwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",浙江卫视HD
+http://198.204.228.26/live/zjwshd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-央视文化精品
+http://198.204.228.26/live/ysjp.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-卫生健康
+http://198.204.228.26/live/wsjk.m3u8
+#EXTINF:-1 group-title="电视直播D",北京卡酷少儿
+http://198.204.228.26/live/btvkk.m3u8
+#EXTINF:-1 group-title="电视直播D",中央新影-发现之旅
+http://198.204.228.26/live/fxzl.m3u8
+#EXTINF:-1 group-title="电视直播D",中央新影-老故事
+http://198.204.228.26/live/lgs.m3u8
+#EXTINF:-1 group-title="电视直播D",中国教育3
+http://198.204.228.26/live/cetv3.m3u8
+#EXTINF:-1 group-title="电视直播D",广东新闻
+http://198.204.228.26/live/gdxw.m3u8
+#EXTINF:-1 group-title="电视直播D",广东新闻
+http://198.204.228.26/live/gdxwa.m3u8
+#EXTINF:-1 group-title="电视直播D",广东移动
+http://198.204.228.26/live/gdyd.m3u8
+#EXTINF:-1 group-title="电视直播D",广东珠江
+http://198.204.228.26/live/gdzja.m3u8
+#EXTINF:-1 group-title="电视直播D",广东珠江
+http://198.204.228.26/live/gdzj.m3u8
+#EXTINF:-1 group-title="电视直播D",嘉佳卡通
+http://198.204.228.26/live/gdjjkt.m3u8
+#EXTINF:-1 group-title="电视直播D",岭南戏曲
+http://198.204.228.26/live/gdlnxq.m3u8
+#EXTINF:-1 group-title="电视直播D",广东4K超高清
+http://198.204.228.26/live/gdtvs3.m3u8
+#EXTINF:-1 group-title="电视直播D",广东少儿
+http://198.204.228.26/live/gdtvs5.m3u8
+#EXTINF:-1 group-title="电视直播D",广东体育
+http://198.204.228.26/live/gdty.m3u8
+#EXTINF:-1 group-title="电视直播D",广东民生
+http://198.204.228.26/live/gdgg.m3u8
+#EXTINF:-1 group-title="电视直播D",广西影视
+http://198.204.228.26/live/gxys.m3u8
+#EXTINF:-1 group-title="电视直播D",广西综艺旅游
+http://198.204.228.26/live/gxzy.m3u8
+#EXTINF:-1 group-title="电视直播D",广西都市
+http://198.204.228.26/live/gxds.m3u8
+#EXTINF:-1 group-title="电视直播D",广西新闻
+http://198.204.228.26/live/gxxw.m3u8
+#EXTINF:-1 group-title="电视直播D",广西国际
+http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 group-title="电视直播D",湖北综合
+http://198.204.228.26/live/hbzh.m3u8
+#EXTINF:-1 group-title="电视直播D",湖北经视
+http://198.204.228.26/live/hbjs.m3u8
+#EXTINF:-1 group-title="电视直播D",湖北影视
+http://198.204.228.26/live/hbys.m3u8
+#EXTINF:-1 group-title="电视直播D",湖北教育
+http://198.204.228.26/live/hbjy.m3u8
+#EXTINF:-1 group-title="电视直播D",湖北垄上
+http://198.204.228.26/live/hbls.m3u8
+#EXTINF:-1 group-title="电视直播D",湖北生活
+http://198.204.228.26/live/hbty.m3u8
+#EXTINF:-1 group-title="电视直播D",湖南娱乐
+http://198.204.228.26/live/hnyl.m3u8
+#EXTINF:-1 group-title="电视直播D",湖南教育
+http://198.204.228.26/live/hnjy.m3u8
+#EXTINF:-1 group-title="电视直播D",吉林都市
+http://198.204.228.26/live/jlds.m3u8
+#EXTINF:-1 group-title="电视直播D",吉林综艺文化
+http://198.204.228.26/live/jlfz.m3u8
+#EXTINF:-1 group-title="电视直播D",吉林生活
+http://198.204.228.26/live/jlsh.m3u8
+#EXTINF:-1 group-title="电视直播D",新疆汉语影视
+http://198.204.228.26/live/xjtv6.m3u8
+#EXTINF:-1 group-title="电视直播D",新疆汉语体育健康
+http://198.204.228.26/live/xjtv7.m3u8
+#EXTINF:-1 group-title="电视直播D",江西少儿家庭
+http://198.204.228.26/live/jxtv6.m3u8
+#EXTINF:-1 group-title="电视直播D",江西新闻频道
+http://198.204.228.26/live/jxtv7.m3u8
+#EXTINF:-1 group-title="电视直播D",成龙电影
+http://198.204.228.26/live/lbcl.m3u8
+#EXTINF:-1 group-title="电视直播D",周润发电影
+http://198.204.228.26/live/lbzrf.m3u8
+#EXTINF:-1 group-title="电视直播D",周星驰电影
+http://198.204.228.26/live/lbzxc.m3u8
+#EXTINF:-1 group-title="电视直播D",林正英影院
+http://198.204.228.26/live/lblzy.m3u8
+#EXTINF:-1 group-title="电视直播D",江苏卫视4k
+http://198.204.228.26/live/jsws4k.m3u8
+#EXTINF:-1 group-title="电视直播D",深圳卫视4k
+http://198.204.228.26/live/szws4k.m3u8
+#EXTINF:-1 group-title="电视直播D",广东卫视4k
+http://198.204.228.26/live/gdws4k.m3u8
+#EXTINF:-1 group-title="电视直播D",山东卫视4k
+http://198.204.228.26/live/sdws4k.m3u8
+#EXTINF:-1 group-title="电视直播D",四川卫视4k
+http://198.204.228.26/live/scws4k.m3u8
+#EXTINF:-1 group-title="电视直播D",浙江卫视4k
+http://198.204.228.26/live/zjws4k.m3u8
 
 
 
@@ -3194,216 +3446,6 @@ http://107.150.60.122/live/xzws.m3u8
 http://107.150.60.122/live/nfws.m3u8
 #EXTINF:-1 group-title="🔥[电信]央卫视直播" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" epg-url="https://123.tv1288.xyz/2026.xml",广东体育
 http://107.150.60.122/live/gdty.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv1&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://111.29.9.35:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV1
-http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV2
-http://111.29.9.34:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV3
-http://111.29.9.38:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV4
-http://111.29.9.40:6610/000000001000/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5
-https://live12.xiazhix1.top/live/38260737.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5+
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5+
-http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV7
-http://111.29.9.40:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV9
-http://111.29.9.33:6610/000000001000/1000000001000028286/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=yu&mode=1&$6M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV10
-http://111.29.9.38:6610/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV11
-http://111.29.9.37:6610/000000001000/1000000002000019789/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV12
-http://111.29.9.39:6610/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV13
-http://111.29.9.35:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000000172&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV14
-http://111.29.9.36:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV15
-http://111.29.9.36:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV风云足球" tvg-logo="https://epg.112114.xyz/logo/CCTV风云足球.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV风云足球
-http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CCTV风云足球" tvg-logo="https://epg.112114.xyz/logo/CCTV风云足球.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV风云足球
-https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=4810873738577663591&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN阿语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN阿语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN阿语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN阿语
-https://0472.org/hls/cgtna.m3u8?3.24.160:5140
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN阿语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN西语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN法语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN法语
-http://zqh2333.top:2222/rtp/239.93.55.50:5140
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN俄语
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN俄语
-https://0472.org/hls/cgtne.m3u8?3.24.170:5140
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN记录" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN记录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN记录" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN记录
-https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
-#EXTINF:-1 group-title="🔥[移动]央卫视直播" tvg-name="CGTN记录" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png" epg-url="https://123.tv1288.xyz/2026.xml",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
 
 
 #EXTINF:-1 group-title="山西",山西卫视
@@ -4231,245 +4273,5 @@ http://1.197.203.33:85/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="http://fnnas.742690.xyz:8099/logo/河北少儿科教.png" group-title="动画频道",河北少儿科教
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
 
-#EXTM3U
-#EXTINF:-1 group-title="酒店源",珠江台标清
-http://36.136.11.230:11888/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",牛戏剧场
-http://36.136.11.230:11888/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",玉林综合 高清
-http://36.136.11.230:11888/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",北流台
-http://36.136.11.230:11888/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",容县台 高清
-http://36.136.11.230:11888/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",玉林公共 高清
-http://36.136.11.230:11888/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广西综艺 高清
-http://36.136.11.230:11888/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广西影视 高清
-http://36.136.11.230:11888/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广西新闻 高清
-http://36.136.11.230:11888/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广西都市 高清
-http://36.136.11.230:11888/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广西卫视 高清
-http://36.136.11.230:11888/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV1-综合 高清
-http://36.136.11.230:11888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV2-财经 高清
-http://36.136.11.230:11888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV3-综艺 高清
-http://36.136.11.230:11888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV4-国际 高清
-http://36.136.11.230:11888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV5-体育 高清
-http://36.136.11.230:11888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV6-电影 高清
-http://36.136.11.230:11888/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV7-军农 高清
-http://36.136.11.230:11888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV8-电视剧 高清
-http://36.136.11.230:11888/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV9-纪录 高清
-http://36.136.11.230:11888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV10-科教 高清
-http://36.136.11.230:11888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV11-戏曲 高清
-http://36.136.11.230:11888/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV12-社会与法 高清
-http://36.136.11.230:11888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV13-新闻 高清
-http://36.136.11.230:11888/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV14-少儿 高清
-http://36.136.11.230:11888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV15-音乐 高清
-http://36.136.11.230:11888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV-16 高清
-http://36.136.11.230:11888/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV-17 高清
-http://36.136.11.230:11888/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",CCTV5+ 高清
-http://36.136.11.230:11888/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",爱上4K电影
-http://36.136.11.230:11888/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",家庭影院 高清
-http://36.136.11.230:11888/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",动作电影 高清
-http://36.136.11.230:11888/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",高清电影
-http://36.136.11.230:11888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",中国教育一套 高清
-http://36.136.11.230:11888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",湖南卫视 高清
-http://36.136.11.230:11888/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",金鹰纪实 高清
-http://36.136.11.230:11888/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",深圳卫视 高清
-http://36.136.11.230:11888/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",北京卫视 高清
-http://36.136.11.230:11888/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广东卫视 高清
-http://36.136.11.230:11888/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",浙江卫视 高清
-http://36.136.11.230:11888/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",湖北卫视 高清
-http://36.136.11.230:11888/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",河北卫视 高清
-http://36.136.11.230:11888/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",天津卫视 高清
-http://36.136.11.230:11888/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",黑龙江卫视 高清
-http://36.136.11.230:11888/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",山东卫视 高清
-http://36.136.11.230:11888/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",江西卫视 高清
-http://36.136.11.230:11888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",安徽卫视 高清
-http://36.136.11.230:11888/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",辽宁卫视 高清
-http://36.136.11.230:11888/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",贵州卫视 高清
-http://36.136.11.230:11888/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",东南卫视 高清
-http://36.136.11.230:11888/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",高清新视觉
-http://36.136.11.230:11888/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",天映经典 高清
-http://36.136.11.230:11888/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",音乐荟萃
-http://36.136.11.230:11888/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",凤凰资讯 高清
-http://36.136.11.230:11888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",凤凰卫视 高清
-http://36.136.11.230:11888/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",凤凰香港 高清
-http://36.136.11.230:11888/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",中国音乐
-http://36.136.11.230:11888/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",经典电影
-http://36.136.11.230:11888/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",中国电影
-http://36.136.11.230:11888/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广州台
-http://36.136.11.230:11888/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广东影视
-http://36.136.11.230:11888/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广东公共
-http://36.136.11.230:11888/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广东新闻
-http://36.136.11.230:11888/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广东体育
-http://36.136.11.230:11888/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",优漫卡通
-http://36.136.11.230:11888/tsfile/live/1120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",中国气象
-http://36.136.11.230:11888/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",宁夏卫视
-http://36.136.11.230:11888/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",新疆少儿
-http://36.136.11.230:11888/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",新疆卫视
-http://36.136.11.230:11888/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",延边卫视
-http://36.136.11.230:11888/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",吉林卫视
-http://36.136.11.230:11888/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",兵团卫视
-http://36.136.11.230:11888/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",大湾区卫视
-http://36.136.11.230:11888/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",旅游卫视
-http://36.136.11.230:11888/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",嘉佳卡通
-http://36.136.11.230:11888/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",内蒙古卫视
-http://36.136.11.230:11888/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",炫动卡通
-http://36.136.11.230:11888/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",金鹰卡通
-http://36.136.11.230:11888/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",青海卫视
-http://36.136.11.230:11888/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",陕西卫视
-http://36.136.11.230:11888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",重庆卫视
-http://36.136.11.230:11888/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",山东教育
-http://36.136.11.230:11888/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",卡酷少儿
-http://36.136.11.230:11888/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",甘肃卫视
-http://36.136.11.230:11888/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",四川卫视
-http://36.136.11.230:11888/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",山西卫视
-http://36.136.11.230:11888/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",本港台
-http://36.136.11.230:11888/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广西卫视编码
-http://36.136.11.230:11888/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",家庭影院
-http://36.136.11.230:11888/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",南宁公共 高清
-http://36.136.11.230:11888/tsfile/live/1125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",南宁影视 高清
-http://36.136.11.230:11888/tsfile/live/1126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",南宁生活 高清
-http://36.136.11.230:11888/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",央视新闻回放
-http://36.136.11.230:11888/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广西新闻回放
-http://36.136.11.230:11888/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广东科教
-http://36.136.11.230:11888/tsfile/live/1135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",广东少儿
-http://36.136.11.230:11888/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",岭南戏曲
-http://36.136.11.230:11888/tsfile/live/1137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",重温经典 高清
-http://36.136.11.230:11888/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",有线电视娱乐高清
-http://36.136.11.230:11888/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="酒店源",珠江台
-http://36.136.11.230:11888/tsfile/live/1138_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-#EXTINF:-1 group-title="华视网关",CCTV-1
-http://116.1.148.123:9901/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-2
-http://116.1.148.123:9901/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-3
-http://116.1.148.123:9901/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-4
-http://116.1.148.123:9901/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-5
-http://116.1.148.123:9901/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-5+
-http://116.1.148.123:9901/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-6
-http://116.1.148.123:9901/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-7
-http://116.1.148.123:9901/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-8
-http://116.1.148.123:9901/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-9
-http://116.1.148.123:9901/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-10
-http://116.1.148.123:9901/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-11
-http://116.1.148.123:9901/newlive/live/hls/11/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-12
-http://116.1.148.123:9901/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-14
-http://116.1.148.123:9901/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-15
-http://116.1.148.123:9901/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 group-title="华视网关",CCTV-17
-http://116.1.148.123:9901/newlive/live/hls/16/live.m3u8
-
-
-
-#EXTINF:-1 group-title="音乐欣赏",随机点歌1
-https://2025.xn--jfx065ba424q.top/1.m3u8
 
