@@ -12,7 +12,7 @@ window.CATEGORY_DATA = {
       "actor": "",
       "director": "",
       "content": "",
-      "detailUrl": "http://www.madouse.la/index.php/vod/play/id/608053/sid/1/nid/1.html",
+      "detailUrl": "",
       "page": 1,
       "sources": [
         {
@@ -35,7 +35,7 @@ window.CATEGORY_DATA = {
       "actor": "",
       "director": "",
       "content": "",
-      "detailUrl": "http://www.madouse.la/index.php/vod/play/id/608054/sid/1/nid/1.html",
+      "detailUrl": "",
       "page": 1,
       "sources": [
         {
@@ -58,7 +58,7 @@ window.CATEGORY_DATA = {
       "actor": "",
       "director": "",
       "content": "",
-      "detailUrl": "http://www.madouse.la/index.php/vod/play/id/608055/sid/1/nid/1.html",
+      "detailUrl": "",
       "page": 1,
       "sources": [
         {
@@ -81,7 +81,7 @@ window.CATEGORY_DATA = {
       "actor": "",
       "director": "",
       "content": "",
-      "detailUrl": "http://www.madouse.la/index.php/vod/play/id/608057/sid/1/nid/1.html",
+      "detailUrl": "",
       "page": 1,
       "sources": [
         {
@@ -104,7 +104,7 @@ window.CATEGORY_DATA = {
       "actor": "",
       "director": "",
       "content": "",
-      "detailUrl": "http://www.madouse.la/index.php/vod/play/id/399899/sid/1/nid/1.html",
+      "detailUrl": "",
       "page": 36,
       "sources": [
         {
