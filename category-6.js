@@ -26,10 +26,5 @@ window.CATEGORY_DATA = {
         }
       ]
     }
-    
-          ]
-        }
-      ]
-    }
   ]
 };
