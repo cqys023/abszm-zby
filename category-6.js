@@ -20,7 +20,7 @@ window.CATEGORY_DATA = {
           "episodes": [
             {
               "name": "正片",
-              "url": "http://hsm3.hwzcfz.com/a3/20261021/YCGQ0zdg/index.m3u8"
+              "url": "https://live.wcetv.com/hls/m3u8/ttvnews.m3u8"
             }
           ]
         }
