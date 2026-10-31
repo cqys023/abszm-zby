@@ -74,7 +74,7 @@ http://xymm.1000s.dpdns.org:8767/cctv1.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="电视2",CCTV-1
-http://z.d4p.cn:8000/rtp/239.49.8.74:8000
+http://60.30.67.44:8834/rtp/225.1.1.158:5002
 #EXTINF:-1 group-title="电视2",CCTV-2
 http://47.100.209.208:8767/cctv2.m3u8
 
