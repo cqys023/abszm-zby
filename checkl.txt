@@ -1,1 +1,14 @@
-123
+#EXTM3U
+#EXTINF:-1 group-title="电视直播D",CCTV-1HD
+http://xymm.1000s.dpdns.org:8767/cctv1.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-2HD
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-3HD
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-4HD
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-5HD
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-6HD
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="电视直播D",CCTV-7HD
