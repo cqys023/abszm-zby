@@ -74,7 +74,11 @@ http://xymm.1000s.dpdns.org:8767/cctv1.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="电视2",CCTV-1
-http://60.30.67.44:8834/rtp/225.1.1.158:5002
+http://ds3622.guangyuan.site:8188/rtp/239.77.0.86:5146
 #EXTINF:-1 group-title="电视2",CCTV-2
-http://51.75.118.151:20299/cctv1.m3u8
+http://47.100.209.208:8767/cctv1.m3u8
+#EXTINF:-1 group-title="电视2",CCTV-3
+http://27.223.110.214:8009/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="电视2",CCTV-4
+http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.86:5146
 
