@@ -70,6 +70,92 @@ http://51.75.118.151:20299/scws.m3u8
 http://51.75.118.151:20299/ynws.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.404003.xyz/LOGO/CCTV-1.png" group-title="转播",CCTV-1
+http://nas.sphinger.cn:11012/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.404003.xyz/LOGO/CCTV-2.png" group-title="转播",CCTV-2
+http://nas.sphinger.cn:11012/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.404003.xyz/LOGO/CCTV-3.png" group-title="转播",CCTV-3
+http://nas.sphinger.cn:11012/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://live.404003.xyz/LOGO/CCTV-4.png" group-title="转播",CCTV-4
+http://nas.sphinger.cn:11012/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.404003.xyz/LOGO/CCTV-5.png" group-title="转播",CCTV-5
+http://nas.sphinger.cn:11012/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV-5+.png" group-title="转播",CCTV-5+
+http://nas.sphinger.cn:11012/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.404003.xyz/LOGO/CCTV-6.png" group-title="转播",CCTV-6
+http://nas.sphinger.cn:11012/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://live.404003.xyz/LOGO/CCTV-7.png" group-title="转播",CCTV-7
+http://nas.sphinger.cn:11012/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.404003.xyz/LOGO/CCTV-8.png" group-title="转播",CCTV-8
+http://nas.sphinger.cn:11012/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://live.404003.xyz/LOGO/CCTV-9.png" group-title="转播",CCTV-9
+http://nas.sphinger.cn:11012/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://live.404003.xyz/LOGO/CCTV-10.png" group-title="转播",CCTV-10
+http://nas.sphinger.cn:11012/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://live.404003.xyz/LOGO/CCTV-11.png" group-title="转播",CCTV-11
+http://nas.sphinger.cn:11012/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://live.404003.xyz/LOGO/CCTV-12.png" group-title="转播",CCTV-12
+http://nas.sphinger.cn:11012/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://live.404003.xyz/LOGO/CCTV-13.png" group-title="转播",CCTV-13
+http://nas.sphinger.cn:11012/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://live.404003.xyz/LOGO/CCTV-14.png" group-title="转播",CCTV-14
+http://nas.sphinger.cn:11012/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.404003.xyz/LOGO/CCTV-15.png" group-title="转播",CCTV-15
+http://nas.sphinger.cn:11012/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://live.404003.xyz/LOGO/CCTV-16.png" group-title="转播",CCTV-16
+http://nas.sphinger.cn:11012/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://live.404003.xyz/LOGO/CCTV-17.png" group-title="转播",CCTV-17
+http://nas.sphinger.cn:11012/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视.png" group-title="转播",湖南卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.112:3002
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视.png" group-title="转播",湖南卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="转播",北京卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.139:8001
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="转播",北京卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.404003.xyz/LOGO/湖北卫视.png" group-title="转播",湖北卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.138:8044
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.404003.xyz/LOGO/黑龙江卫视.png" group-title="转播",黑龙江卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.133:8016
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.404003.xyz/LOGO/安徽卫视.png" group-title="转播",安徽卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.211:8064
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.404003.xyz/LOGO/重庆卫视.png" group-title="转播",重庆卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.122:8160
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.404003.xyz/LOGO/东南卫视.png" group-title="转播",东南卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视.png" group-title="转播",东方卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.119:3006
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视.png" group-title="转播",东方卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.136:8032
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视.png" group-title="转播",广东卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.142:8048
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.404003.xyz/LOGO/贵州卫视.png" group-title="转播",贵州卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.149:8076
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.404003.xyz/LOGO/河北卫视.png" group-title="转播",河北卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.148:8072
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.404003.xyz/LOGO/吉林卫视.png" group-title="转播",吉林卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.404003.xyz/LOGO/江西卫视.png" group-title="转播",江西卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.123:8164
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视.png" group-title="转播",江苏卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.135:8028
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.404003.xyz/LOGO/辽宁卫视.png" group-title="转播",辽宁卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.210:8056
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.404003.xyz/LOGO/山东卫视.png" group-title="转播",山东卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.209:8052
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.404003.xyz/LOGO/深圳卫视.png" group-title="转播",深圳卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.134:8020
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.404003.xyz/LOGO/天津卫视.png" group-title="转播",天津卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.141:1234
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.404003.xyz/LOGO/四川卫视.png" group-title="转播",四川卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.131:3001
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视.png" group-title="转播",浙江卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.114:3004
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视.png" group-title="转播",浙江卫视
+http://nas.sphinger.cn:11012/rtp/239.3.1.137:8036
+
+#EXTM3U
 #EXTINF:-1 group-title="港澳台2",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="港澳台2",中视
