@@ -2,6 +2,74 @@
 #EXTINF:-1 group-title="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://123.tv1288.xyz/2026.xml",CCTV5+
 http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.404003.xyz/LOGO/CCTV-1.png" group-title="高清",CCTV-1
+http://51.75.118.151:20299/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.404003.xyz/LOGO/CCTV-2.png" group-title="高清",CCTV-2
+http://51.75.118.151:20299/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.404003.xyz/LOGO/CCTV-3.png" group-title="高清",CCTV-3
+http://51.75.118.151:20299/cctv3.m3u8
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://live.404003.xyz/LOGO/CCTV-4.png" group-title="高清",CCTV-4
+http://51.75.118.151:20299/cctv4.m3u8
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.404003.xyz/LOGO/CCTV-5.png" group-title="高清",CCTV-5
+http://51.75.118.151:20299/cctv5.m3u8
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV-5+.png" group-title="高清",CCTV-5+
+http://51.75.118.151:20299/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.404003.xyz/LOGO/CCTV-6.png" group-title="高清",CCTV-6
+http://51.75.118.151:20299/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://live.404003.xyz/LOGO/CCTV-7.png" group-title="高清",CCTV-7
+http://51.75.118.151:20299/cctv7.m3u8
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.404003.xyz/LOGO/CCTV-8.png" group-title="高清",CCTV-8
+http://51.75.118.151:20299/cctv8.m3u8
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://live.404003.xyz/LOGO/CCTV-9.png" group-title="高清",CCTV-9
+http://51.75.118.151:20299/cctv9.m3u8
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://live.404003.xyz/LOGO/CCTV-10.png" group-title="高清",CCTV-10
+http://51.75.118.151:20299/cctv10.m3u8
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://live.404003.xyz/LOGO/CCTV-11.png" group-title="高清",CCTV-11
+http://51.75.118.151:20299/cctv11.m3u8
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://live.404003.xyz/LOGO/CCTV-12.png" group-title="高清",CCTV-12
+http://51.75.118.151:20299/cctv12.m3u8
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://live.404003.xyz/LOGO/CCTV-13.png" group-title="高清",CCTV-13
+http://51.75.118.151:20299/cctv13.m3u8
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://live.404003.xyz/LOGO/CCTV-14.png" group-title="高清",CCTV-14
+http://51.75.118.151:20299/cctv14.m3u8
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.404003.xyz/LOGO/CCTV-15.png" group-title="高清",CCTV-15
+http://51.75.118.151:20299/cctv15.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视.png" group-title="高清",湖南卫视
+http://51.75.118.151:20299/hnws.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="高清",北京卫视
+http://51.75.118.151:20299/bjws.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.404003.xyz/LOGO/湖北卫视.png" group-title="高清",湖北卫视
+http://51.75.118.151:20299/hbws.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.404003.xyz/LOGO/黑龙江卫视.png" group-title="高清",黑龙江卫视
+http://51.75.118.151:20299/hljws.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.404003.xyz/LOGO/安徽卫视.png" group-title="高清",安徽卫视
+http://51.75.118.151:20299/ahws.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.404003.xyz/LOGO/重庆卫视.png" group-title="高清",重庆卫视
+http://51.75.118.151:20299/cqws.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.404003.xyz/LOGO/东南卫视.png" group-title="高清",东南卫视
+http://51.75.118.151:20299/dnws.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.404003.xyz/LOGO/广西卫视.png" group-title="高清",广西卫视
+http://51.75.118.151:20299/gxws.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.404003.xyz/LOGO/贵州卫视.png" group-title="高清",贵州卫视
+http://51.75.118.151:20299/gzws.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.404003.xyz/LOGO/河北卫视.png" group-title="高清",河北卫视
+http://51.75.118.151:20299/hews.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.404003.xyz/LOGO/河南卫视.png" group-title="高清",河南卫视
+http://51.75.118.151:20299/haws.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.404003.xyz/LOGO/江西卫视.png" group-title="高清",江西卫视
+http://51.75.118.151:20299/jxws.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.404003.xyz/LOGO/辽宁卫视.png" group-title="高清",辽宁卫视
+http://51.75.118.151:20299/lnws.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.404003.xyz/LOGO/山东卫视.png" group-title="高清",山东卫视
+http://51.75.118.151:20299/sdws.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.404003.xyz/LOGO/陕西卫视.png" group-title="高清",陕西卫视
+http://51.75.118.151:20299/snws.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.404003.xyz/LOGO/四川卫视.png" group-title="高清",四川卫视
+http://51.75.118.151:20299/scws.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.404003.xyz/LOGO/云南卫视.png" group-title="高清",云南卫视
+http://51.75.118.151:20299/ynws.m3u8
+
+#EXTM3U
 #EXTINF:-1 group-title="港澳台2",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="港澳台2",中视
@@ -892,44 +960,6 @@ http://111.61.208.131:9019/hls/1/index.m3u8
 http://183.129.255.66:8480/hls/1/index.m3u8
 #EXTINF:-1 group-title="测试" tvg-name="CCTV1测试" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1测试
 https://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-
-
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv1
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV2
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv2
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV3
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv3
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV4
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv4
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV5
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv5
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV6
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv6
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV7
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv7
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV8
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv8
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV9
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv9
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV10
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv10
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV11
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv11
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV12
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv12
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV13
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv13
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV14
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv14
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV15
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv15
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV16
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv16
-#EXTINF:-1 group-title="咪咕测试" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV17
-https://docker.digital8.top/html/iptv/BACK.php?access_token=2026V4_M3U&id=cctv17
-
-
 
 
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.404003.xyz/LOGO/CCTV-1.png" group-title="测试2",CCTV-1
