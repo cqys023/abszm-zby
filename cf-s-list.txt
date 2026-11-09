@@ -6,31 +6,15 @@ hysteria2://58622e27-10a6-4373-9aac-5fac15540d6f@193.123.35.235:11539/?sni=www.b
 hysteria2://58622e27-10a6-4373-9aac-5fac15540d6f@nl1.1card.cc:11539/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN2
 hysteria2://58622e27-10a6-4373-9aac-5fac15540d6f@nl1.deeprush.ai:11539/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN3
 hysteria2://58622e27-10a6-4373-9aac-5fac15540d6f@[2603:c022:c00a:1400:0:7753:b0f2:b44b]:11539/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN6
-vless://2bebc74c-daac-4c40-9928-ab2f72dce384@cf.877774.xyz:443?encryption=none&security=tls&sni=vercel.feifanlib.shop&fp=chrome&type=ws&host=vercel.feifanlib.shop&path=%2F2bebc74c#Vercel-SG-Amazon.com
-vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.147:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-08
-vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.133:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-06
-vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@cf.877774.xyz:443?encryption=none&security=tls&sni=cfnew.feifanlib.shop&fp=randomized&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#cfnew电信
-vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@101.33.80.58:8443?encryption=none&security=tls&sni=cfnew.feifanlib.shop&fp=randomized&allowInsecure=1&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#cfnew-KR1
-vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@168.107.17.234:8443?encryption=none&security=tls&sni=cfnew.feifanlib.shop&fp=randomized&allowInsecure=1&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#cfnew-KR2
-vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@saas.sin.fan:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.shop&path=%2F%3Fed%3D2048#%E7%94%B5%E4%BF%A1saas
-vless://0a7b1ff2-d75e-4bdb-95c9-cfbb3461b1da@172.64.52.212:443?encryption=none&security=tls&sni=el.feifan.de5.net&fp=random&type=ws&host=el.feifan.de5.net&path=%2F%3Fed%3D2560#W1
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@220.128.110.108:43?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#TW
-vless://e883ddd8-4011-4fac-9971-1ac3671475b8@220.128.110.108:43?encryption=none&security=tls&sni=shdows.feifanlib.fun&fp=firefox&allowInsecure=1&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560#TW-2
-trojan://47cf6025-e1ed-46f0-950a-e72b7036cf5b@162.159.58.20:443?security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-Trojan-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.37.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.38.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.40.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.41.46:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.42.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.43.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.44.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.45.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.46.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.47.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.39.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.18.35.4:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@172.64.152.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
-vless://47cf6025-e1ed-46f0-950a-e72b7036cf5b@104.17.144.0:443?encryption=none&security=tls&sni=dw.feifanlib.fun&fp=chrome&allowInsecure=1&type=ws&host=dw.feifanlib.fun&path=%2F#US-443-WS-TLS
+vless://2bebc74c-daac-4c40-9928-ab2f72dce384@cf.877774.xyz:443?encryption=none&security=tls&sni=vercel.feifanlib.com&fp=chrome&type=ws&host=vercel.feifanlib.com&path=%2F2bebc74c#Vercel-SG-Amazon.com
+vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.147:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.com&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-08
+vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@104.16.242.133:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.com&path=%2F%3Fed%3D2048#%E7%A7%BB%E5%8A%A8-HKG-06
+vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@cf.877774.xyz:443?encryption=none&security=tls&sni=cfnew.feifanlib.com&fp=randomized&type=ws&host=cfnew.feifanlib.com&path=%2F%3Fed%3D2048#cfnew电信
+vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@101.33.80.58:8443?encryption=none&security=tls&sni=cfnew.feifanlib.com&fp=randomized&allowInsecure=1&type=ws&host=cfnew.feifanlib.com&path=%2F%3Fed%3D2048#cfnew-KR1
+vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@168.107.17.234:8443?encryption=none&security=tls&sni=cfnew.feifanlib.com&fp=randomized&allowInsecure=1&type=ws&host=cfnew.feifanlib.com&path=%2F%3Fed%3D2048#cfnew-KR2
+vless://bfc58812-3a7a-43e8-b2f3-0b94bb862c02@saas.sin.fan:80?encryption=none&security=none&type=ws&host=cfnew.feifanlib.com&path=%2F%3Fed%3D2048#%E7%94%B5%E4%BF%A1saas
+
+
 
 
 
