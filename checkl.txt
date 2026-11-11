@@ -1,74 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="mytv",CCTV-1
-http://xymm.1000s.dpdns.org:8767/cctv1.m3u8
+http://175.169.113.102:1234/608807420
 #EXTINF:-1 group-title="mytv",CCTV-2
 http://xymm.1000s.dpdns.org:8767/cctv2.m3u8
 #EXTINF:-1 group-title="mytv",CCTV-3
-http://xymm.1000s.dpdns.org:8767/cctv3.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-4
-http://xymm.1000s.dpdns.org:8767/cctv4.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-5
-http://xymm.1000s.dpdns.org:8767/cctv5.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-6
-http://xymm.1000s.dpdns.org:8767/cctv6.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-7
-http://xymm.1000s.dpdns.org:8767/cctv7.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-8
-http://xymm.1000s.dpdns.org:8767/cctv8.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-9
-http://xymm.1000s.dpdns.org:8767/cctv9.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-10
-http://xymm.1000s.dpdns.org:8767/cctv10.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-13
-http://xymm.1000s.dpdns.org:8767/cctv13.m3u8
-#EXTINF:-1 group-title="mytv",CCTV-5+
-http://xymm.1000s.dpdns.org:8767/cctv5p.m3u8
-#EXTINF:-1 group-title="mytv",安徽卫视
-http://xymm.1000s.dpdns.org:8767/ahws.m3u8
-#EXTINF:-1 group-title="mytv",北京卫视
-http://xymm.1000s.dpdns.org:8767/bjws.m3u8
-#EXTINF:-1 group-title="mytv",重庆卫视
-http://xymm.1000s.dpdns.org:8767/cqws.m3u8
-#EXTINF:-1 group-title="mytv",东方卫视
-http://xymm.1000s.dpdns.org:8767/dfws.m3u8
-#EXTINF:-1 group-title="mytv",东南卫视
-http://xymm.1000s.dpdns.org:8767/dnws.m3u8
-#EXTINF:-1 group-title="mytv",广西卫视
-http://xymm.1000s.dpdns.org:8767/gxws.m3u8
-#EXTINF:-1 group-title="mytv",贵州卫视
-http://xymm.1000s.dpdns.org:8767/gzws.m3u8
-#EXTINF:-1 group-title="mytv",海南卫视
-http://xymm.1000s.dpdns.org:8767/hainanws.m3u8
-#EXTINF:-1 group-title="mytv",河北卫视
-http://xymm.1000s.dpdns.org:8767/hebws.m3u8
-#EXTINF:-1 group-title="mytv",河南卫视
-http://xymm.1000s.dpdns.org:8767/henanws.m3u8
-#EXTINF:-1 group-title="mytv",黑龙江卫视
-http://xymm.1000s.dpdns.org:8767/hljws.m3u8
-#EXTINF:-1 group-title="mytv",湖北卫视
-http://xymm.1000s.dpdns.org:8767/hbws.m3u8
-#EXTINF:-1 group-title="mytv",湖南卫视
-http://xymm.1000s.dpdns.org:8767/hnws.m3u8
-#EXTINF:-1 group-title="mytv",江西卫视
-http://xymm.1000s.dpdns.org:8767/jxws.m3u8
-#EXTINF:-1 group-title="mytv",宁夏卫视
-http://xymm.1000s.dpdns.org:8767/nxws.m3u8
-#EXTINF:-1 group-title="mytv",青海卫视
-http://xymm.1000s.dpdns.org:8767/qhws.m3u8
-#EXTINF:-1 group-title="mytv",山东卫视
-http://xymm.1000s.dpdns.org:8767/sdws.m3u8
-#EXTINF:-1 group-title="mytv",陕西卫视
-http://xymm.1000s.dpdns.org:8767/saxws.m3u8
-#EXTINF:-1 group-title="mytv",天津卫视
-http://xymm.1000s.dpdns.org:8767/tjws.m3u8
-#EXTINF:-1 group-title="mytv",西藏卫视
-http://xymm.1000s.dpdns.org:8767/xizangws.m3u8
-#EXTINF:-1 group-title="mytv",云南卫视
-http://xymm.1000s.dpdns.org:8767/ynws.m3u8
-#EXTINF:-1 group-title="mytv",CETV-1教育
-http://xymm.1000s.dpdns.org:8767/cetv1.m3u8
-#EXTINF:-1 group-title="mytv",CGTN俄语
-http://xymm.1000s.dpdns.org:8767/cgtnru.m3u8
-#EXTINF:-1 group-title="mytv",2026-10-30 19:56:42
-http://xymm.1000s.dpdns.org:8767/cctv1.m3u8
-
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/index.m3u8?msisdn=b6d27a4d10383ec5365818610d871e3d&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261111075935&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=240e:36a:5157:1c00:1e41:859d:7c47:4d27&SecurityKey=20261111075935&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7be1d3146b7d4e8fe7f33b3e8951466e&sv=10004&ct=android
