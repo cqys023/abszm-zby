@@ -1,7 +1,5 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBhc3NwMSIsDQogICJhZGQiOiAiY2YuODc3Nzc0Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjNDI1N2NjZS1mNWJlLTQwOTctODYwNy1jN2NhYzMxYzk4ZDYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFtYmFzc2Fkb3ItY3VsdC1sZWdpc2xhdHVyZS1jc3QudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICJjNDI1N2NjZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInBhc3NwMiIsDQogICJhZGQiOiAiMjExLjExMC4yMDguMTE2IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImM0MjU3Y2NlLWY1YmUtNDA5Ny04NjA3LWM3Y2FjMzFjOThkNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYW1iYXNzYWRvci1jdWx0LWxlZ2lzbGF0dXJlLWNzdC50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogImM0MjU3Y2NlIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-hysteria2://4a26aed0-77ae-4f57-8758-ced6e8f859f4@23.82.99.187:30740/?sni=www.bing.com&alpn=h3&insecure=1#US1
-hysteria2://4a26aed0-77ae-4f57-8758-ced6e8f859f4@[2605:fe80:2b:106:1c00:7bff:fe00:394]:30740/?sni=www.bing.com&alpn=h3&insecure=1#US6
+hysteria2://3175bf99-254e-4761-be99-4d42f826d100@64.49.28.108:19702/?sni=www.bing.com&alpn=h3&insecure=1#US1
+hysteria2://3175bf99-254e-4761-be99-4d42f826d100@[2602:faa8:206:2cee::1]:19702/?sni=www.bing.com&alpn=h3&insecure=1#US6
 hysteria2://58622e27-10a6-4373-9aac-5fac15540d6f@193.123.35.235:11539/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN
 hysteria2://58622e27-10a6-4373-9aac-5fac15540d6f@nl1.1card.cc:11539/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN2
 hysteria2://58622e27-10a6-4373-9aac-5fac15540d6f@nl1.deeprush.ai:11539/?sni=www.bing.com&alpn=h3&insecure=1#hy2-HN3
